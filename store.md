@@ -1,4 +1,5 @@
 ---
+title: Store
 id: store
 intro:
   main: Store
