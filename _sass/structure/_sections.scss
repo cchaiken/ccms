@@ -309,8 +309,13 @@ section {
 }
 
 .newsletter-form {
-  max-width: 600px;
-  padding: 0 1em;
+  border: 1px solid #eeeeee;
+  max-width: 1200px;
+  padding: 1em;
+
+  @media (min-width: 1200px) {
+    border-radius: 10px;
+  }
 
   h2 {
     margin: 0;
