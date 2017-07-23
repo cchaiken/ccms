@@ -1,0 +1,33 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3410642, 2017-06-23T10:52:59-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: CenturyGothicStd-Bold by Monotype 
+ * URL: https://www.myfonts.com/fonts/mti/century-gothic/std-bold/
+ * Copyright: Copyright The Monotype Corporation. All rights reserved.
+ * Licensed pageviews: 250,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3410642
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/340ad2");
+  
+@font-face {
+  font-family: 'CenturyGothicStd-Bold';
+  src: url('../webfonts/340AD2_0_0.eot');
+  src: url('../webfonts/340AD2_0_0.eot?#iefix') format('embedded-opentype'),
+       url('../webfonts/340AD2_0_0.woff2') format('woff2'),
+       url('../webfonts/340AD2_0_0.woff') format('woff'),
+       url('../webfonts/340AD2_0_0.ttf') format('truetype');
+}

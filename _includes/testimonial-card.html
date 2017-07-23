@@ -1,0 +1,13 @@
+{% if include.testimonial %}
+<section class="testimonial">
+  <div class="testimonial-copy">
+    {% for line in include.testimonial.text %}
+    <p>{{ line }}</p>
+    {% endfor %}
+  </div>
+  <div class="testimonial-ident">
+    <img class="testimonial-avatar" src="{{ "uploads/" | append: include.testimonial.avatar | relative_url }}">
+    <p class="testimonial-author">{{ include.testimonial.name }}</p>
+  </div>
+</section>
+{% endif %}

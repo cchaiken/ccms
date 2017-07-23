@@ -1,0 +1,125 @@
+//
+//-- Header
+//
+
+.notice {
+  margin: 0 auto;
+  text-align: center;
+
+  a {
+    border-bottom: 1px dotted;
+    display: inline-block;
+    color: $c-secondary;
+    font-size: 14px; font-size: 0.875rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 1em 0 .2em;
+    text-decoration: none;
+    transition: letter-spacing .1s linear;
+
+    i { font-size: 120%; font-weight: bold; margin-left: .1em; }
+
+    &:hover { letter-spacing: 2px; }
+  }
+}
+.site-logo {
+  background: -webkit-linear-gradient($c-primary-light 20%, $c-primary);
+  background: linear-gradient($c-primary-light 20%, $c-primary);
+  box-shadow: 0 4px 6px -6px black;
+  margin: 1em 0 0;
+  padding-bottom: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.page-nav {
+  background-color: $c-primary-light;
+  margin: 0;
+  text-align: center;
+  ul {
+    font-size: 0;
+    line-height: 0;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 0 1rem;
+    text-align: justify;
+    &:first-child {
+      border-bottom: 1px solid lighten($c-secondary-light, 22%);
+    }
+  }
+  ul:after {
+    content: "";
+    width: 100%;
+    display: inline-block;
+    height: 0;
+    font-size: 0;
+    line-height: 0;
+    margin: 0; padding: 0;
+  }
+  @media (min-width: 580px) {
+    margin: 1.2em 0 1em;
+  }
+}
+
+.page-nav__li,
+.page-nav__li-secondary {
+  margin: 0; padding: 0;
+  display: inline;
+  text-align: center;
+}
+
+.page-nav__item {
+  border-bottom: 3px solid transparent;
+  display: inline-block;
+  color: $c-primary-text;
+  font-size: 12px; font-size: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-decoration: none;
+  transition: border-bottom 0.2s ease;
+  padding: 0.7em 0 0.4em;
+  position: relative;
+
+  .page-nav__li-secondary & {
+    color: #444;
+    font-size: 11px; font-size: 0.6875rem;
+    margin: .2em 0;
+  }
+  &:hover, &.active { border-bottom-color: $c-secondary; }
+
+  @include phone-land {
+    font-size: 13px; font-size: 0.8125rem;
+    .page-nav__li-secondary & {
+      font-size: 12px; font-size: .75rem;
+    }
+  }
+  @media (min-width: 580px) {
+    font-size: 14px; font-size: .875rem;
+    br { display: none; }
+    .page-nav__li-secondary & {
+      margin-top: .5em;
+    }
+  }
+  @media (min-width: 730px) {
+    font-size: 17px; font-size: 1.0625rem;
+    .page-nav__li-secondary & {
+      font-size: 13px; font-size: .8125rem;
+      margin-top: .5em;
+    }
+  }
+}
+
+#opacity {
+  background-color: $c-primary;
+  border: 1px solid $c-secondary;
+  color: $c-secondary;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $font-heading;
+  padding: .2em;
+  position: fixed; left: 0; top: 50%;
+  z-index: 20;
+}
+main.opacity-full { img { opacity: 1 !important; } }
+main.opacity-reduced { img { opacity: .95 !important; } }

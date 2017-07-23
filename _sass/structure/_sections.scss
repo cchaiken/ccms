@@ -1,0 +1,319 @@
+//
+//-- General sections
+//
+
+section {
+  margin: 3em auto 0;
+  @include tablet-land {
+    margin: 4em auto 0;
+  }
+}
+
+.hero {
+  margin: 0 auto;
+  max-width: 1200px;
+  position: relative;
+
+  img { @media (min-width: 1201px) { border-top-left-radius: 10px; border-top-right-radius: 10px; } }
+}
+
+.pattern {
+  background: url($pattern);
+  position: relative;
+  &::after {
+    background: rgba(255,255,255,.2);
+    content: '';
+    display: block;
+    position: absolute; top: 0; right: 0; bottom: 0; left: 0;
+    z-index: 0;
+  }
+  * {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.intro {
+  background-color: #EFEFEF;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 2em 1em;
+  text-align: center;
+
+  &.blog {
+    padding: 1em;
+  }
+
+  @media (min-width: 600px) {
+    padding: 2.5em 1em 2em;
+  }
+
+  &.plain {
+    background-color: inherit;
+    border-top: 1px solid $c-primary;
+    border-bottom: .1em solid $c-secondary-dark;
+    border-radius: 0;
+    font-size: 40px; font-size: 2.5rem;
+    max-width: 900px;
+    padding: .8em 0 .1em;
+    text-align: left;
+
+    @media (min-width: 800px) {
+      padding: 1.4em .4em .1em;
+    }
+    @media (min-width: 780px) {
+      h1 {
+        font-size: 59.2px; font-size: 3.7rem;
+      }
+    } 
+  }
+
+  &.pattern {
+    @media (min-width: 1201px) {
+      border: 1px solid $c-primary;
+      border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;
+    }
+  }
+  p {
+    font-size: 16px; font-size: 1rem; font-size: calc(1vw + .8em);
+    font-weight: bold;
+    margin: 0;
+    padding: .5em;
+    @media (min-width: 900px) { font-size: 21.8px; font-size: 1.3625rem; }
+  }
+  span { display: block; margin-top: .4em; }
+
+  & + p {
+    margin-top: 2em;
+    @include tablet-land {
+      margin-top: 3em;
+    }
+  }
+  & + p.post-date {
+    margin-top: 1em;
+    @include tablet-land {
+      margin-top: 2em;
+    }
+  }
+}
+
+.testimonial {
+  background: $c-primary;
+  padding: 1.5em 1em 2em;
+  text-align: center;
+}
+.testimonial-copy {
+  font-family: $font-body-secondary;
+  padding: 0 0 1em 0;
+  position: relative;
+  &::before {
+    color: $c-secondary;
+    content: '\201C';
+    font-family: Georgia, serif;
+    font-size: 6em;
+    line-height: 0;
+    position: absolute; top: 4px; left: 10px;
+  }
+}
+.testimonial-ident { margin-top: 1em; }
+.testimonial-avatar {
+  border-radius: 50%;
+  max-width: 110px;
+}
+@media (min-width: 600px) {
+  .testimonial {
+    background: linear-gradient(to right, $c-primary-light, $c-primary, $c-primary-light);
+    max-width: 800px;
+  }
+  .testimonial-copy,
+  .testimonial-ident {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .testimonial-copy { width: 75%; }
+  .testimonial-ident { width: 24%; }
+}
+
+.lessons {
+  background-color: darken(white, 1%);
+  max-width: 1200px;
+}
+.lesson {
+  padding: 3em 1em;
+  text-align: center;
+
+  & + & { margin: 0 auto; }
+  &.pattern .lesson-copy {
+    //background-color: white; background-color: rgba(255, 255, 255, .4);
+  }
+
+  @media (max-width: 599px) {
+    &:nth-child(even) img { margin-bottom: 2em; }
+  }
+  @media (min-width: 600px) {
+    .lesson-copy { text-align: right; }
+    &:nth-child(even) .lesson-copy { text-align: left; }
+  }
+}
+.swirl_pattern { background: url('../uploads/swirl_pattern.png'); }
+.lesson-title {
+  margin: 0 .5em 1em;
+  padding: 0;
+  @media (min-width: 600px) { margin: 0 0 1em; }
+}
+.lesson-blurb {
+  font-size: 120%;
+  margin: 0 1em 1.8em;
+  padding: 0;
+  @media (min-width: 600px) { margin: 0 0 1.8em; }
+}
+.lesson-cta {
+  background-color: $c-primary-light;
+  border: 1px solid $c-secondary;
+  border-radius: 30px;
+  color: $c-secondary;
+  display: inline-block;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 1em;
+  padding: .5em 1em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all .2s linear;
+
+  i { font-size: 150%; font-weight: bold; margin-left: .1em; }
+  &:hover { background-color: $c-secondary; color: $c-secondary-text; }
+}
+.lesson-copy, .lesson-image {
+  margin: auto;
+  max-width: 450px;
+  @media (min-width: 600px) {
+    display: inline-block;
+    vertical-align: top;
+    width: 48%;
+  }
+}
+.lesson-copy {
+  margin-bottom: 1.5em;
+  @media (min-width: 600px) {
+    margin-bottom: 0;
+    padding: 0 1em;
+  }
+}
+.lesson-image {
+  background-color: white;
+  border-radius: 6px;
+  img {
+    border: 1px solid $c-primary-dark;
+    border-radius: 6px;
+    box-shadow: 0 8px 4px -4px $c-primary-dark;
+  }
+}
+
+.eventbrite {
+  margin-top: 1em;
+  max-width: 730px;
+  padding: 0 1em;
+
+  iframe {
+    height: 330px;
+
+    @media (min-width: 512px) {
+      height: 306px;
+    }
+  }
+}
+
+.blog-excerpt {
+  border-top: 1px solid $c-primary;
+
+  header {
+    background-color: lighten($c-primary, 4%);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0 auto 1em;
+    max-width: 760px;
+    padding: .5em;
+  }
+
+  h2 {
+    font-size: 24px; font-size: 1.5rem;
+    line-height: 1.2;
+    margin: 0 0 .5em;
+
+    a {
+      color: $c-primary-text;
+      text-decoration: none;
+
+      &:hover {
+        background-color: lighten($c-secondary-light, 26%);
+        color: $c-secondary-dark;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .date, .more {
+    font-family: $font-body-secondary;
+    font-size: 16px;
+    font-style: italic;
+  }
+  .date {
+    padding: 0 1rem;
+  }
+  .more {
+    display: block;
+    margin-top: .5em;
+    padding: 0;
+    text-align: right;
+  }
+}
+.post-date {
+  font-family: $font-body-secondary;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+.post-nav {
+  font-size: 16px;
+  display: block;
+  margin: 1em auto 0;
+  max-width: 760px;
+  overflow: hidden;
+}
+.post-nav a,
+.post-nav span {
+  display: block;
+  float: left;
+  width: 50%;
+}
+.post-nav a {
+  color: $c-primary-text;
+  font-family: $font-body-secondary;
+  font-style: italic;
+  margin: 1em 0;
+  padding: .2em .4em;
+  text-decoration: none;
+  
+  &:hover {
+    background-color: lighten($c-secondary-light, 26%);
+    border-radius: 2px;
+    color: $c-secondary-dark;
+  }
+}
+
+.post-nav .next {
+  text-align: right;
+}
+
+.newsletter-form {
+  max-width: 600px;
+  padding: 0 1em;
+
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
+}

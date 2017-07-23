@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body{% if page.id == 'terms-and-conditions' %} class="legal"{% endif %}>
+  
+  {% include header.html %}
+
+  {% if page.hero %}
+  <section class="hero">
+    <img src="{{ "uploads/" | append: page.hero | relative_url }}">
+  </section>
+  {% endif %}
+
+  <main>
+  {% if page.intro.main or page.intro.sub %}
+  {% if page.intro.style == 'plain' %}
+    <section class="intro plain">
+  {% else %}
+    <section class="intro pattern">
+  {% endif %}
+      {% if page.id == 'home' %}<h2>{% else %}<h1>{% endif %}
+        {% if page.intro.main %}{{ page.intro.main }}{% endif %}
+        {% if page.intro.sub %}<span>{{ page.intro.sub }}</span>{% endif %}
+      {% if page.id == 'home' %}</h2>{% else %}</h1>{% endif %}
+    </section>
+  {% endif %}
+
+  {{ content }}
+
+  </main>
+
+  {% if page.newsletter %}
+  {% include newsletter-form.html %}
+  {% endif %}
+
+  {% include footer.html %}
+  
+</body>
+</html>
