@@ -310,9 +310,12 @@ section {
 
 .newsletter-form {
   border: 1px solid #eeeeee;
-  border-radius: 10px;
   max-width: 1200px;
   padding: 1em;
+
+  @media (min-width: 1200px) {
+    border-radius: 10px;
+  }
 
   h2 {
     margin: 0;
