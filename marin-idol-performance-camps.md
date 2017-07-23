@@ -1,5 +1,5 @@
 ---
-title: Marin Idol Spring &amp; Summer performance camps
+title: Marin Idol Performance Camps
 id: marin-idol-performance-camps
 hero: voice-banner-1.jpg
 intro:
