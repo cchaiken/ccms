@@ -1,4 +1,5 @@
 ---
+title: Resources
 id: resources
 intro:
   main: Resources
