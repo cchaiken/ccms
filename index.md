@@ -7,27 +7,33 @@ intro:
 newsletter: true
 testimonial:
   text:
-    - Creative expression is something we all need and Caylia Chaiken is a master of her art. Her music lessons provide not only the spark but the instruction to enhance your experience and enjoyment of music.
-    - Sign up now. You won’t be sorry.
+  - Creative expression is something we all need and Caylia Chaiken is a master of
+    her art. Her music lessons provide not only the spark but the instruction to enhance
+    your experience and enjoyment of music.
+  - Sign up now. You won’t be sorry.
   name: Sharon G.
-  avatar: testimonial-avatar.jpg 
+  avatar: testimonial-avatar.jpg
 lessons:
-  - heading: Voice Lessons
-    blurb: Open up and say "La!" with singing lessons that are tailored to your unique voice.
-    image: home-voice.jpg
-    link: voice-lessons
-  - heading: Piano Lessons
-    blurb: Learn to speak through your fingers with Mill Valley's most versatile Piano Teacher.
-    image: home-piano.jpg
-    link: piano-lessons
-  - heading: Performance Coaching
-    blurb: Supercharge your performance and public speaking powers with tools and techniques that work for you and your audience.
-    image: home-performance.jpg
-    link: performance-coaching
-  - heading: Marin Idol Performance Camps
-    blurb: Become the next Carrie Underwood at Marin County's best musical performance camp.
-    image: home-idol.jpg
-    link: marin-idol-performance-camps
+- heading: Voice Lessons
+  blurb: Open up and say "La!" with singing lessons that are tailored to your unique
+    voice.
+  image: home-voice.jpg
+  link: voice-lessons
+- heading: Piano Lessons
+  blurb: Learn to speak through your fingers with Mill Valley's most versatile Piano
+    Teacher.
+  image: home-piano.jpg
+  link: piano-lessons
+- heading: Performance Coaching
+  blurb: Supercharge your performance and public speaking powers with tools and techniques
+    that work for you and your audience.
+  image: home-performance.jpg
+  link: performance-coaching
+- heading: Marin Idol Performance Camps
+  blurb: Become the next Carrie Underwood at Marin County's best musical performance
+    camp.
+  image: home-idol.jpg
+  link: marin-idol-performance-camps
 ---
 
 **Curious to find the music inside you but don't know where to begin?**

@@ -1,5 +1,6 @@
 ---
 title: Playing music can build your confidence and be the ice breaker at any party!
+date: 2017-06-01 00:00:00 Z
 ---
 
 When I was five, my older sisters had a slumber party and I was too young to join them. From my room I heard their friends play "Heart and Soul" on our piano. The next morning I woke up and played the song by ear. It was the first song that I had ever played and was the defining moment that catapulted my music education and my love for piano playing. Soon I realized that playing "Heart and Soul" was a wonderful ice breaker at any party or camp where there was a piano.

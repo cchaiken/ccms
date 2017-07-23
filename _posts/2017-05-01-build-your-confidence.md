@@ -1,5 +1,6 @@
 ---
 title: Build your confidence! Improve your performance, capture your audience!
+date: 2017-05-01 00:00:00 Z
 ---
 
 Even if you don't want to sing professionally, learning how to free your voice can have all kinds of benefits. It can help you deal with stage fright, save you from losing your voice when you speak a lot, improve the tone in your speaking and singing voice, and help you to communicate with confidence. 

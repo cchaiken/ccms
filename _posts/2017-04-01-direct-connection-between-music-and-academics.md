@@ -1,5 +1,6 @@
 ---
 title: There is a direct connection between Music and the Academics!
+date: 2017-04-01 00:00:00 Z
 ---
 
 I remember being told that Music and Math were directly connected to each other and thinking, "yeah, right", but, then I also remembered hearing one of my parent's friends mention that her family lived in the apartment building across from Albert Einstein and that she recalled hearing him practice his violin, and that he was an accomplished musician! There was also Pythagoras who figured out the relationship between musical scales, satirist Tom Lehrer who was a mathematician, and Art Garfunkel who received his MA in Math. 

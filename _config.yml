@@ -1,7 +1,13 @@
 ---
 title: Caylia Chaiken Music Studio
-author: Caylia Chaiken
 timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -12,6 +18,7 @@ defaults:
     type: posts
   values:
     layout: post
+author: Caylia Chaiken
 locale: en
 title_separator: "-"
 name: Caylia Chaiken Music Studio

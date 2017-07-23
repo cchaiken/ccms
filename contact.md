@@ -1,6 +1,6 @@
 ---
-id: contact
 title: Contact
+id: contact
 intro:
   main: Contact
   style: plain

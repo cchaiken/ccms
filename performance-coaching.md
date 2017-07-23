@@ -1,6 +1,6 @@
 ---
-id: performance-coaching
 title: Mill Valley Performance Coaching
+id: performance-coaching
 hero: voice-banner-1.jpg
 intro:
   main: Win the room over with
@@ -8,11 +8,13 @@ intro:
 newsletter: true
 testimonial:
   text:
-    - I sang out - it was joyous and beautiful.  Honestly, I was a little shocked at how easy and natural it was. OMG  ☺  Caylia, you made the difference.  Thank you from the bottom of my heart.
+  - I sang out - it was joyous and beautiful.  Honestly, I was a little shocked at
+    how easy and natural it was. OMG  ☺  Caylia, you made the difference.  Thank you
+    from the bottom of my heart.
   name: Soleil, San Rafael
-  avatar: testimonial-avatar.jpg 
+  avatar: testimonial-avatar.jpg
 videos:
-  - AS3qFh42C4M
+- AS3qFh42C4M
 ---
 
 Need help presenting your ideas or work to large groups?

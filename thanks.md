@@ -1,6 +1,6 @@
 ---
-id: thanks
 title: Thanks for getting in touch
+id: thanks
 intro:
   main: Thanks...
   style: plain

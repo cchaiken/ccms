@@ -1,6 +1,6 @@
 ---
-id: piano-lessons
 title: Mill Valley Piano Lessons
+id: piano-lessons
 hero: piano-banner-1.jpg
 intro:
   main: Play a song in your first lesson!
@@ -8,15 +8,17 @@ intro:
 newsletter: true
 testimonial:
   text:
-    - In one year my children have learned over fifty songs!
-    - Caylia expertly engages my children in specific, age-appropriate programs tailored to their interests and abilities. She tunes in to the comments my children make to enhance their understanding and appreciation of music.
-    - I am so thankful that we were referred to Caylia for our music instruction.
+  - In one year my children have learned over fifty songs!
+  - Caylia expertly engages my children in specific, age-appropriate programs tailored
+    to their interests and abilities. She tunes in to the comments my children make
+    to enhance their understanding and appreciation of music.
+  - I am so thankful that we were referred to Caylia for our music instruction.
   name: Jamie, Tiburon
-  avatar: testimonial-avatar.jpg 
+  avatar: testimonial-avatar.jpg
 videos:
-  - U-3piFQpWVM
-  - UDAA66wbnmI
-  - inri2hi9miU
+- U-3piFQpWVM
+- UDAA66wbnmI
+- inri2hi9miU
 quote:
   text: There are eighty-eight keys on the piano and within that, an entire universe.
   cite: James Rhodes

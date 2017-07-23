@@ -1,6 +1,6 @@
 ---
-id: voice-lessons
 title: Mill Valley Voice Lessons
+id: voice-lessons
 hero: voice-banner-1.jpg
 intro:
   main: Open up and say Laaaaaah!
@@ -8,13 +8,15 @@ intro:
 newsletter: true
 testimonial:
   text:
-    - I came to Caylia after years of vocal training. She is a dream. With her guidance I was able to retrain my voice so that I sang in an organic way, allowing my body to simply click into place. I am thrilled to be learning from her.
+  - I came to Caylia after years of vocal training. She is a dream. With her guidance
+    I was able to retrain my voice so that I sang in an organic way, allowing my body
+    to simply click into place. I am thrilled to be learning from her.
   name: Emily, Kentfield
-  avatar: testimonial-avatar.jpg 
+  avatar: testimonial-avatar.jpg
 videos:
-  - -6gsLz96TmM
-  - GAYd-H8uUb0
-  - AS3qFh42C4M
+- "-6gsLz96TmM"
+- GAYd-H8uUb0
+- AS3qFh42C4M
 quote:
   text: The only thing better than singing is more singing.
   cite: Ella Fitzgerald

@@ -1,22 +1,26 @@
 ---
-id: marin-idol-performance-camps
 title: Marin Idol Spring &amp; Summer performance camps
+id: marin-idol-performance-camps
 hero: voice-banner-1.jpg
 intro:
-  main: Marin Idol Spring &amp; Summer performance camps 
+  main: Marin Idol Spring &amp; Summer performance camps
   sub: for Bay Area school students
 newsletter: true
 testimonials:
-  - name: Eden, San Rafael
-    avatar: testimonial-avatar.jpg 
-    text:
-    - Marin Idol was an extremely fun and interactive way to improve my singing skills. It had all the fun of being at a summer camp with the added bonus of learning amazing vocal techniques that I still use to this day. I highly recommend Marin Idol for singers of all ages.
-  - name: Trigg M.
-    avatar: testimonial-avatar.jpg 
-    text:
-    - Wow! Caylia was really magical in bringing my daughter’s inner performer to the stage. Caylia found the performer in my daughter. Go Caylia!
+- name: Eden, San Rafael
+  avatar: testimonial-avatar.jpg
+  text:
+  - Marin Idol was an extremely fun and interactive way to improve my singing skills.
+    It had all the fun of being at a summer camp with the added bonus of learning
+    amazing vocal techniques that I still use to this day. I highly recommend Marin
+    Idol for singers of all ages.
+- name: Trigg M.
+  avatar: testimonial-avatar.jpg
+  text:
+  - Wow! Caylia was really magical in bringing my daughter’s inner performer to the
+    stage. Caylia found the performer in my daughter. Go Caylia!
 videos:
-  - JDSYIUgooCU
+- JDSYIUgooCU
 ---
 
 Wanna feel like a star and shine under the spotlight?

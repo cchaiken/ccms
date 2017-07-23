@@ -1,6 +1,6 @@
 ---
-id: terms-and-conditions
 title: Terms and Conditions
+id: terms-and-conditions
 intro:
   main: Terms and Conditions
   style: plain

@@ -1,5 +1,7 @@
 ---
-title: Music is a catalyst that brings our emotions, feelings and sense of creativity to the forefront of our lives!
+title: Music is a catalyst that brings our emotions, feelings and sense of creativity
+  to the forefront of our lives!
+date: 2017-07-01 00:00:00 Z
 ---
 
 My first day at the San Francisco Conservatory of Music was as intimidating as it was exciting.  The Conservatory's Outreach Program, a program that sends musicians out to perform at local Convalescent Homes, hospitals and other service facilities, heard about my reputation as a Cabaret Singer, so they sent me out to perform classics from popular American music standards; show tunes and popular songs.

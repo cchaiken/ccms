@@ -1,6 +1,6 @@
 ---
-id: privacy-policy
 title: Privacy Policy
+id: privacy-policy
 intro:
   main: Privacy Policy
   style: plain
