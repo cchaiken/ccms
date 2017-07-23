@@ -1,4 +1,5 @@
 ---
+title: Mill Valley Music Lessons
 id: home
 hero: home-hero.jpg
 intro:
