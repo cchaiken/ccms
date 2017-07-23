@@ -1,0 +1,55 @@
+<header>
+  <div class="notice">
+    <a href="{{ '/contact/' | relative_url }}">Come in for your FREE Lesson<i>!</i></a>
+  </div>
+  <div class="site-logo">
+    {% if page.id == "home" %}
+    <h1><a href="{{ '/' | relative_url }}">Caylia Chaiken Music Studio</a></h1>
+    {% else %}
+    <p><a href="{{ '/' | relative_url }}">Caylia Chaiken Music Studio</a></p>
+    {% endif %}
+  </div>
+  <nav class="page-nav">
+    <ul>
+      <li class="page-nav__li">
+        <a class="page-nav__item{% if page.id == 'piano-lessons' %} active{% endif %}"
+          href="{{ '/piano-lessons/' | relative_url }}">Piano<br> Lessons</a>
+      </li>
+      <li class="page-nav__li">
+        <a class="page-nav__item{% if page.id == 'voice-lessons' %} active{% endif %}"
+           href="{{ '/voice-lessons/' | relative_url }}">Voice<br> Lessons</a>
+      </li>
+      <li class="page-nav__li">
+        <a class="page-nav__item{% if page.id == 'performance-coaching' %} active{% endif %}"
+           href="{{ '/performance-coaching/' | relative_url }}">Performance<br> Coaching</a>
+      </li>
+      <li class="page-nav__li">
+        <a class="page-nav__item{% if page.id == 'marin-idol-performance-camps' %} active{% endif %}"
+           href="{{ '/marin-idol-performance-camps/' | relative_url }}">Marin<br> Idol</a>
+      </li>
+    </ul>
+    <ul>
+      <li class="page-nav__li-secondary">
+        <a class="page-nav__item{% if page.id == 'about' %} active{% endif %}"
+           href="{{ '/about/' | relative_url }}">About</a>
+      </li>
+      <li class="page-nav__li-secondary">
+        <a class="page-nav__item{% if page.id == 'blog' %} active{% endif %}"
+          href="{{ '/blog/' | relative_url }}">Blog</a>
+      </li>
+      <li class="page-nav__li-secondary">
+        <a class="page-nav__item{% if page.id == 'store' %} active{% endif %}"
+            href="{{ '/store/' | relative_url }}">Store</a>
+      </li>
+      <li class="page-nav__li-secondary">
+        <a class="page-nav__item{% if page.id == 'testimonials' %} active{% endif %}"
+           href="{{ '/testimonials/' | relative_url }}">Testimonials</a>
+      </li>
+      <li class="page-nav__li-secondary">
+        <a class="page-nav__item{% if page.id == 'contact' %} active{% endif %}"
+           href="{{ '/contact/' | relative_url }}">Contact</a>
+      </li>
+    </ul>
+  </nav>
+</header>
+

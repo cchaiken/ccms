@@ -1,0 +1,25 @@
+<form class="ccms-formspree" id="ccms-formspree-form" method="post"
+      action="https://formspree.io/bobbymray@gmail.com">
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_subject" value="Enquiry about Caylia Chaiken Music Studio">
+  <input type="hidden" name="_next" value="{{ '/thanks/' | absolute_url }}" />
+
+  <label for="free-piano"><input id="free-piano" type="checkbox" name="free-piano" value="YES">
+    <span>Free Piano Lesson</span></label>
+  <label for="free-voice"><input id="free-voice" type="checkbox" name="free-voice" value="YES">
+    <span>Free Voice Lesson</span></label>
+
+  <label class="text-input" for="name">Name</label>
+  <input type="text" name="Name" id="name" required="">
+
+  <label class="text-input" for="email">Email</label>
+  <input type="email" name="Email" id="email" required="">
+
+  <label class="text-input" for="enquiry">What would you like to know?</label>
+  <textarea name="Enquiry" id="enquiry" rows="4" required=""></textarea>
+
+  <label for="mail-optin"><input id="mail-optin" type="checkbox" name="mail-optin" value="YES">
+    <span>Please add my email to your mailing list!</span></label>
+
+  <input type="submit" value="Send">
+</form>

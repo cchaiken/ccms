@@ -1,0 +1,71 @@
+//
+//-- Footer
+//
+
+footer {
+  background-color: $c-primary;
+  font-family: $font-body-secondary;
+  margin: 3em 0 0;
+  padding: 1em 16px 2em;
+  width: 100%;
+
+  .inner {
+    margin: auto;
+    max-width: 760px;
+
+    &::after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+  }
+
+  .social {
+    margin-top: .6em;
+  }
+
+  nav { margin-bottom: 1.2em; }
+
+  p {
+    font-size: 14px; font-size: .875rem;
+    margin: 1em 0;
+    padding: 0;
+  }
+
+  @media (min-width: 580px) {
+    nav { float: left; }
+    .contact { float: right; text-align: right; }
+    svg:last-child { margin: 0 0 0 .8em; }
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0 auto 1em;
+    padding: 0;
+    text-transform: uppercase;
+  }
+  li { margin: .3em 0; }
+  li a {
+    color: $c-primary-text;
+    font-size: 14px; font-size: 0.875rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: none;
+
+    &:hover {
+      color: $c-secondary;
+      text-decoration: underline;
+    }
+  }
+
+  svg {
+    fill: $c-secondary-dark;
+    height: 30px;
+    margin: 0 .8em 0 0;
+    width: 30px;
+
+    &:hover {
+      fill: $c-secondary-light;
+    }
+  }
+}

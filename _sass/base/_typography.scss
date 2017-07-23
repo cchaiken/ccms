@@ -1,0 +1,102 @@
+//
+//-- General Typography
+//
+
+//$font-body: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+$font-body: 'Libre Baskerville', serif;
+$font-body-secondary: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
+$font-heading: "CenturyGothicStd-Bold", #{$font-body};
+
+html, body {
+  background: $c-primary-light;
+  color: #111;
+}
+
+body, input, select, textarea, button {
+  font-family: Georgia, serif; //TODO build a better stack
+  font-size: 100%;
+}
+
+h1, h2, h3, .site-logo, .lede, .testimonial-author {
+  font-family: $font-heading; font-weight: normal; font-style: normal;
+  font-variant-ligatures: none;
+  letter-spacing: 1px;
+}
+h1, h2, h3 {
+  padding: 0 16px; padding: 0 1rem;
+  max-width: 760px;
+  @media (min-width: 800px) { padding: 0; }
+}
+h2 {
+  font-size: 32px; font-size: 2rem;
+  margin: 1.75em auto 1.25em;
+}
+h3 {
+  font-size: 24px; font-size: 1.5rem;
+  margin: 1.5em auto 1em;
+}
+.testimonial-author {
+  font-family: $font-body-secondary;
+  font-size: 16px; font-size: 1rem;
+  font-style: italic;
+  margin-top: 1em;
+}
+p, strong {
+  line-height: 1.6;
+}
+p, ol, ul {
+  font-size: 16px; font-size: 1rem; font-size: calc(1vw + .8em);
+  margin: auto;
+  max-width: 760px;
+  padding: 0 1em;
+  
+  & + p { margin-top: 1em; }
+  
+  @media (min-width: 720px) {
+    font-size: 20px; font-size: 1.25rem;
+  }
+}
+.page-nav {
+  font-family: $font-body-secondary;
+}
+.site-logo {
+  h1, p {
+    font-size: 18px; font-size: 1.125rem;
+    line-height: 1;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0;
+    @media (min-width: 400px) { font-size: calc(.6em + 4vw); } 
+    @media (min-width: 600px) { font-size: calc(.6em + 5vw); } 
+    @media (min-width: 1200px) { font-size: 69.6px; font-size: 4.35rem; } 
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}
+.intro {
+  h1, h2 {
+    color: $c-secondary-dark;
+    font-size: 18px; font-size: 1.125rem;
+    line-height: 1;
+    margin: 0;
+    max-width: 1200px;
+    @media (min-width: 400px) { font-size: calc(.7em + 3vw); } 
+    @media (min-width: 600px) { font-size: calc(.7em + 4vw); } 
+    @media (min-width: 1200px) { font-size: 59.2px; font-size: 3.7rem; } 
+  }
+  span {
+    font-size: 88%;
+    line-height: 1.1;
+    color: #111;
+  }
+
+  &.blog h1 {
+    color: $c-primary-text;
+    font-size: 2em;
+    margin: auto;
+    max-width: 800px;
+  }
+
+}

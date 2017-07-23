@@ -1,0 +1,29 @@
+---
+title: Caylia Chaiken Music Studio
+author: Caylia Chaiken
+timezone: UTC
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+locale: en
+title_separator: "-"
+name: Caylia Chaiken Music Studio
+description: Music lessons in Marin County
+url: 
+baseurl: 
+repository: avelingrayorg/ccms
+permalink: pretty
+paginate: 5
+paginate_path: "/blog/page:num/"
+gems:
+- jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from

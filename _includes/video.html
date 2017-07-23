@@ -1,0 +1,8 @@
+{% assign video-id = include.video | minus: 1 %}
+{% if page.videos[video-id] %}
+<section class="vid-wrap">
+  <div class="fluid-iframe">
+    <iframe src="https://www.youtube.com/embed/{{ page.videos[video-id] }}?rel=0&amp;amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</section>
+{% endif %}

@@ -1,0 +1,173 @@
+//
+// Top of the cascade, sort of
+//
+
+body {
+  -webkit-text-size-adjust: 100%;
+}
+
+main {
+  display: block;
+
+  header + & {
+    .intro {
+      border-radius: 10px;
+    }
+  }
+
+  p a {
+    color: $c-secondary;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(to right, currentColor 0%, currentColor 100%);
+    background-repeat: repeat-x;
+    background-position: bottom 0 center;
+    background-size: 100% 1px;
+    transition: all .3s ease;
+  
+    &:focus, &:hover {
+      outline: none;
+      background-color: lighten($c-secondary-light, 26%);
+      color: $c-secondary-dark;
+    }
+  }
+}
+
+ol, ul {
+  list-style-position: outside;
+  margin: 1em auto;
+  padding-left: 3em;
+}
+ol { list-style-type: decimal; }
+ul { list-style-type: disc; }
+li + li {
+  margin-top: .5em;
+}
+
+.legal ol { list-style-type: upper-alpha; }
+
+blockquote {
+  background-color: lighten($c-primary, 3%);
+  background: linear-gradient(to left, #FEFEFE, lighten($c-primary, 2%));
+  border-left: 4px solid $c-secondary;
+  font-size: 20px; font-size: 1.25rem;
+  max-width: 700px;
+  margin: 2em auto;
+  padding: .8em 1em;
+
+  cite {
+    display: block;
+    font-family: $font-body-secondary;
+    font-size: 90%;
+    font-weight: bold;
+    margin-top: .5em;
+  }
+}
+
+.vid-wrap {
+  margin: 2em auto;
+  max-width: 600px;
+}
+.bandcamp {
+  margin: auto;
+  max-width: 760px;
+  position: relative;
+}
+.fluid-iframe {
+  padding: 56.25% 0 0;
+  position: relative;
+  width: 100%;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.ccms-formspree,
+.ccms-newsletter {
+  font-size: 1em;
+  margin: 1em auto;
+  max-width: 760px;
+  overflow: hidden;
+  padding: 0 1em;
+  width: auto;
+
+  label {
+    display: block;
+    font-family: $font-body-secondary;
+    font-size: 20px;
+
+    &.text-input {
+      margin-top: 1em;
+    }
+
+    span {
+      position: relative;
+      top: 2px;
+      left: .2em;
+    }
+  }
+
+  input,
+  textarea {
+    background: #fafafa;
+    border: 1px solid #d1d1d1;
+    border-radius: 2px;
+    color: #686868;
+    font-family: $font-body-secondary;
+    margin: .5em 0;
+    padding: .5em;
+    width: 100%; max-width: 600px;
+  }
+  textarea {
+    margin-bottom: 1em;
+  }
+  [type="checkbox"] {
+    width: auto;
+  }
+  button,
+  [type="submit"] {
+    background-color: $c-secondary-dark;
+    background-image: -webkit-linear-gradient(hsla(0,0%,100%,0),hsla(0,0%,100%,0));
+    border: none;
+    color: $c-primary;
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 1em;
+    text-transform: uppercase;
+    width: 10rem;
+    &:hover {
+      background-color: $c-secondary-light;
+    }
+  }
+  p { padding: 0; }
+}
+.ccms-newsletter {
+  background-color: lighten($c-primary, 4%);
+  border: 6px solid $c-secondary-dark;
+  border-radius: 6px;
+  overflow: hidden;
+  padding: 1em;
+
+  [type="email"] {
+    border: 1px solid $c-secondary;
+  }
+}
+
+.address {
+  font-family: $font-body-secondary;
+  margin: 1.2em auto;
+  max-width: 720px;
+
+  span {
+    display: block;
+  }
+  span + span {
+    margin-top: .5em;
+  }
+}
