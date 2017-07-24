@@ -28,7 +28,7 @@ testimonials:
   - name: Kim W, Marin
     avatar: testimonial-avatar.jpg
     text:
-    - I really am enjoying singing in class with you– you’re such a wonderful, resourceful,
+    - I really am enjoying singing in class with you – you’re such a wonderful, resourceful,
       patient, positive teacher.  And really smart and talented, too!
   - name: Renee M, Mill Valley
     avatar: testimonial-avatar.jpg
@@ -40,8 +40,8 @@ testimonials:
     avatar: testimonial-avatar.jpg
     text:
     - |-
-      Caylia teaches with humor, perfection and persistence.\
-       \
+      Caylia teaches with humor, perfection and persistence.
+
       She doesn’t seem to force her style on her students but rather explores the natural potential and refines and develops it. Caylia’s passion for the music and her commitment to her students always shines through.
   - name: Danielle W, Mill Valley
     avatar: testimonial-avatar.jpg
