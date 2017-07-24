@@ -11,8 +11,8 @@ testimonial:
   - I came to Caylia after years of vocal training. She is a dream. With her guidance
     I was able to retrain my voice so that I sang in an organic way, allowing my body
     to simply click into place. I am thrilled to be learning from her.
-  name: Emily, Kentfield
-  avatar: testimonial-avatar.jpg
+  name: Emily H, Kentfield
+  avatar: avatar-emily-h.jpg
 videos:
 - "-6gsLz96TmM"
 - GAYd-H8uUb0
