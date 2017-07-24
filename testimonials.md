@@ -110,4 +110,4 @@ Here's what my students are saying about their music lessons.
 
 ## Try a free lesson!
 
-Why not find out for yourself? If you are interested in Voice or Piano lessons I offer free introductory lessons.
+Why not find out for yourself? If you are interested in Voice or Piano lessons I offer [free introductory lessons]({{ '/contact/' | relative_url }}).
