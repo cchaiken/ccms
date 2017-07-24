@@ -14,7 +14,7 @@ testimonial:
     to enhance their understanding and appreciation of music.
   - I am so thankful that we were referred to Caylia for our music instruction.
   name: Jamie, Tiburon
-  avatar: testimonial-avatar.jpg
+  avatar: avatar-none.jpg
 videos:
 - U-3piFQpWVM
 - UDAA66wbnmI
