@@ -8,13 +8,13 @@ newsletter: true
 testimonials:
   voice:
   - name: Emily H, Kentfield
-    avatar: testimonial-avatar.jpg
+    avatar: avatar-emily-h.jpg
     text:
     - I came to Caylia after years of vocal training. She is  a dream. She helped
       me to retrain my voice so that I sang in an organic way, allowing my body to
       simply click into place. I am thrilled to be learning from her.
   - name: Faryn V, Mill Valley
-    avatar: testimonial-avatar.jpg
+    avatar: "/uploads/avatar-faryn-v.jpg"
     text:
     - I am 9 years old and I take voice lessons from Caylia.
     - She is a wonderful teacher because she improves how you sing and then she improves
