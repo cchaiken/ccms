@@ -7,77 +7,148 @@ intro:
 newsletter: true
 testimonials:
   voice:
-  - name: Jane Voice
+  - name: Emily H, Kentfield
     avatar: testimonial-avatar.jpg
     text:
-    - Magnus es, domine, et laudabilis valde magna virtus tua, et sapientiae tuae
-      non est numerus. et laudare te vult homo, aliqua portio creaturae tuae, et homo
-      circumferens mortalitem suam, circumferens testimonium peccati sui et testimonium,
-      quia superbis resistis et tamen laudare te vult homo, aliqua portio creaturae
-      tuae.
-  - name: John Voice
+    - I came to Caylia after years of vocal training. She is  a dream. She helped
+      me to retrain my voice so that I sang in an organic way, allowing my body to
+      simply click into place. I am thrilled to be learning from her.
+  - name: Faryn V, Mill Valley
     avatar: testimonial-avatar.jpg
     text:
-    - Et quomodo invocabo deum meum, deum et dominum meum, quoniam utique inme ipsum
-      eum invocabo, cum invocabo eum? et quis locus est in me, quoveniat in me deus
-      meus? quo deus veniat in me, deus, qui fecit caelum et terram?
+    - I am 9 years old and I take voice lessons from Caylia.
+    - She is a wonderful teacher because she improves how you sing and then she improves
+      the things that improve what you've improved on. For example she makes me use
+      my belly when I sing by having me stand on one foot.
+  - name: Sophie B, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
+      me find a voice that I didn’t even know I had.
+  - name: Kim W, Marin
+    avatar: testimonial-avatar.jpg
+    text:
+    - I really am enjoying singing in class with you – you’re such a wonderful, resourceful,
+      patient, positive teacher.  And really smart and talented, too!
+  - name: Renee M, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - Caylia has had an incredible impact on my daughter’s singing and professional
+      success. She has been both a professional resource in teaching her technique
+      and also a personal Coach.
+  - name: Paul U, San Anselmo
+    avatar: testimonial-avatar.jpg
+    text:
+    - Caylia teaches with humor, perfection and persistence.
+    - She doesn’t seem to force her style on her students but rather explores the
+      natural potential and refines and develops it. Caylia’s passion for the music
+      and her commitment to her students always shines through.
+  - name: Danielle W, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - My daughter has grown into her confidence and coming into her own.
+    - I’ve also noticed that it’s bled into the rest of her life. She has more confidence
+      in her school performances and presentations. Thank you Caylia!
+  - name: Susan D, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - Caylia's heart is in her music and with her students. Our daughter has found
+      her voice because of Caylia!
   piano:
-  - name: Joan Piano
+  - name: Marie H, San Francisco
     avatar: testimonial-avatar.jpg
     text:
-    - Capiunt ergone te caelum et terra, quoniam tu imples ea? an imples et restat,
-      quoniam non te capiunt? et quo refundis quidquid impleto caeloet terra restat
-      ex te? an non opus habes, ut quoquam continearis, qui contines omnia, quoniam
-      quae imples continendo imples?
-    - Non enim vasa, quae te plena sunt, stabilem te faciunt, quia etsi frangantur
-      non effunderis.
-  - name: Jim Piano
+    - With Caylia teaching me, I like playing the piano so much more.
+    - I am very happy to have Caylia as my wonderful and gifted teacher.
+  - name: Jamie B, Tiburon
     avatar: testimonial-avatar.jpg
     text:
-    - Quid est ergo deus meus? quid, rogo, nisi dominus deus? quis enim dominus praeter
-      dominum? aut quis deus praeter deum nostrum? summe, optime, potentissime, omnipotentissime,
-      misericordissime et iustissime, secretissime et praesentissime, pulcherrime
-      et fortissime,stabilis et inconprehensibilis, inmutabilis, mutans omnia, numquam
-      novus, numquam vetus, innovans omnia.
+    - In one year my children have learned over fifty songs, chord based accompaniment,
+      music theory, and seasonal holiday tunes.
+    - She expertly engages my daughters in specific, age-appropriate programs according
+      to their interest and ability.
+    - She tunes in to the comments my children make to enhance their understanding
+      and appreciation of music.
+    - I am so thankful that we were referred to Caylia for our music instruction.
+  - name: Julia M, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - I play the piano but when I’m at Caylia’s, it doesn’t matter what level you’re
+      on - it just matters that you’re playing the piano and having fun.
+  - name: Jerry K, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - It has been great working with you. I felt like you opened the door for me to
+      begin playing again. Forever grateful!
+  - name: Peter A, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - Caylia is a terrific teacher. Caylia is very patient and intuitive and has the
+      ability to adjust her teaching style to the different kid’s needs and personalities.
+  - name: Cory J, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - Caylia has opened my kids up to their own sense of improvisation and confidence.
+    - Simply music is helping them to trust their ears and learning to hear music
+      differently and therefore play music differently.
+    - What’s cool about Caylia is that she takes a song that my kids love and shows
+      them, like in 5 minutes, how to play the song. She knows that my kids know the
+      songs and chords and in no time at all, they are playing songs that they love.
+    - It’s been a fantastic year. My kids have grown as artist, as people with Caylia
+      and express themselves and comfortable and that is all we can ask.
   performance:
-  - name: Judy Performance
+  - name: Soleil Dakota, San Rafael
     avatar: testimonial-avatar.jpg
     text:
-    - Sed tamen sine me loqui apud misericordiam tuam, me terram et cinerem,sine tamen
-      loqui, quoniam ecce misericordia tua est, non homo, inrisormeus, cui loquor.
-      et tu fortasse inrides me, sed conversus misereberismei. quid enim est quod
-      volo dicere, domine, nisi quia nescio, unde venerim huc, in istam, dico vitam
-      mortalem, an mortalem vitalem? nescio. et susceperunt me consolationes miserationum
-      tuarum, sicut audivi a parentibus carnis meae, ex quo et in qua me formasti
-      in tempore; non enim ego memini.
-  - name: Job Performance
+    - I sang out - it was joyous and beautiful. Honestly, I was a little shocked at
+      how easy and natural it was . OMG ☺
+    - You made the difference. Thank you from the bottom of my heart.
+  - name: Eva W, Mill Valley
     avatar: testimonial-avatar.jpg
     text:
-    - Exaudi, deus. vae peccatis hominum! et homo dicit haec, et misereris eius, quoniam
-      tu fecisti eum et peccatum non fecisti in eo. quis me commemorat peccatum infantiae
-      meae, quoniam nemo mundus a peccato coram te, nec infans, cuius est unius diei
-      vita super terram? quis me commemorat? an quilibet tantillus nunc parvulus,
-      in quo video quod non memini de me?
+    - Thanks for encouraging my daughter and giving her the confidence to sing in
+      front of an audience, she has never done that before!
+  - name: Tiffany V, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - The performance was a great experience! Thank you so much for working with her
+      and giving her so much confidence. You are the best.
+  - name: Trigg M, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - Wow! Caylia was really magical in bringing my daughter’s inner performer to
+      the stage! Caylia found the performer in my daughter! Go Caylia
   idol:
-  - name: Jennifer Idol
+  - name: Eden F, San Rafael
     avatar: testimonial-avatar.jpg
     text:
-    - Nonne ab infantia huc pergens veni in pueritiam? vel potius ipsa in me venit
-      et successit infantiae? nec discessit illa quo enim abiit? et tamen iam non
-      erat.
-    - Non enim eram infans, qui non farer, sed iam puer loquens eram. et memini hoc,
-      et unde loqui didiceram, post adverti. non enim docebant me maiores homines,
-      praebentes mihi verba certo aliquo ordine doctrinae sicut paulo post litteras,
-      sed ego ipse mente, quam dedisti mihi, deus meus, cum gemitibus et vocibus variis
-      et variis membrorum motibus edere vellem sensa cordis mei, ut voluntati pareretur
-  - name: Julian Idol
+    - Marin Idol was an extremely fun and interactive way to improve my singing skills.
+      It had all the fun of being at a summer  camp with the added bonus of learning
+      amazing vocal techniques that I still use to this day. I highly recommend Marin
+      Idol for singers of all ages
+  - name: Sharon G, Mill Valley
     avatar: testimonial-avatar.jpg
     text:
-    - Deus, deus meus, quas ibi miserias expertus sum et ludificationes, quandoquidem
-      recte mihi vivere puero id proponebatur, obtemperare monentibus, ut in hoc saeculo
-      florerem, et excellerem linguosis artibus, ad honorem hominum et falsas divitias
-      famulantibus. inde in scholam datus sum, ut discerem litteras, in quibus quid
-      utilitatis esset ignorabam miser. et tamen, si segnis in discendo essem, vapulabam.
+    - Marin Idol camp is a joyful, creative and transformative experience. I would
+      trust Caylia with anyone who wants to sing from child to adult.
+  - name: Ryan B, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - You should sign your kid up for Marin Idol because they’ll meet new friends,
+      have a fun time and fun have a fun camp for the summer and also improve their
+      singing.
+  - name: Suzanne B, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - I was nice for me as a parent to know that during the summer, she had this wonderful
+      thing to do with her best friend. And with Caylia, in a beautiful setting she
+      was also able to polish up some of her skills that she’s learning in her voice
+      lessons.
+    - One of the things I love about her singing, is that she feels more confident
+      using her voice. I find that she is able to express herself better and the singing
+      lessons have a lot to do with it.
+    - Love Caylia, love Marin Idol, love the lessons and I highly recommend that you
+      get your kids started!
 ---
 
 Over the years I’ve taught the magic of music to Marin County children and adults from all walks of life. I'm so grateful for the opportunity to inspire and educate on a daily basis. Watching you blossom into your fullest potential makes my heart sing!

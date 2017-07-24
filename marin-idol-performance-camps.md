@@ -3,8 +3,8 @@ title: Marin Idol Performance Camps
 id: marin-idol-performance-camps
 hero: voice-banner-1.jpg
 intro:
-  main: Marin Idol Spring &amp; Summer performance camps
-  sub: for Bay Area school students
+  main: Become a Superstar!
+  sub: Marin Idol Performance Camps
 newsletter: true
 testimonials:
 - name: Eden, San Rafael
