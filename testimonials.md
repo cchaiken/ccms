@@ -7,20 +7,49 @@ intro:
 newsletter: true
 testimonials:
   voice:
-  - name: Jane Voice
+  - name: Emily H, Kentfield
     avatar: testimonial-avatar.jpg
     text:
-    - Magnus es, domine, et laudabilis valde magna virtus tua, et sapientiae tuae
-      non est numerus. et laudare te vult homo, aliqua portio creaturae tuae, et homo
-      circumferens mortalitem suam, circumferens testimonium peccati sui et testimonium,
-      quia superbis resistis et tamen laudare te vult homo, aliqua portio creaturae
-      tuae.
-  - name: John Voice
+    - I came to Caylia after years of vocal training. She is  a dream. She helped
+      me to retrain my voice so that I sang in an organic way, allowing my body to
+      simply click into place. I am thrilled to be learning from her.
+  - name: Faryn V, Mill Valley
     avatar: testimonial-avatar.jpg
     text:
-    - Et quomodo invocabo deum meum, deum et dominum meum, quoniam utique inme ipsum
-      eum invocabo, cum invocabo eum? et quis locus est in me, quoveniat in me deus
-      meus? quo deus veniat in me, deus, qui fecit caelum et terram?
+    - "I am 9 years old and I take voice lessons from Caylia. \n\nCaylia is a wonderful
+      teacher because she improves how you sing and then she improves the things that
+      improve what you've improved on. For example she makes me use my belly when
+      I sing by having me stand on one foot."
+  - name: Sophie B, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
+      me find a voice that I didn’t even know I had.
+  - name: Kim W, Marin
+    avatar: testimonial-avatar.jpg
+    text:
+    - I really am enjoying singing in class with you– you’re such a wonderful, resourceful,
+      patient, positive teacher.  And really smart and talented, too!
+  - name: Renee M, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - Caylia has had an incredible impact on my daughter’s singing and professional
+      success. She has been both a professional resource in teaching her technique
+      and also a personal Coach.
+  - name: Paul U, San Anselmo
+    avatar: testimonial-avatar.jpg
+    text:
+    - |-
+      Caylia teaches with humor, perfection and persistence.\
+       \
+      She doesn’t seem to force her style on her students but rather explores the natural potential and refines and develops it. Caylia’s passion for the music and her commitment to her students always shines through.
+  - name: Danielle W, Mill Valley
+    avatar: testimonial-avatar.jpg
+    text:
+    - |-
+      My daughter has grown into her confidence and coming into her own.
+
+      I’ve also noticed that it’s bled into the rest of her life. She has more confidence in her school performances and presentations. Thank you Caylia!
   piano:
   - name: Joan Piano
     avatar: testimonial-avatar.jpg
