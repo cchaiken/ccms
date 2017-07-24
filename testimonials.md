@@ -16,10 +16,10 @@ testimonials:
   - name: Faryn V, Mill Valley
     avatar: testimonial-avatar.jpg
     text:
-    - "I am 9 years old and I take voice lessons from Caylia. \n\nCaylia is a wonderful
-      teacher because she improves how you sing and then she improves the things that
-      improve what you've improved on. For example she makes me use my belly when
-      I sing by having me stand on one foot."
+    - |-
+      I am 9 years old and I take voice lessons from Caylia.
+
+      Caylia is a wonderful teacher because she improves how you sing and then she improves the things that improve what you've improved on. For example she makes me use my belly when I sing by having me stand on one foot.
   - name: Sophie B, Mill Valley
     avatar: testimonial-avatar.jpg
     text:
