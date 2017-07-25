@@ -7,7 +7,7 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 testimonials:
-- name: Eden, San Rafael
+- name: Eden F.
   avatar: avatar-eden-f.jpg
   text:
   - Marin Idol was an extremely fun and interactive way to improve my singing skills.

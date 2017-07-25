@@ -7,60 +7,60 @@ intro:
 newsletter: true
 testimonials:
   voice:
-  - name: Emily H, Kentfield
+  - name: Emily H.
     avatar: avatar-emily-h.jpg
     text:
     - I came to Caylia after years of vocal training. She is  a dream. She helped
       me to retrain my voice so that I sang in an organic way, allowing my body to
       simply click into place. I am thrilled to be learning from her.
-  - name: Faryn V, Mill Valley
+  - name: Faryn V.
     avatar: avatar-faryn-v.jpg
     text:
     - I am 9 years old and I take voice lessons from Caylia.
     - She is a wonderful teacher because she improves how you sing and then she improves
       the things that improve what you've improved on. For example she makes me use
       my belly when I sing by having me stand on one foot.
-  - name: Sophie B, Mill Valley
+  - name: Sophie B.
     avatar: avatar-none.jpg
     text:
     - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
       me find a voice that I didn’t even know I had.
-  - name: Kim W, Marin
+  - name: Kim W.
     avatar: avatar-kim-w.jpg
     text:
     - I really am enjoying singing in class with you – you’re such a wonderful, resourceful,
       patient, positive teacher.  And really smart and talented, too!
-  - name: Renee M, Mill Valley
+  - name: Renee M.
     avatar: avatar-renee-m.jpg
     text:
     - Caylia has had an incredible impact on my daughter’s singing and professional
       success. She has been both a professional resource in teaching her technique
       and also a personal Coach.
-  - name: Paul U, San Anselmo
+  - name: Paul U.
     avatar: avatar-paul-u.jpg
     text:
     - Caylia teaches with humor, perfection and persistence.
     - She doesn’t seem to force her style on her students but rather explores the
       natural potential and refines and develops it. Caylia’s passion for the music
       and her commitment to her students always shines through.
-  - name: Danielle W, Mill Valley
+  - name: Danielle W.
     avatar: avatar-danielle-w.jpg
     text:
     - My daughter has grown into her confidence and coming into her own.
     - I’ve also noticed that it’s bled into the rest of her life. She has more confidence
       in her school performances and presentations. Thank you Caylia!
-  - name: Susan D, Mill Valley
+  - name: Susan D.
     avatar: avatar-none.jpg
     text:
     - Caylia's heart is in her music and with her students. Our daughter has found
       her voice because of Caylia!
   piano:
-  - name: Marie H, San Francisco
+  - name: Marie H.
     avatar: avatar-none.jpg
     text:
     - With Caylia teaching me, I like playing the piano so much more.
     - I am very happy to have Caylia as my wonderful and gifted teacher.
-  - name: Jamie B, Tiburon
+  - name: Jamie B.
     avatar: avatar-none.jpg
     text:
     - In one year my children have learned over fifty songs, chord based accompaniment,
@@ -70,22 +70,22 @@ testimonials:
     - She tunes in to the comments my children make to enhance their understanding
       and appreciation of music.
     - I am so thankful that we were referred to Caylia for our music instruction.
-  - name: Julia M, Mill Valley
+  - name: Julia M.
     avatar: avatar-none.jpg
     text:
     - I play the piano but when I’m at Caylia’s, it doesn’t matter what level you’re
       on - it just matters that you’re playing the piano and having fun.
-  - name: Jerry K, Mill Valley
+  - name: Jerry K.
     avatar: avatar-none.jpg
     text:
     - It has been great working with you. I felt like you opened the door for me to
       begin playing again. Forever grateful!
-  - name: Peter A, Mill Valley
+  - name: Peter A.
     avatar: avatar-peter-a.jpg
     text:
     - Caylia is a terrific teacher. Caylia is very patient and intuitive and has the
       ability to adjust her teaching style to the different kid’s needs and personalities.
-  - name: Cory J, Mill Valley
+  - name: Cory J.
     avatar: avatar-cory-j.jpg
     text:
     - Caylia has opened my kids up to their own sense of improvisation and confidence.
@@ -97,47 +97,47 @@ testimonials:
     - It’s been a fantastic year. My kids have grown as artist, as people with Caylia
       and express themselves and comfortable and that is all we can ask.
   performance:
-  - name: Soleil Dakota, San Rafael
+  - name: Soleil Dakota
     avatar: avatar-soleil-dakota.jpg
     text:
     - I sang out - it was joyous and beautiful. Honestly, I was a little shocked at
       how easy and natural it was . OMG ☺
     - You made the difference. Thank you from the bottom of my heart.
-  - name: Eva V, Mill Valley
+  - name: Eva V.
     avatar: avatar-eva-v.jpg
     text:
     - Thanks for encouraging my daughter and giving her the confidence to sing in
       front of an audience, she has never done that before!
-  - name: Tiffany V, Mill Valley
+  - name: Tiffany V.
     avatar: avatar-none.jpg
     text:
     - The performance was a great experience! Thank you so much for working with her
       and giving her so much confidence. You are the best.
-  - name: Trigg M, Mill Valley
+  - name: Trigg M.
     avatar: avatar-trigg-m.jpg
     text:
     - Wow! Caylia was really magical in bringing my daughter’s inner performer to
       the stage! Caylia found the performer in my daughter! Go Caylia
   idol:
-  - name: Eden F, San Rafael
+  - name: Eden F.
     avatar: avatar-eden-f.jpg
     text:
     - Marin Idol was an extremely fun and interactive way to improve my singing skills.
       It had all the fun of being at a summer  camp with the added bonus of learning
       amazing vocal techniques that I still use to this day. I highly recommend Marin
       Idol for singers of all ages
-  - name: Sharon G, Mill Valley
+  - name: Sharon G.
     avatar: avatar-sharon-g.jpg
     text:
     - Marin Idol camp is a joyful, creative and transformative experience. I would
       trust Caylia with anyone who wants to sing from child to adult.
-  - name: Ryan B, Mill Valley
+  - name: Ryan B.
     avatar: avatar-ryan-b.jpg
     text:
     - You should sign your kid up for Marin Idol because they’ll meet new friends,
       have a fun time and fun have a fun camp for the summer and also improve their
       singing.
-  - name: Suzanne B, Mill Valley
+  - name: Suzanne B.
     avatar: testimonial-avatar.jpg
     text:
     - I was nice for me as a parent to know that during the summer, she had this wonderful
