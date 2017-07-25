@@ -1,7 +1,7 @@
 ---
 title: Mill Valley Voice Lessons
 id: voice-lessons
-hero: voice-banner-1.jpg
+hero: voice-singing-lessons-mill-valley-banner.jpg
 intro:
   main: Open up and say Laaaaaah!
   sub: Mill Valley Voice Lessons
