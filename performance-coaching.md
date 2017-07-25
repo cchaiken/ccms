@@ -1,7 +1,7 @@
 ---
 title: Mill Valley Performance Coaching
 id: performance-coaching
-hero: voice-banner-1.jpg
+hero: performance-coaching-lessons-mill-valley-banner.jpg
 intro:
   main: Win the room over with
   sub: Mill Valley Performance Coaching
