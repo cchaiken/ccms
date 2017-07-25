@@ -38,7 +38,9 @@ What if you could sing like the next Adele?
 
 Marin Idol is a musical performance camp designed to transform and empower people between the ages of 9-18. It offers an unforgettable multi-day singing and performance immersion program in a fun and nurturing environment. 
 
-Set among the beautiful hills of Mill Valley, my studio comes alive with the sounds of song and laughter. You’ll make new friends and form creative partnerships in a highly collaborative atmosphere. 
+![marin-idol-performance-camp-lunch.jpg](/uploads/marin-idol-performance-camp-lunch.jpg)
+
+Set among the beautiful hills of Mill Valley, my studio comes alive with the sounds of song and laughter. You’ll make new friends and form creative partnerships in a highly collaborative atmosphere.
 
 ## What will I learn?
 
