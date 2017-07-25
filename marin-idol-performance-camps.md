@@ -1,7 +1,7 @@
 ---
 title: Marin Idol Performance Camps
 id: marin-idol-performance-camps
-hero: voice-banner-1.jpg
+hero: marin-idol-performance-campbanner-2.jpg
 intro:
   main: Become a Superstar!
   sub: Marin Idol Performance Camps
