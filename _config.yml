@@ -35,12 +35,12 @@ description: Music lessons in Marin County
 social:
   name: Caylia Chaiken
   links:
-    - https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley
-    - https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg/videos
-    - https://chaikenmusic.bandcamp.com/
-    - https://www.facebook.com/Caylia-Chaiken-Music-Studio-200060653385853/
-url:
-baseurl:
+  - https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley
+  - https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg/videos
+  - https://chaikenmusic.bandcamp.com/
+  - https://www.facebook.com/Caylia-Chaiken-Music-Studio-200060653385853/
+url: 
+baseurl: 
 repository: avelingrayorg/ccms
 permalink: pretty
 paginate: 5
