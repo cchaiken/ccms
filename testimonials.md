@@ -1,5 +1,7 @@
 ---
 title: Testimonials
+description: I’ve taught the magic of music to Marin County children and adults from
+  all walks of life. Here's what they say about their lessons.
 id: testimonials
 intro:
   main: Testimonials
