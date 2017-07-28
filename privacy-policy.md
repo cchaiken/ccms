@@ -1,5 +1,8 @@
 ---
 title: Privacy Policy
+description: Thank you for visiting the Caylia Chaiken Music Studio website. This
+  Privacy Policy describes how we use personal information that is collected at our
+  websites.
 id: privacy-policy
 intro:
   main: Privacy Policy
