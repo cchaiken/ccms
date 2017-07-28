@@ -10,13 +10,13 @@ newsletter: true
 testimonials:
   voice:
   - name: Emily H.
-    avatar-image: avatar-emily-h.jpg
+    avatar-image: "/uploads/avatar-emily-h.jpg"
     text:
     - I came to Caylia after years of vocal training. She is  a dream. She helped
       me to retrain my voice so that I sang in an organic way, allowing my body to
       simply click into place. I am thrilled to be learning from her.
   - name: Faryn V.
-    avatar-image: avatar-faryn-v.jpg
+    avatar-image: "/uploads/avatar-faryn-v.jpg"
     text:
     - I am 9 years old and I take voice lessons from Caylia.
     - She is a wonderful teacher because she improves how you sing and then she improves
@@ -28,25 +28,25 @@ testimonials:
     - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
       me find a voice that I didn’t even know I had.
   - name: Kim W.
-    avatar-image: avatar-kim-w.jpg
+    avatar-image: "/uploads/avatar-kim-w.jpg"
     text:
     - I really am enjoying singing in class with you – you’re such a wonderful, resourceful,
       patient, positive teacher.  And really smart and talented, too!
   - name: Renee M.
-    avatar-image: avatar-renee-m.jpg
+    avatar-image: "/uploads/avatar-renee-m.jpg"
     text:
     - Caylia has had an incredible impact on my daughter’s singing and professional
       success. She has been both a professional resource in teaching her technique
       and also a personal Coach.
   - name: Paul U.
-    avatar-image: avatar-paul-u.jpg
+    avatar-image: "/uploads/avatar-paul-u.jpg"
     text:
     - Caylia teaches with humor, perfection and persistence.
     - She doesn’t seem to force her style on her students but rather explores the
       natural potential and refines and develops it. Caylia’s passion for the music
       and her commitment to her students always shines through.
   - name: Danielle W.
-    avatar-image: avatar-danielle-w.jpg
+    avatar-image: "/uploads/avatar-danielle-w.jpg"
     text:
     - My daughter has grown into her confidence and coming into her own.
     - I’ve also noticed that it’s bled into the rest of her life. She has more confidence
@@ -83,12 +83,12 @@ testimonials:
     - It has been great working with you. I felt like you opened the door for me to
       begin playing again. Forever grateful!
   - name: Peter A.
-    avatar-image: avatar-peter-a.jpg
+    avatar-image: "/uploads/avatar-peter-a.jpg"
     text:
     - Caylia is a terrific teacher. Caylia is very patient and intuitive and has the
       ability to adjust her teaching style to the different kid’s needs and personalities.
   - name: Cory J.
-    avatar-image: avatar-cory-j.jpg
+    avatar-image: "/uploads/avatar-cory-j.jpg"
     text:
     - Caylia has opened my kids up to their own sense of improvisation and confidence.
     - Simply music is helping them to trust their ears and learning to hear music
@@ -100,13 +100,13 @@ testimonials:
       and express themselves and comfortable and that is all we can ask.
   performance:
   - name: Soleil Dakota
-    avatar-image: avatar-soleil-dakota.jpg
+    avatar-image: "/uploads/avatar-soleil-dakota.jpg"
     text:
     - I sang out - it was joyous and beautiful. Honestly, I was a little shocked at
       how easy and natural it was . OMG ☺
     - You made the difference. Thank you from the bottom of my heart.
   - name: Eva V.
-    avatar-image: avatar-eva-v.jpg
+    avatar-image: "/uploads/avatar-eva-v.jpg"
     text:
     - Thanks for encouraging my daughter and giving her the confidence to sing in
       front of an audience, she has never done that before!
@@ -116,31 +116,31 @@ testimonials:
     - The performance was a great experience! Thank you so much for working with her
       and giving her so much confidence. You are the best.
   - name: Trigg M.
-    avatar-image: avatar-trigg-m.jpg
+    avatar-image: "/uploads/avatar-trigg-m.jpg"
     text:
     - Wow! Caylia was really magical in bringing my daughter’s inner performer to
       the stage! Caylia found the performer in my daughter! Go Caylia
   idol:
   - name: Eden F.
-    avatar-image: avatar-eden-f.jpg
+    avatar-image: "/uploads/avatar-eden-f.jpg"
     text:
     - Marin Idol was an extremely fun and interactive way to improve my singing skills.
       It had all the fun of being at a summer  camp with the added bonus of learning
       amazing vocal techniques that I still use to this day. I highly recommend Marin
       Idol for singers of all ages
   - name: Sharon G.
-    avatar-image: avatar-sharon-g.jpg
+    avatar-image: "/uploads/avatar-sharon-g.jpg"
     text:
     - Marin Idol camp is a joyful, creative and transformative experience. I would
       trust Caylia with anyone who wants to sing from child to adult.
   - name: Ryan B.
-    avatar-image: avatar-ryan-b.jpg
+    avatar-image: "/uploads/avatar-ryan-b.jpg"
     text:
     - You should sign your kid up for Marin Idol because they’ll meet new friends,
       have a fun time and fun have a fun camp for the summer and also improve their
       singing.
   - name: Suzanne B.
-    avatar-image: testimonial-avatar.jpg
+    avatar-image: "/uploads/testimonial-avatar.jpg"
     text:
     - I was nice for me as a parent to know that during the summer, she had this wonderful
       thing to do with her best friend. And with Caylia, in a beautiful setting she
@@ -153,7 +153,7 @@ testimonials:
       get your kids started!
   learning-music:
   - name: Nancy V.
-    avatar-image: 
+    "/uploads/avatar-image": 
     text:
     - Consider this a life long skill. My daughter uses her music to express herself
       and unwind. I think that my daughter will use that skill, talent and love for
