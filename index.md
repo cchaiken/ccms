@@ -49,6 +49,8 @@ I've been living and breathing music education in Marin County for over 15 years
 
 {% include testimonial-card.html %}
 
+{% include testimonial-card.html testimonial=page.testimonial %}
+
 ## Rediscover the joy of making music!
 
 **When you study with me learning and performing music is always fun and engaging.**
