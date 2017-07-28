@@ -23,7 +23,7 @@ testimonials:
       the things that improve what you've improved on. For example she makes me use
       my belly when I sing by having me stand on one foot.
   - name: Sophie B.
-    avatar-image: 
+    avatar-image: "/uploads/avatar-sophie-b.jpg"
     text:
     - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
       me find a voice that I didn’t even know I had.
@@ -63,7 +63,7 @@ testimonials:
     - With Caylia teaching me, I like playing the piano so much more.
     - I am very happy to have Caylia as my wonderful and gifted teacher.
   - name: Jamie B.
-    avatar-image: 
+    avatar-image: "/uploads/avatar-jamie-b.jpg"
     text:
     - In one year my children have learned over fifty songs, chord based accompaniment,
       music theory, and seasonal holiday tunes.
@@ -73,7 +73,7 @@ testimonials:
       and appreciation of music.
     - I am so thankful that we were referred to Caylia for our music instruction.
   - name: Julia M.
-    avatar-image: 
+    avatar-image: "/uploads/avatar-julia-m.jpg"
     text:
     - I play the piano but when I’m at Caylia’s, it doesn’t matter what level you’re
       on - it just matters that you’re playing the piano and having fun.
@@ -159,7 +159,7 @@ testimonials:
       and unwind. I think that my daughter will use that skill, talent and love for
       the rest of her life.
   - name: Wendy N.
-    avatar-image: 
+    avatar-image: "/uploads/avatar-wendy-n.jpg"
     text:
     - I realized just how special Caylia is after my daughter took an entire year
       of lessons and we were at her annual recital. It was full of supporting families
@@ -167,7 +167,7 @@ testimonials:
       had single handedly taught every one of these kids all I was hearing!  She truly
       is an amazing gift to our community and my children.
   - name: Sharon G.
-    avatar-image: 
+    avatar-image: "/uploads/avatar-sharon-g.jpg"
     text:
     - Creative expression is something we all need, and Caylia Chaiken is a master
       of her art. Her music lessons provide not only the  spark but the instruction
@@ -179,7 +179,7 @@ testimonials:
     - Caylia has the unique ability to support and lead students to achieve their
       very best.
   - name: Doretta R.
-    avatar-image: 
+    avatar-image: "/uploads/avatar-doretta-r.jpg"
     text:
     - Caylia has a deep love and enthusiasm for music and her students that goes hand
       in hand in her approach to teaching. Her spirit, knowledge and humor infuses
