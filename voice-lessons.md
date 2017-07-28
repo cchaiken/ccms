@@ -14,7 +14,7 @@ testimonial:
     I was able to retrain my voice so that I sang in an organic way, allowing my body
     to simply click into place. I am thrilled to be learning from her.
   name: Emily H.
-  avatar-image: avatar-emily-h.jpg
+  avatar-image: "/uploads/avatar-emily-h.jpg"
 videos:
 - eox7E2aYJ2U
 - Ov7cUsMxCdk
