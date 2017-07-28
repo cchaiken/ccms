@@ -16,9 +16,9 @@ testimonial:
   name: Emily H.
   avatar-image: avatar-emily-h.jpg
 videos:
-- "-6gsLz96TmM"
-- GAYd-H8uUb0
-- AS3qFh42C4M
+- eox7E2aYJ2U
+- Ov7cUsMxCdk
+- _PFAouR1F1I
 quote:
   text: The only thing better than singing is more singing.
   cite: Ella Fitzgerald
