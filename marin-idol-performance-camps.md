@@ -11,14 +11,14 @@ intro:
 newsletter: true
 testimonials:
 - name: Eden F.
-  avatar-image: avatar-eden-f.jpg
+  avatar-image: "/uploads/avatar-eden-f.jpg"
   text:
   - Marin Idol was an extremely fun and interactive way to improve my singing skills.
     It had all the fun of being at a summer camp with the added bonus of learning
     amazing vocal techniques that I still use to this day. I highly recommend Marin
     Idol for singers of all ages.
 - name: Trigg M.
-  avatar-image: avatar-trigg-m.jpg
+  avatar-image: "/uploads/avatar-trigg-m.jpg"
   text:
   - Wow! Caylia was really magical in bringing my daughter’s inner performer to the
     stage. Caylia found the performer in my daughter. Go Caylia!
