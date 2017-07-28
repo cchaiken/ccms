@@ -15,7 +15,7 @@ testimonial:
     words and voice to convey the message I want to put into the world and express
     it in a way this is truly me
   name: Bridgette C
-  avatar: testimonial-avatar.jpg
+  avatar-image: testimonial-avatar.jpg
 ---
 
 Thank you for taking the time to visit.

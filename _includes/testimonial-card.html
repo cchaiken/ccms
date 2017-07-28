@@ -6,7 +6,7 @@
     {% endfor %}
   </div>
   <div class="testimonial-ident">
-    <img class="testimonial-avatar" src="{{ "uploads/" | append: include.testimonial.avatar | relative_url }}">
+    <img class="testimonial-avatar" src="{{ "uploads/" | append: include.testimonial.avatar-image | relative_url }}">
     <p class="testimonial-author">{{ include.testimonial.name }}</p>
   </div>
 </section>
