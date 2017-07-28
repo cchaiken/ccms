@@ -14,7 +14,7 @@ testimonial:
     how easy and natural it was. OMG  ☺  Caylia, you made the difference.  Thank you
     from the bottom of my heart.
   name: Soleil Dakota
-  avatar: avatar-soleil-dakota.jpg
+  avatar-image: avatar-soleil-dakota.jpg
 videos:
 - AS3qFh42C4M
 ---

@@ -15,7 +15,7 @@ testimonial:
     your experience and enjoyment of music.
   - Sign up now. You won’t be sorry.
   name: Sharon G.
-  avatar: testimonial-avatar.jpg
+  avatar-image: testimonial-avatar.jpg
 lessons:
 - heading: Voice Lessons
   blurb: Open up and say "La!" with singing lessons that are tailored to your unique
