@@ -1,5 +1,7 @@
 ---
 title: Mill Valley Performance Coaching
+description: Supercharge your performance and public speaking powers with personalized
+  coaching that works for you and your audience. Marin County. Try a free session!
 id: performance-coaching
 hero: performance-coaching-lessons-mill-valley-banner.jpg
 intro:

@@ -1,5 +1,7 @@
 ---
 title: Terms and Conditions
+description: Thank you for visiting the Caylia Chaiken Music Studio website. These
+  Terms and Conditions are subject to change.
 id: terms-and-conditions
 intro:
   main: Terms and Conditions

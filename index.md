@@ -1,5 +1,7 @@
 ---
 title: Mill Valley Music Lessons
+description: Discover the joy of making music with personalized lessons in the heart
+  of Mill Valley. Voice, Piano, Performance Coaching and more. Try a free lesson!
 id: home
 hero: home-hero.jpg
 intro:

@@ -1,5 +1,7 @@
 ---
 title: Store
+description: Welcome to my online store. Listen to and purchase albums from my musical
+  discography. Digital downloads and CDs available.
 id: store
 intro:
   main: Store

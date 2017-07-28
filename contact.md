@@ -1,5 +1,7 @@
 ---
 title: Contact
+description: I’d love to hear from you. Let’s discuss how I can help you reach your
+  musical dreams. Call now to schedule a free lesson!
 id: contact
 intro:
   main: Contact

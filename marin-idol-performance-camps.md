@@ -1,5 +1,8 @@
 ---
 title: Marin Idol Performance Camps
+description: Shine onstage like a Pop Star at Marin County's most exciting musical
+  performance camp for school students. Single & Multi Day programs available. Sign
+  up now!
 id: marin-idol-performance-camps
 hero: marin-idol-performance-campbanner-2.jpg
 intro:
