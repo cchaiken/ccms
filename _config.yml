@@ -18,12 +18,12 @@ defaults:
     type: posts
   values:
     layout: post
-    description:
+    description: 
 - scope:
     path: ''
     type: pages
   values:
-    description:
+    description: 
 author: Caylia Chaiken
 locale: en
 title_separator: "-"
@@ -36,8 +36,8 @@ social:
   - https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg/videos
   - https://chaikenmusic.bandcamp.com/
   - https://www.facebook.com/Caylia-Chaiken-Music-Studio-200060653385853/
-url:
-baseurl:
+url: 
+baseurl: 
 repository: avelingrayorg/ccms
 permalink: pretty
 paginate: 5
