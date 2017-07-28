@@ -22,11 +22,11 @@ defaults:
     path: ''
     type: pages
   values:
-    description:
+    description: 
     testimonial:
-      text:
-      name:
-      avatar:
+      text: 
+      name: 
+      avatar: 
 author: Caylia Chaiken
 locale: en
 title_separator: "-"
