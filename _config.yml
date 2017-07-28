@@ -18,6 +18,15 @@ defaults:
     type: posts
   values:
     layout: post
+- scope:
+    path: ''
+    type: pages
+  values:
+    description:
+    testimonial:
+      text:
+      name:
+      avatar:
 author: Caylia Chaiken
 locale: en
 title_separator: "-"
