@@ -23,7 +23,7 @@ testimonials:
   - Wow! Caylia was really magical in bringing my daughter’s inner performer to the
     stage. Caylia found the performer in my daughter. Go Caylia!
 videos:
-- JDSYIUgooCU
+- wCkA-LpBXJI
 ---
 
 Wanna feel like a star and shine under the spotlight?
