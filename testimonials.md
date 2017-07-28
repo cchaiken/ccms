@@ -23,7 +23,7 @@ testimonials:
       the things that improve what you've improved on. For example she makes me use
       my belly when I sing by having me stand on one foot.
   - name: Sophie B.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
       me find a voice that I didn’t even know I had.
@@ -52,18 +52,18 @@ testimonials:
     - I’ve also noticed that it’s bled into the rest of her life. She has more confidence
       in her school performances and presentations. Thank you Caylia!
   - name: Susan D.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - Caylia's heart is in her music and with her students. Our daughter has found
       her voice because of Caylia!
   piano:
   - name: Marie H.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - With Caylia teaching me, I like playing the piano so much more.
     - I am very happy to have Caylia as my wonderful and gifted teacher.
   - name: Jamie B.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - In one year my children have learned over fifty songs, chord based accompaniment,
       music theory, and seasonal holiday tunes.
@@ -73,12 +73,12 @@ testimonials:
       and appreciation of music.
     - I am so thankful that we were referred to Caylia for our music instruction.
   - name: Julia M.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - I play the piano but when I’m at Caylia’s, it doesn’t matter what level you’re
       on - it just matters that you’re playing the piano and having fun.
   - name: Jerry K.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - It has been great working with you. I felt like you opened the door for me to
       begin playing again. Forever grateful!
@@ -111,7 +111,7 @@ testimonials:
     - Thanks for encouraging my daughter and giving her the confidence to sing in
       front of an audience, she has never done that before!
   - name: Tiffany V.
-    avatar-image: avatar-none.jpg
+    avatar-image: 
     text:
     - The performance was a great experience! Thank you so much for working with her
       and giving her so much confidence. You are the best.
