@@ -47,8 +47,6 @@ I'll show you how to connect to your inner talents with personalized music lesso
 
 I've been living and breathing music education in Marin County for over 15 years and love to teach students of all ages.
 
-{% include testimonial-card.html %}
-
 {% include testimonial-card.html testimonial=page.testimonial %}
 
 ## Rediscover the joy of making music!
