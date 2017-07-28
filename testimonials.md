@@ -23,7 +23,7 @@ testimonials:
       the things that improve what you've improved on. For example she makes me use
       my belly when I sing by having me stand on one foot.
   - name: Sophie B.
-    avatar-image: 
+    avatar-image:
     text:
     - I’ve learned so much from Caylia. She is truly an inspiring teacher. She helped
       me find a voice that I didn’t even know I had.
@@ -52,18 +52,18 @@ testimonials:
     - I’ve also noticed that it’s bled into the rest of her life. She has more confidence
       in her school performances and presentations. Thank you Caylia!
   - name: Susan D.
-    avatar-image: 
+    avatar-image:
     text:
     - Caylia's heart is in her music and with her students. Our daughter has found
       her voice because of Caylia!
   piano:
   - name: Marie H.
-    avatar-image: 
+    avatar-image:
     text:
     - With Caylia teaching me, I like playing the piano so much more.
     - I am very happy to have Caylia as my wonderful and gifted teacher.
   - name: Jamie B.
-    avatar-image: 
+    avatar-image:
     text:
     - In one year my children have learned over fifty songs, chord based accompaniment,
       music theory, and seasonal holiday tunes.
@@ -73,12 +73,12 @@ testimonials:
       and appreciation of music.
     - I am so thankful that we were referred to Caylia for our music instruction.
   - name: Julia M.
-    avatar-image: 
+    avatar-image:
     text:
     - I play the piano but when I’m at Caylia’s, it doesn’t matter what level you’re
       on - it just matters that you’re playing the piano and having fun.
   - name: Jerry K.
-    avatar-image: 
+    avatar-image:
     text:
     - It has been great working with you. I felt like you opened the door for me to
       begin playing again. Forever grateful!
@@ -111,7 +111,7 @@ testimonials:
     - Thanks for encouraging my daughter and giving her the confidence to sing in
       front of an audience, she has never done that before!
   - name: Tiffany V.
-    avatar-image: 
+    avatar-image:
     text:
     - The performance was a great experience! Thank you so much for working with her
       and giving her so much confidence. You are the best.
@@ -151,6 +151,13 @@ testimonials:
       lessons have a lot to do with it.
     - Love Caylia, love Marin Idol, love the lessons and I highly recommend that you
       get your kids started!
+  learning-music:
+  - name: Foo
+    avatar-image: avatar-emily-h.jpg
+    text:
+    - I came to Caylia after years of vocal training. She is  a dream. She helped
+      me to retrain my voice so that I sang in an organic way, allowing my body to
+      simply click into place. I am thrilled to be learning from her.
 ---
 
 Over the years I’ve taught the magic of music to Marin County children and adults from all walks of life. I'm so grateful for the opportunity to inspire and educate on a daily basis. Watching you blossom into your fullest potential makes my heart sing!
@@ -158,6 +165,13 @@ Over the years I’ve taught the magic of music to Marin County children and adu
 Here's what my students are saying about their music lessons.
 
 <span class="yelp-review" data-review-id="3nO8tlFxIX637tgHprS0AQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=itpvT0MyieGofs5Cc1r2Mg" rel="nofollow noopener">Wendy Louise N.</a>'s <a href="https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley?hrid=3nO8tlFxIX637tgHprS0AQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/Uoi38X0I4iTGnBlV5XLhEg" rel="nofollow noopener">Caylia Chaiken Music Studio</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>
+
+## Learning Music
+
+{% for each in page.testimonials.learning-music %}
+{% include testimonial-card.html testimonial=each %}
+{% endfor %}
+
 
 ## Voice Lessons
 
