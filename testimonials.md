@@ -152,12 +152,38 @@ testimonials:
     - Love Caylia, love Marin Idol, love the lessons and I highly recommend that you
       get your kids started!
   learning-music:
-  - name: Foo
-    avatar-image: avatar-emily-h.jpg
+  - name: Nancy V.
+    avatar-image: 
     text:
-    - I came to Caylia after years of vocal training. She is  a dream. She helped
-      me to retrain my voice so that I sang in an organic way, allowing my body to
-      simply click into place. I am thrilled to be learning from her.
+    - Consider this a life long skill. My daughter uses her music to express herself
+      and unwind. I think that my daughter will use that skill, talent and love for
+      the rest of her life.
+  - name: Wendy N.
+    avatar-image: 
+    text:
+    - I realized just how special Caylia is after my daughter took an entire year
+      of lessons and we were at her annual recital. It was full of supporting families
+      and over 30 kids.  It was a while before it suddenly dawned on me that Caylia
+      had single handedly taught every one of these kids all I was hearing!  She truly
+      is an amazing gift to our community and my children.
+  - name: Sharon G.
+    avatar-image: 
+    text:
+    - Creative expression is something we all need, and Caylia Chaiken is a master
+      of her art. Her music lessons provide not only the  spark but the instruction
+      to enhance your experience and enjoyment of music. Sign up now. You won't be
+      sorry.
+  - name: Garrett L.
+    avatar-image: 
+    text:
+    - Caylia has the unique ability to support and lead students to achieve their
+      very best.
+  - name: Doretta R.
+    avatar-image: 
+    text:
+    - Caylia has a deep love and enthusiasm for music and her students that goes hand
+      in hand in her approach to teaching. Her spirit, knowledge and humor infuses
+      her teaching and she is a professional at all times!
 ---
 
 Over the years I’ve taught the magic of music to Marin County children and adults from all walks of life. I'm so grateful for the opportunity to inspire and educate on a daily basis. Watching you blossom into your fullest potential makes my heart sing!
