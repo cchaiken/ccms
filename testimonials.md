@@ -184,6 +184,13 @@ testimonials:
     - Caylia has a deep love and enthusiasm for music and her students that goes hand
       in hand in her approach to teaching. Her spirit, knowledge and humor infuses
       her teaching and she is a professional at all times!
+  - name: Joyce Hamilton
+    avatar-image: 
+    text:
+    - |-
+      Real cool time.
+
+      It was awesome.
 ---
 
 Over the years I’ve taught the magic of music to Marin County children and adults from all walks of life. I'm so grateful for the opportunity to inspire and educate on a daily basis. Watching you blossom into your fullest potential makes my heart sing!
