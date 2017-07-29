@@ -364,3 +364,33 @@ section {
     padding: 0;
   }
 }
+
+.bandcamp {
+  &::after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+
+  h2 {
+    text-align: center;
+
+    @media (min-width: 600px) {
+      text-align: left;
+    }
+  }
+
+  iframe {
+    border: 0;
+    display: block;
+    margin: 0 auto 1em;
+    width: 280px;
+
+    @media (min-width: 400px) { width: 320px; }
+
+    @media (min-width: 600px) {
+      float: left;
+      margin: 0 2em 1em;
+    }
+  }
+}
