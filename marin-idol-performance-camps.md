@@ -32,8 +32,6 @@ What if you could sing like the next Adele?
 
 **Have fun learning to ace your auditions and overcome your fears at Mill Valley’s most exciting musical performance camp.**
 
-**Next Camp:** Two Week Morning Camp - June 19th - 30th
-
 {% assign testimonial = page.testimonials[0] %}
 {% include testimonial-card.html testimonial=testimonial %}
 
@@ -72,32 +70,19 @@ You will become a better communicator and develop the confidence to present your
 
 ## Upcoming Camps
 
-### June 19th-30th Morning Camp
-Times: 9:00am - 1:00pm  
-Days: Mondays, Wednesdays, Fridays over two consecutive weeks  
-Cost: $397.00
-
-{% include eventbrite.html %}
-
 ### August 7th-11th Full Day Camp
 Times: 10:00am - 4:00pm  
 Days: Monday thru Friday  
 Cost: $397.00
 
-{% include eventbrite.html %}
+<a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262747855?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262747855" alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 
 ### August 14th-18th Full Day Camp
 Times: 10:00am - 4:00pm  
 Days: Monday thru Friday  
 Cost: $397.00
 
-{% include eventbrite.html %}
-
-### Friday August 4th One Day Boot Camp
-Times: 10:00am - 4:00pm  
-Cost: $147.00  
-
-{% include eventbrite.html %}
+<a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262875236?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262875236" alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 
 ## What to bring
 
