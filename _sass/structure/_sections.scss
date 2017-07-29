@@ -67,6 +67,33 @@ section {
       }
     } 
   }
+  main &.has-avatar {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding-top: .2em;
+    @media (min-width: 400px) { padding-top: .5em; }
+
+    &::after {
+      content: '';
+      display: block;
+      clear: both;
+    }
+    img {
+      border: 1px solid $c-secondary-dark;
+      border-radius: 100%;
+      display: inline-block;
+      margin: 0 0 -20px .2em;
+      max-width: 70px;
+      transform: rotate(12deg);
+      @media (min-width: 500px) { max-width: 100px; }
+      @media (min-width: 600px) { border-width: 2px; max-width: 150px; }
+      @media (min-width: 800px) { margin-right: 32px; }
+    }
+    h1 {
+      display: inline-block;
+    }
+  }
 
   &.pattern {
     @media (min-width: 1201px) {

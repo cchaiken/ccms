@@ -14,10 +14,11 @@
   <main>
   {% if page.intro.main or page.intro.sub %}
   {% if page.intro.style == 'plain' %}
-    <section class="intro plain">
+    <section class="intro plain{% if page.intro.image %} has-avatar{% endif %}">
   {% else %}
     <section class="intro pattern">
   {% endif %}
+      {% if page.intro.image and page.intro.style == 'plain' %}<img src="{{ page.intro.image | relative_url }}">{% endif %}
       {% if page.id == 'home' %}<h2>{% else %}<h1>{% endif %}
         {% if page.intro.main %}{{ page.intro.main }}{% endif %}
         {% if page.intro.sub %}<span>{{ page.intro.sub }}</span>{% endif %}
