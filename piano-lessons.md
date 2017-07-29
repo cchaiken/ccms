@@ -21,14 +21,12 @@ videos:
 - 7HNStH-LxCM
 - NUwLrVolRL0
 - DJD8OIF-WYk
-quote:
-  text: There are eighty-eight keys on the piano and within that, an entire universe.
-  cite: James Rhodes
 ---
 
 Feel **supported and inspired** with piano lessons that adapt to *your* needs and interests.
 
-{% include quote.html %}
+> There are eighty-eight keys on the piano and within that, an entire universe.
+> <cite>James Rhodes</cite>
 
 The piano is loved by performers worldwide and is the composer’s best friend. It’s fun to learn and will express your true colors like no other instrument.
 

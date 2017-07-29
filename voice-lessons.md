@@ -19,14 +19,12 @@ videos:
 - eox7E2aYJ2U
 - Ov7cUsMxCdk
 - _PFAouR1F1I
-quote:
-  text: The only thing better than singing is more singing.
-  cite: Ella Fitzgerald
 ---
 
 ## Everybody can sing!
 
-{% include quote.html %}
+> The only thing better than singing is more singing. 
+> <cite>Ella Fitzgerald</cite>
 
 It’s as natural as breathing air and is the first sound you make in life.
 
