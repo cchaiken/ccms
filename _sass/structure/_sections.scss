@@ -147,6 +147,17 @@ section {
   border-radius: 50%;
   max-width: 110px;
 }
+.testimonial-avatar-missing {
+  border: 1px solid $c-primary-dark;
+  border-radius: 100%;
+  display: block;
+  background: url(../uploads/swirl_pattern.png);
+  width: 110px;
+  height: 110px;
+  margin: auto;
+  font-size: 180px;
+  line-height: .46;
+}
 @media (min-width: 600px) {
   .testimonial {
     background: linear-gradient(to right, $c-primary-light, $c-primary, $c-primary-light);
