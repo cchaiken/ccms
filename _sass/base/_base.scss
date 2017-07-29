@@ -15,7 +15,7 @@ main {
     }
   }
 
-  p a {
+  p a, li a {
     color: $c-secondary;
     font-weight: bold;
     text-decoration: none;
@@ -29,6 +29,33 @@ main {
       outline: none;
       background-color: lighten($c-secondary-light, 26%);
       color: $c-secondary-dark;
+    }
+  }
+
+  nav {
+    font-family: $font-body-secondary;
+    margin: 2em auto 3em;
+    max-width: 800px;
+    padding: 0 1em;
+    text-align: center;
+    p {
+      font-size: 18px; font-size: 1.125rem;
+      font-style: italic;
+    }
+    ul {
+      list-style: none;
+      margin-top: 0;
+      padding: 0;
+    }
+    li {
+      display: inline-block;
+      font-size: 16px; font-size: 1rem;
+
+      &:not(:last-child)::after {
+        content: '/';
+        color: $c-primary-dark;
+        margin-left: .4em;
+      }
     }
   }
 }
