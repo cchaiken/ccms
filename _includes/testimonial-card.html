@@ -9,7 +9,7 @@
     {% if include.testimonial.avatar-image %}
     <img class="testimonial-avatar" src="{{ include.testimonial.avatar-image | relative_url }}">
     {% else %}
-    <span class="testimonial-avatar-missing">&#119070;</span>
+    <span class="testimonial-avatar-missing"><img src="../uploads/trebleclef.gif"></span>
     {% endif %}
     <p class="testimonial-author">{{ include.testimonial.name }}</p>
   </div>

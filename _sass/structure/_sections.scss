@@ -155,8 +155,12 @@ section {
   width: 110px;
   height: 110px;
   margin: auto;
-  font-size: 180px;
-  line-height: .46;
+
+  main .testimonial & img {
+    display: inline-block;
+    margin: -10px 0 0;
+    width: 50px;
+  }
 }
 @media (min-width: 600px) {
   .testimonial {
