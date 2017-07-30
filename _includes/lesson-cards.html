@@ -7,7 +7,7 @@
     <div class="lesson-copy">
       <h2 class="lesson-title">{{ lesson.heading }}</h2>
       <p class="lesson-blurb">{{ lesson.blurb }}</p>
-      <a class="lesson-cta" href="{{ lesson.link | relative_url }}/">Tell me more<i>!</i></a>
+      <a class="lesson-cta" href="{{ lesson.link | relative_url }}/">{{ lesson.cta }}<i>!</i></a>
     </div>
     <div class="lesson-image-container">
       <img class="lesson-image" src="{{ "uploads/" | append: lesson.image | relative_url }}" alt="">
@@ -21,7 +21,7 @@
     <div class="lesson-copy">
       <h2 class="lesson-title">{{ lesson.heading }}</h2>
       <p class="lesson-blurb">{{ lesson.blurb }}</p>
-      <a class="lesson-cta" href="{{ lesson.link | relative_url }}/">Tell me more<i>!</i></a>
+      <a class="lesson-cta" href="{{ lesson.link | relative_url }}/">{{ lesson.cta }}<i>!</i></a>
     </div>
   </div>
   {% endif %}
