@@ -7,7 +7,6 @@ hero: piano-banner-1.jpg
 intro:
   main: Play a song in your first lesson!
   sub: Mill Valley Piano Lessons
-newsletter: true
 testimonial:
   text:
   - In one year my children have learned over fifty songs!
@@ -71,6 +70,8 @@ You’ll quickly develop the ability to play chords and modern accompaniments in
 ## Private and Group Lessons
 
 I offer both group and private lessons. [Contact me](#) to learn more about how I can help you fulfill your music dreams.
+
+{% include lesson-form.html %}
 
 ## Free Piano Tip!
 

@@ -197,6 +197,41 @@ blockquote {
   }
 }
 
+.lesson-form {
+  background-color: $c-secondary-dark;
+  color: $c-primary-light;
+  margin-top: 2em;
+  padding: 1.2em;
+
+  @media (min-width: 761px) { border-radius: 8px; }
+
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
+  p {
+    color: $c-primary;
+    font-family: $font-body-secondary;
+    margin: 0;
+  }
+  input[type="text"] {
+    background-color: $c-primary;
+  }
+  input[type="submit"] {
+    background-color: $c-primary-light;
+    border: 4px solid $c-primary-text;
+    color: $c-primary-text;
+    font-size: 1em;
+    width: auto;
+
+    @media (min-width: 400px) { font-size: 1.2em; }
+  }
+  label span {
+    color: $c-primary;
+    font-size: 80%;
+  }
+}
+
 .address {
   font-family: $font-body-secondary;
   margin: 1.2em auto;
