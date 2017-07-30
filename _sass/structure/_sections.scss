@@ -185,9 +185,6 @@ section {
   text-align: center;
 
   & + & { margin: 0 auto; }
-  &.pattern .lesson-copy {
-    //background-color: white; background-color: rgba(255, 255, 255, .4);
-  }
 
   @media (max-width: 599px) {
     &:nth-child(even) img { margin-bottom: 2em; }
@@ -226,7 +223,7 @@ section {
   i { font-size: 150%; font-weight: bold; margin-left: .1em; }
   &:hover { background-color: $c-secondary; color: $c-secondary-text; }
 }
-.lesson-copy, .lesson-image {
+.lesson-copy, .lesson-image-container {
   margin: auto;
   max-width: 450px;
   @media (min-width: 600px) {
