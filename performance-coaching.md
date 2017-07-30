@@ -7,7 +7,6 @@ hero: performance-coaching-lessons-mill-valley-banner.jpg
 intro:
   main: Win the room over with
   sub: Mill Valley Performance Coaching
-newsletter: true
 testimonial:
   text:
   - I sang out - it was joyous and beautiful.  Honestly, I was a little shocked at
@@ -48,6 +47,8 @@ There is a way to harness creative flow in all that you do and bring your audien
 We all have different triggers and self imposed limitations - that’s where my personalized coaching can be the catalyst to your success. 
 
 It won’t take long to notice a difference. I will give you tangible results from your very first lesson.
+
+{% include lesson-form.html %}
 
 ## Applications of Performance Coaching
 

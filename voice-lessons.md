@@ -7,7 +7,6 @@ hero: voice-singing-lessons-mill-valley-banner.jpg
 intro:
   main: Open up and say Laaaaaah!
   sub: Mill Valley Voice Lessons
-newsletter: true
 testimonial:
   text:
   - I came to Caylia after years of vocal training. She is a dream. With her guidance
@@ -71,6 +70,8 @@ Even if you don't want to sing professionally, learning how to support a free an
 I also provide group singing lessons in Mill Valley. These sessions offer a dynamic collaborative environment to support and learn from others. You'll find that learning happens faster in an environment that fosters camaraderie, brainstorming, empathy and encouragement.
 
 Share your voice and sing with others. Join in the the fun as you learn life long skills in music production. It’s a wonderful experience for people who want to work with other musicians.
+
+{% include lesson-form.html %}
 
 ## Perform with Confidence
 
