@@ -1,17 +1,4 @@
 ---
-title: What kind of Music Teacher am I?
-description: 'My #1 job is to empower your creative development in music. I've been teaching Voice & Piano Lessons in Mill Valley for 15+ years. I LOVE Marin County!'
-id: about
-hero: voice-banner-1.jpg
-intro:
-  main: What kind of Music Teacher am I?
-newsletter: true
-testimonial:
-  text:
-  - As a singer/songwriter looking to hone my gifts and stretch myself both vocally and on the piano - Caylia has been a gift. She cares tremendously and is truthful in her coaching. She is dedicated to helping me discover my own voice, use my
-    words and voice to convey the message I want to put into the world and express it in a way this is truly me
-  name: Bridgette C
-  avatar-image: testimonial-avatar.jpg
 ---
 
 Thank you for taking the time to visit.
