@@ -43,7 +43,7 @@ My highly personalized lessons will bring out your true inner voice and give you
 
 ## What’s in a lesson?
 
-I draw upon [many years of experience](#) to provide lessons that adapt to your interests and personal style.
+I draw upon [many years of experience]({{ 'about/' | relative_url }}) to provide lessons that adapt to your interests and personal style.
 
 ### Techniques and Voice Discovery
 
