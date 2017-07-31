@@ -3,7 +3,7 @@ title: What kind of Music Teacher am I?
 description: 'My #1 job is to empower your creative development in music. I''ve been
   teaching Voice & Piano Lessons in Mill Valley for 15+ years. I LOVE Marin County!'
 id: about
-hero-image: "/uploads/voice-banner-1.jpg"
+hero-image: "/uploads/about-caylia-chaiken-portrait.jpg"
 intro:
   main: What kind of Music Teacher am I?
 newsletter: true
