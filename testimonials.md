@@ -153,7 +153,7 @@ testimonials:
       get your kids started!
   learning-music:
   - name: Nancy V.
-    "/uploads/avatar-image": "/uploads/avatar-nancy-v.jpg"
+    avatar-image: "/uploads/avatar-nancy-v.jpg"
     text:
     - Consider this a life long skill. My daughter uses her music to express herself
       and unwind. I think that my daughter will use that skill, talent and love for
