@@ -22,7 +22,10 @@ Thank you for supporting independent music!
 
 <iframe style="height: 440px;" src="https://bandcamp.com/EmbeddedPlayer/album=3780420270/size=large/bgcol=FEFEFE/linkcol=9A0007/tracklist=false/transparent=true/" seamless><a href="http://chaikenmusic.bandcamp.com/album/caylia-chaiken-bare-naked">Caylia Chaiken: Bare Naked by Caylia Chaiken</a></iframe>
 
-<p>Nisi quisque condimentum dui gravida adipiscing ac porta et scelerisque sit a mi quam vehicula curabitur id a dui nostra nunc nam dis adipiscing nunc aliquam. Ad enim mus sed ac commodo a scelerisque mi torquent phasellus fames vestibulum proin nisi est. Vestibulum ac luctus vitae dis pulvinar a condimentum mi a suspendisse condimentum condimentum aenean sociosqu a venenatis vestibulum porttitor vitae.</p> 
+<p>An intimate, humorous and poignant show about life’s transitions, revelations and making dreams come true. Enjoy the title song about listening to your heart, staying authentic, and... being Bare Naked!</p><p>Released: April 2016<br>
+Words and Music by: Caylia Chaiken<br> 
+Mix and Instrumentals by: John Dixson
+</p> 
 
 </section>
 
@@ -32,7 +35,9 @@ Thank you for supporting independent music!
 
 <iframe style="height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1681758002/size=large/bgcol=FEFEFE/linkcol=9A0007/package=390365217/transparent=true/" seamless><a href="http://chaikenmusic.bandcamp.com/album/caylia-chaiken-the-date-whisperer">Caylia Chaiken: The Date Whisperer by Caylia Chaiken</a></iframe>
 
-<p>Nisi quisque condimentum dui gravida adipiscing ac porta et scelerisque sit a mi quam vehicula curabitur id a dui nostra nunc nam dis adipiscing nunc aliquam. Ad enim mus sed ac commodo a scelerisque mi torquent phasellus fames vestibulum proin nisi est. Vestibulum ac luctus vitae dis pulvinar a condimentum mi a suspendisse condimentum condimentum aenean sociosqu a venenatis vestibulum porttitor vitae.</p>
+<p>One woman’s musical journey into modern dating and relationships. After years of bad dates Caylia realized that her mission was to impart her experiences into song so that others might avoid the same suffering and get a good laugh. Enjoy the songs from this hilarious one woman musical.</p>
+
+<p>©2011 Caylia Chaiken & Jennifer E. Hewitt</p>
 
 </section>
 
