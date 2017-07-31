@@ -24,7 +24,8 @@ Thank you for supporting independent music!
 
 <p>An intimate, humorous and poignant show about life’s transitions, revelations and making dreams come true. Enjoy the title song about listening to your heart, staying authentic, and... being Bare Naked!</p><p>Released: April 2016<br>
 Words and Music by: Caylia Chaiken<br> 
-Mix and Instrumentals by: John Dixson
+Mix and Instrumentals by: John Dixson<br>
+Album Cover by: [La Muse Media](http://www.lamusemedia.com/)
 </p> 
 
 </section>
