@@ -81,4 +81,4 @@ If getting up in front of a crowd makes your heart skip I can help you with Perf
 
 ## Free singing tip - blow a berry!
 
-When you're having difficulty reaching a note or finding the right placement [blow a sustained raspberry](#) while humming the note. This immediately helps you find your placement so the note can be sung out with ease!
+When you're having difficulty reaching a note or finding the right placement blow a sustained raspberry while humming the note. This immediately helps you find your placement so the note can be sung out with ease!
