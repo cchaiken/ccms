@@ -54,18 +54,12 @@ It won’t take long to notice a difference. I will give you tangible results fr
 
 Performance Coaching benefits all people and professions. I have helped people of all professions including:
 
-- Entrepreneurs
-- People in Leadership
-- Actors & Performers
-- Lawyers
-- Musicians & Songwriters
-- Scientists
-- University & College Students
-- Pilates & Yoga Instructors
 - Public Speakers
-- Teachers
-- Cheerleaders
-- Consultants
+- Leaders & Entrepreneurs
+- Musicians & Actors
+- Lawyers
+- Instructors
+- Students
 
 {% include video.html video=1 %}
 
