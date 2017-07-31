@@ -8,6 +8,7 @@ intro:
   style: plain
 contact:
   telephone: 415 383 5395
+hero: contact-page-caylia-chaiken-music-lessons-narrow.jpg
 ---
 
 **I’d love to hear from you.**
@@ -20,3 +21,5 @@ Give me a call at **415 383 5395**, or use the form below.
 Just check one or both of the boxes below.
 
 {% include contact-form.html %}
+
+![contact-page-chaiken-music-studio.jpg](/uploads/contact-page-chaiken-music-studio.jpg)
