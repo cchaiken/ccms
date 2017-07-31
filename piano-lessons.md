@@ -17,9 +17,9 @@ testimonial:
   name: Jamie B.
   avatar-image: "/uploads/avatar-jamie-b-0c046e.jpg"
 videos:
-- 7HNStH-LxCM
-- NUwLrVolRL0
-- DJD8OIF-WYk
+- Ao9qUJ9Bs0Q
+- BiA-vM3DNmA
+- dQnVYEymZLY
 ---
 
 Feel **supported and inspired** with piano lessons that adapt to *your* needs and interests.
