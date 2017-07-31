@@ -72,5 +72,5 @@ Visualize your performance like an Olympic athlete would a race:
 - Feel a positive and personal connection between you and the audience
 - Travel through a compelling rendition of your presentation and imagine your audience alongside you, supporting you, every step of the way.  
 
-And practice, practice, practice - it’s great at generating confidence!
+And *practice, practice, practice* - it’s great at generating confidence!
 
