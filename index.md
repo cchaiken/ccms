@@ -69,7 +69,7 @@ Music is healing and transformative. It has the power to dissolve boundaries and
 
 **Supercharge Your Brain**
 
-Learning and playing music is fantastic for neurological development. It will fundamentally alter your nervous system for the better, improve your fine motor skills memory and cognition. (source)
+Learning and playing music is fantastic for neurological development. It will fundamentally alter your nervous system for the better, improve your fine motor skills memory and cognition.
 
 ### Why Me?
 

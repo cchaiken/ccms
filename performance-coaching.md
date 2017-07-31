@@ -30,7 +30,7 @@ Got musical skills, but lack the confidence to share them with the world?
 
 Have you ever felt terrified by the notion of being in front of a crowd of people?  That fear and self consciousness is often the only thing stopping you from achieving your long held dreams in life. 
 
-It could be blocking you from nailing a job interview or musical audition. Perhaps it’s holding you back from securing a new client, or presenting results to stakeholders in a compelling and positive way. The [applications](#) are endless.
+It could be blocking you from nailing a job interview or musical audition. Perhaps it’s holding you back from securing a new client, or presenting results to stakeholders in a compelling and positive way. The applications are endless.
 
 It doesn’t matter who you are or what you do….
 
@@ -54,18 +54,12 @@ It won’t take long to notice a difference. I will give you tangible results fr
 
 Performance Coaching benefits all people and professions. I have helped people of all professions including:
 
-- Entrepreneurs
-- People in Leadership
-- Actors & Performers
-- Lawyers
-- Musicians & Songwriters
-- Scientists
-- University & College Students
-- Pilates & Yoga Instructors
 - Public Speakers
-- Teachers
-- Cheerleaders
-- Consultants
+- Leaders & Entrepreneurs
+- Musicians & Actors
+- Lawyers
+- Instructors
+- Students
 
 {% include video.html video=1 %}
 
@@ -78,5 +72,5 @@ Visualize your performance like an Olympic athlete would a race:
 - Feel a positive and personal connection between you and the audience
 - Travel through a compelling rendition of your presentation and imagine your audience alongside you, supporting you, every step of the way.  
 
-And practice, practice, practice - it’s great at generating confidence!
+And *practice, practice, practice* - it’s great for generating confidence!
 
