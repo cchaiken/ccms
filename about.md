@@ -20,7 +20,7 @@ testimonial:
 
 Thank you for taking the time to visit.
 
-If you *really* want to know how much of a blast you can have playing music \[try a free lesson\]({{ '/contact/' | relative_url }})!
+If you *really* want to know how much of a blast you can have playing music [try a free lesson]({{ '/contact/' | relative_url }})!
 
 My #1 job is to empower **your** creative development and self expression in music. I bring a lighthearted approach to teaching that is fun and engaging. It makes the learning part **easy**.
 
