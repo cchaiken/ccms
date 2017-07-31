@@ -1,7 +1,6 @@
 ---
 title: What kind of Music Teacher am I?
-description: 'My #1 job is to empower your creative development in music. I''ve been
-  teaching Voice & Piano Lessons in Mill Valley for 15+ years. I LOVE Marin County!'
+description: 'My #1 job is to empower your creative development in music. I've been teaching Voice & Piano Lessons in Mill Valley for 15+ years. I LOVE Marin County!'
 id: about
 hero: voice-banner-1.jpg
 intro:
@@ -9,11 +8,8 @@ intro:
 newsletter: true
 testimonial:
   text:
-  - As a singer/songwriter looking to hone my gifts and stretch myself both vocally
-    and on the piano - Caylia has been a gift. She cares tremendously and is truthful
-    in her coaching. She is dedicated to helping me discover my own voice, use my
-    words and voice to convey the message I want to put into the world and express
-    it in a way this is truly me
+  - As a singer/songwriter looking to hone my gifts and stretch myself both vocally and on the piano - Caylia has been a gift. She cares tremendously and is truthful in her coaching. She is dedicated to helping me discover my own voice, use my
+    words and voice to convey the message I want to put into the world and express it in a way this is truly me
   name: Bridgette C
   avatar-image: testimonial-avatar.jpg
 ---
@@ -30,7 +26,7 @@ My lessons will connect you to your innate musical talents and give you the skil
 
 ## A Marin County Local
 
-I've been living and teaching private [Voice]({ 'voice-lessons/' | relative_url }) & [Piano]({{ 'piano-lessons/' | relative_url }}) Lessons and [Performance Coaching]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
+I've been living and teaching private [Voice]({{ 'voice-lessons/' | relative_url }}) & [Piano]({{ 'piano-lessons/' | relative_url }}) Lessons and [Performance Coaching]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
 
 {% include testimonial-card.html testimonial=page.testimonial %}
 
@@ -52,6 +48,6 @@ Many schools and studios have hosted my classes and workshops. I was delighted t
 
 As a professional pianist, singer, composer and songwriter I have performed across the USA. I was honored to perform the [National Anthem](https://www.youtube.com/watch?v=zqdYqJS9inU) in front of 47,000 people at the SF Giants Stadium. I received a standing ovation on the day (well... *they were already standing*) and most importantly, **we won the game**. I like to think that I had something to do with it!
 
-You can listen to a selection of my work in the Store, [Bandcamp](http://chaikenmusic.bandcamp.com/) and on my [YouTube channel](https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg). If you’d like to see me perform be sure to [follow me on Facebook](#) for the latest event news.
+You can listen to a selection of my work in the Store, [Bandcamp](http://chaikenmusic.bandcamp.com/) and on my [YouTube channel](https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg). If you’d like to see me perform be sure to [follow me on Facebook](https://www.facebook.com/cayliachaikenmusicstudio/) for the latest event news.
 
 Call me at 415 383 5395 if you have any questions or would like more information about how to get started playing music!
