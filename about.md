@@ -50,6 +50,8 @@ Many schools and studios have hosted my classes and workshops. I was delighted t
 
 **YES!**
 
+![caylia-chaiken-performing-onstage.jpg](/uploads/caylia-chaiken-performing-onstage.jpg)
+
 As a professional pianist, singer, composer and songwriter I have performed across the USA. I was honored to perform the [National Anthem](https://www.youtube.com/watch?v=zqdYqJS9inU) in front of 47,000 people at the SF Giants Stadium. I received a standing ovation on the day (well... *they were already standing*) and most importantly, **we won the game**. I like to think that I had something to do with it!
 
 You can listen to a selection of my work in the Store, [Bandcamp](http://chaikenmusic.bandcamp.com/) and on my [YouTube channel](https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg). If you’d like to see me perform be sure to [follow me on Facebook](https://www.facebook.com/cayliachaikenmusicstudio/) for the latest event news.
