@@ -5,9 +5,9 @@
   
   {% include header.html %}
 
-  {% if page.hero %}
+  {% if page.hero-image %}
   <section class="hero">
-    <img src="{{ "uploads/" | append: page.hero | relative_url }}">
+    <img src="{{ page.hero-image | relative_url }}">
   </section>
   {% endif %}
 

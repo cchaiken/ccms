@@ -5,10 +5,9 @@ description: I’d love to hear from you. Let’s discuss how I can help you rea
 id: contact
 intro:
   main: Contact Caylia
-  style: plain
 contact:
   telephone: 415 383 5395
-hero: contact-page-caylia-chaiken-music-lessons-narrow.jpg
+hero-image: "/uploads/contact-page-caylia-chaiken-music-lessons-narrow.jpg"
 ---
 
 **I’d love to hear from you.**

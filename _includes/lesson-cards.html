@@ -10,13 +10,13 @@
       <a class="lesson-cta" href="{{ lesson.link | relative_url }}/">{{ lesson.cta }}<i>!</i></a>
     </div>
     <div class="lesson-image-container">
-      <img class="lesson-image" src="{{ "uploads/" | append: lesson.image | relative_url }}" alt="">
+      <img class="lesson-image" src="{{ lesson.image | relative_url }}" alt="">
     </div>
   </div>
   {% else %}
   <div class="lesson">
     <div class="lesson-image-container">
-      <img class="lesson-image" src="{{ "uploads/" | append: lesson.image | relative_url }}" alt="">
+      <img class="lesson-image" src="{{ lesson.image | relative_url }}" alt="">
     </div>
     <div class="lesson-copy">
       <h2 class="lesson-title">{{ lesson.heading }}</h2>

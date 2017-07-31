@@ -209,7 +209,6 @@ Here's what my students are saying about their music lessons.
 {% include testimonial-card.html testimonial=each %}
 {% endfor %}
 
-
 ## Voice Lessons
 
 {% for each in page.testimonials.voice %}
