@@ -49,13 +49,10 @@ The Marin Idol experience is action packed. We’ll cover a lot of territory ove
 
 - Learn to shine onstage like a Pop Star!
 - Find your own true voice to stand apart from the pack
-- Bring your coolest dance moves to the stage
 - Discover how to sing, harmonize, dance and interact with fellow performers
-- Write a compelling Bio
 - Sing the songs that suit your talents
-- Create fresh and interesting arrangements to make those songs your own
 - Learn the performance techniques that only the pros know
-- Express your fashion style with unique clothing, hair and makeup 
+- Express your fashion style with unique clothing, hair and makeup
 
 {% include video.html video=1 %}
 
