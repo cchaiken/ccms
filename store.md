@@ -24,7 +24,8 @@ Thank you for supporting independent music!
 
 <p>An intimate, humorous and poignant show about life’s transitions, revelations and making dreams come true. Enjoy the title song about listening to your heart, staying authentic, and... being Bare Naked!</p><p>Released: April 2016<br>
 Words and Music by: Caylia Chaiken<br> 
-Mix and Instrumentals by: John Dixson
+Mix and Instrumentals by: John Dixson<br>
+Album Cover by: [La Muse Media](http://www.lamusemedia.com/)
 </p> 
 
 </section>
@@ -37,7 +38,9 @@ Mix and Instrumentals by: John Dixson
 
 <p>One woman’s musical journey into modern dating and relationships. After years of bad dates Caylia realized that her mission was to impart her experiences into song so that others might avoid the same suffering and get a good laugh. Enjoy the songs from this hilarious one woman musical.</p>
 
-<p>©2011 Caylia Chaiken & Jennifer E. Hewitt</p>
+<p>
+Album Cover Photo: [Bryan John Hendon](www.bryanjohnhendon.com)<br>
+©2011 Caylia Chaiken & Jennifer E. Hewitt</p>
 
 </section>
 
