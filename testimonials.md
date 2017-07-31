@@ -52,13 +52,13 @@ testimonials:
     - I’ve also noticed that it’s bled into the rest of her life. She has more confidence
       in her school performances and presentations. Thank you Caylia!
   - name: Susan D.
-    avatar-image: 
+    avatar-image:
     text:
     - Caylia's heart is in her music and with her students. Our daughter has found
       her voice because of Caylia!
   piano:
   - name: Marie H.
-    avatar-image: 
+    avatar-image:
     text:
     - With Caylia teaching me, I like playing the piano so much more.
     - I am very happy to have Caylia as my wonderful and gifted teacher.
@@ -78,7 +78,7 @@ testimonials:
     - I play the piano but when I’m at Caylia’s, it doesn’t matter what level you’re
       on - it just matters that you’re playing the piano and having fun.
   - name: Jerry K.
-    avatar-image: 
+    avatar-image:
     text:
     - It has been great working with you. I felt like you opened the door for me to
       begin playing again. Forever grateful!
@@ -111,7 +111,7 @@ testimonials:
     - Thanks for encouraging my daughter and giving her the confidence to sing in
       front of an audience, she has never done that before!
   - name: Tiffany V.
-    avatar-image: 
+    avatar-image:
     text:
     - The performance was a great experience! Thank you so much for working with her
       and giving her so much confidence. You are the best.
@@ -153,7 +153,7 @@ testimonials:
       get your kids started!
   learning-music:
   - name: Nancy V.
-    "/uploads/avatar-image": "/uploads/avatar-nancy-v.jpg"
+    avatar-image: "/uploads/avatar-nancy-v.jpg"
     text:
     - Consider this a life long skill. My daughter uses her music to express herself
       and unwind. I think that my daughter will use that skill, talent and love for
@@ -174,7 +174,7 @@ testimonials:
       to enhance your experience and enjoyment of music. Sign up now. You won't be
       sorry.
   - name: Garrett L.
-    avatar-image: 
+    avatar-image:
     text:
     - Caylia has the unique ability to support and lead students to achieve their
       very best.
