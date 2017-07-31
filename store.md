@@ -38,7 +38,9 @@ Album Cover by: [La Muse Media](http://www.lamusemedia.com/)
 
 <p>One woman’s musical journey into modern dating and relationships. After years of bad dates Caylia realized that her mission was to impart her experiences into song so that others might avoid the same suffering and get a good laugh. Enjoy the songs from this hilarious one woman musical.</p>
 
-<p>©2011 Caylia Chaiken & Jennifer E. Hewitt</p>
+<p>
+Album Cover Photo: [Bryan John Hendon](www.bryanjohnhendon.com)<br>
+©2011 Caylia Chaiken & Jennifer E. Hewitt</p>
 
 </section>
 
