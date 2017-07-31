@@ -15,6 +15,7 @@ testimonial:
   name: Soleil Dakota
   avatar-image: "/uploads/avatar-soleil-dakota.jpg"
 videos:
+- UhE_iHDJH4M
 - xiA36ifgFkg
 ---
 
@@ -38,7 +39,9 @@ It doesn’t matter who you are or what you do….
 
 Your life is filled with a thousand forms of “performance” so why restrict your success and potential just because of a few challenges?
 
-There’s no reason why you can’t be the next Steve Jobs or Lady Gaga in your field and all it takes is a few lessons to get you on your way. 
+There’s no reason why you can’t be the next Steve Jobs or Lady Gaga in your field and all it takes is a few lessons to get you on your way.
+
+{% include video.html video=1 %}
 
 ## Find your Flow
 
@@ -61,7 +64,7 @@ Performance Coaching benefits all people and professions. I have helped people o
 - Instructors
 - Students
 
-{% include video.html video=1 %}
+{% include video.html video=2 %}
 
 ## Free Performance Coaching Tip
 
