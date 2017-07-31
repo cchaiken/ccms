@@ -36,13 +36,13 @@ I've been living and teaching private [Voice]({{ 'voice-lessons/' | relative_url
 
 ## My Background & Experience
 
-As a **Musician and Performer** I trained in voice and piano at the [San Francisco Conservatory of Music](https://sfcm.edu/) and was awarded Bachelor of Fine Arts for Music and Musical Theater from [San Francisco State University](http://music.sfsu.edu/).
+As a **Musician and Performer** I trained in voice and piano at the **San Francisco Conservatory of Music** and was awarded Bachelor of Fine Arts for Music and Musical Theater from **San Francisco State University**.
 
 By age 14 I wrote my first Musical (*I know, right?*) and have been creating ever since. I’ve written, produced, composed and performed 2 one woman shows ([The Date Whisperer](https://chaikenmusic.bandcamp.com/album/caylia-chaiken-the-date-whisperer) & [Bare Naked](https://chaikenmusic.bandcamp.com/album/caylia-chaiken-bare-naked)) to sold out audiences in Marin, Sonoma and San Francisco and have been a Producer, Performer and Accompanist for many Cabaret Acts,  School Musicals, Theater Companies and Talent Shows.
 
 I've been fortunate to have worked with many wonderful North Bay musical theater programs including the Marin Youth Musical Theater Program at the [Throckmorton Theater](http://throckmortontheatre.org/) (founding Musical Director), Vector Theater (Musical Director) and TheaterNow Productions (Musical Director and performer).
 
-As an *educator* I hold a Masters of Education from Marin County's own Dominican University and am fully credentialed to teach music in the State of California. I am also accredited to teach the [Simply Music™](https://simplymusic.com) method of Piano Education.
+As an **Educator** I hold a Masters of Education from Marin County's own Dominican University and am fully credentialed to teach music in the State of California. I am also accredited to teach the [Simply Music™](https://simplymusic.com) method of Piano Education.
 
 Many schools and studios have hosted my classes and workshops. I was delighted to be the Choral Director and Elementary Music Teacher in the Ross Valley School District where I worked with hundreds of students from Wade Thomas, White Hill Middle School, Manor Elementary and Brookside schools. I’ve also taught General Music (K-5) at several schools in the Mill Valley and San Rafael districts.
 
