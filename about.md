@@ -20,7 +20,7 @@ testimonial:
 
 Thank you for taking the time to visit.
 
-If you *really* want to know how much of a blast you can have playing music \[try a free lesson\]({{ '/contact/' | relative_url }})!
+If you *really* want to know how much of a blast you can have playing music [try a free lesson]({{ '/contact/' | relative_url }})!
 
 My #1 job is to empower **your** creative development and self expression in music. I bring a lighthearted approach to teaching that is fun and engaging. It makes the learning part **easy**.
 
@@ -30,7 +30,7 @@ My lessons will connect you to your innate musical talents and give you the skil
 
 ## A Marin County Local
 
-I've been living and teaching private [Voice]({{ 'voice-lessons/' | relative_url }}) & [Piano]({{ 'piano-lessons/' | relative_url }}) Lessons and [Performance Coaching]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
+I've been living and teaching private [Voice]({ 'voice-lessons/' | relative_url }) & [Piano]({{ 'piano-lessons/' | relative_url }}) Lessons and [Performance Coaching]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
 
 {% include testimonial-card.html %}
 
