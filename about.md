@@ -30,7 +30,7 @@ My lessons will connect you to your innate musical talents and give you the skil
 
 ## A Marin County Local
 
-I've been living and teaching private \[Voice\]({{ 'voice-lessons/' | relative_url }}) & \[Piano\]({{ 'piano-lessons/' | relative_url }}) Lessons and \[Performance Coaching\]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
+I've been living and teaching private [Voice]({{ 'voice-lessons/' | relative_url }}) & [Piano]({{ 'piano-lessons/' | relative_url }}) Lessons and [Performance Coaching]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
 
 {% include testimonial-card.html %}
 
