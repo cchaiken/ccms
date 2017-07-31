@@ -8,7 +8,14 @@ intro:
   style: plain
 ---
 
-Adipiscing a nibh a ante in duis condimentum tristique a dis tortor sociosqu eleifend a integer. A nam in interdum tristique ullamcorper donec convallis mus lacinia suspendisse at justo adipiscing quisque a magna a hac in ad. A ad etiam a ac nibh consectetur platea consectetur a dui quisque a purus nascetur eleifend turpis nam morbi ut bibendum ad suscipit a scelerisque condimentum. Nostra aliquet suspendisse feugiat a a tellus condimentum in cras turpis vulputate accumsan a hac.
+Welcome to my online store.
+
+Below you’ll find a selection of songs, albums and fun and playful musical accessories.
+
+The album recordings are derived from my one woman musicals that I've Written, Produced and Directed. If you're interested to learn more about these productions please get in touch.
+
+Thank you for supporting independent music!
+
 
 
 <section class="bandcamp">
