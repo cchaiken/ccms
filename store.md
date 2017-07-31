@@ -37,3 +37,5 @@ Thank you for supporting independent music!
 <p>Nisi quisque condimentum dui gravida adipiscing ac porta et scelerisque sit a mi quam vehicula curabitur id a dui nostra nunc nam dis adipiscing nunc aliquam. Ad enim mus sed ac commodo a scelerisque mi torquent phasellus fames vestibulum proin nisi est. Vestibulum ac luctus vitae dis pulvinar a condimentum mi a suspendisse condimentum condimentum aenean sociosqu a venenatis vestibulum porttitor vitae.</p>
 
 </section>
+
+My sincere thanks goes out to all of the talented artists who worked with me on these productions. 
