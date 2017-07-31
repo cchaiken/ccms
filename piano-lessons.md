@@ -3,7 +3,7 @@ title: Mill Valley Piano Lessons
 description: Piano Lessons that adapt to your needs and interests. Unlock the magic
   with Mill Valley's most versatile Music Teacher.  Try a free Simply Music™ lesson!
 id: piano-lessons
-hero: mill-valley-piano-lessons.jpg
+hero-image: "/uploads/mill-valley-piano-lessons.jpg"
 intro:
   main: Play a song in your first lesson!
   sub: Mill Valley Piano Lessons
