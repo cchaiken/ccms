@@ -71,8 +71,6 @@ You’ll quickly develop the ability to play chords and modern accompaniments in
 
 I offer both group and private lessons. [Contact me](#) to learn more about how I can help you fulfill your music dreams.
 
-{% include lesson-form.html %}
-
 ## Free Piano Tip!
 
 Here is a game to help you achieve the [rounded hand position](#):
@@ -82,3 +80,5 @@ Here is a game to help you achieve the [rounded hand position](#):
 3. Have your crab guard it's side of the table from your friends crab.
 
 The more you play, the better your rounded piano hand position will become. It's fun!
+
+{% include lesson-form.html %}
