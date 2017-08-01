@@ -51,8 +51,6 @@ We all have different triggers and self imposed limitations - that’s where my 
 
 It won’t take long to notice a difference. I will give you tangible results from your very first lesson.
 
-{% include lesson-form.html %}
-
 ## Applications of Performance Coaching
 
 Performance Coaching benefits all people and professions. I have helped people of all professions including:
@@ -77,3 +75,4 @@ Visualize your performance like an Olympic athlete would a race:
 
 And *practice, practice, practice* - it’s great for generating confidence!
 
+{% include lesson-form.html %}
