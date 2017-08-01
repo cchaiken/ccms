@@ -17,6 +17,7 @@ testimonial:
 videos:
 - UhE_iHDJH4M
 - xiA36ifgFkg
+colophon: 
 ---
 
 Need help presenting your ideas or work to large groups?
@@ -29,7 +30,7 @@ Got musical skills, but lack the confidence to share them with the world?
 
 ## Crowd out the fear!
 
-Have you ever felt terrified by the notion of being in front of a crowd of people?  That fear and self consciousness is often the only thing stopping you from achieving your long held dreams in life. 
+Have you ever felt terrified by the notion of being in front of a crowd of people?  That fear and self consciousness is often the only thing stopping you from achieving your long held dreams in life.
 
 It could be blocking you from nailing a job interview or musical audition. Perhaps it’s holding you back from securing a new client, or presenting results to stakeholders in a compelling and positive way. The applications are endless.
 
@@ -47,7 +48,7 @@ There’s no reason why you can’t be the next Steve Jobs or Lady Gaga in your 
 
 There is a way to harness creative flow in all that you do and bring your audience into the magic of your work.
 
-We all have different triggers and self imposed limitations - that’s where my personalized coaching can be the catalyst to your success. 
+We all have different triggers and self imposed limitations - that’s where my personalized coaching can be the catalyst to your success.
 
 It won’t take long to notice a difference. I will give you tangible results from your very first lesson.
 

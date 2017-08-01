@@ -201,8 +201,6 @@ Here's what my students are saying about their music lessons.
   </ul>
 </nav>
 
-<span class="yelp-review" data-review-id="3nO8tlFxIX637tgHprS0AQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=itpvT0MyieGofs5Cc1r2Mg" rel="nofollow noopener">Wendy Louise N.</a>'s <a href="https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley?hrid=3nO8tlFxIX637tgHprS0AQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/Uoi38X0I4iTGnBlV5XLhEg" rel="nofollow noopener">Caylia Chaiken Music Studio</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>
-
 ## Learning Music
 
 {% for each in page.testimonials.learning-music %}

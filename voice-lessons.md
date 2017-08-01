@@ -18,11 +18,13 @@ videos:
 - hFvXBy4K4PE
 - QbN31iBaZYc
 - xAZg6jf4OZ4
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 ## Everybody can sing!
 
-> The only thing better than singing is more singing. 
+> The only thing better than singing is more singing.
 > <cite>Ella Fitzgerald</cite>
 
 It’s as natural as breathing air and is the first sound you make in life.
