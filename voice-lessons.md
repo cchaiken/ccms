@@ -71,8 +71,6 @@ I also provide group singing lessons in Mill Valley. These sessions offer a dyna
 
 Share your voice and sing with others. Join in the the fun as you learn life long skills in music production. It’s a wonderful experience for people who want to work with other musicians.
 
-{% include lesson-form.html %}
-
 ## Perform with Confidence
 
 If getting up in front of a crowd makes your heart skip I can help you with [Performance Coaching]({{ 'performance-coaching/' | relative_url }}). As a Performer, Arranger, Musical Director, Voice and Acting Coach I can help you become more comfortable in groups, presenting on stage, conducting meetings or just meeting new people.
@@ -82,3 +80,5 @@ If getting up in front of a crowd makes your heart skip I can help you with [Per
 ## Free singing tip - blow a berry!
 
 When you're having difficulty reaching a note or finding the right placement blow a sustained raspberry while humming the note. This immediately helps you find your placement so the note can be sung out with ease!
+
+{% include lesson-form.html %}
