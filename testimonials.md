@@ -231,6 +231,10 @@ Here's what my students are saying about their music lessons.
 {% include testimonial-card.html testimonial=each %}
 {% endfor %}
 
-## Try a free lesson!
+### Try a free lesson!
 
 Why not find out for yourself? If you are interested in Voice or Piano lessons I offer [free introductory lessons]({{ '/contact/' | relative_url }}).
+
+### More reviews available on Yelp
+
+For more testimonials from happy students be sure to [find me on Yelp](https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley).
