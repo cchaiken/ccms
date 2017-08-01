@@ -8,7 +8,8 @@ intro:
 contact:
   telephone: 415 383 5395
 hero-image: "/uploads/contact-page-caylia-chaiken-music-lessons-narrow.jpg"
-colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 **I’d love to hear from you.**

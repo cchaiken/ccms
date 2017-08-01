@@ -24,7 +24,8 @@ testimonials:
     stage. Caylia found the performer in my daughter. Go Caylia!
 videos:
 - dcyKmIYgFa0
-colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 Wanna feel like a star and shine under the spotlight?

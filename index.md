@@ -41,7 +41,8 @@ lessons:
   image: "/uploads/home-page-marin-idol.jpg"
   link: marin-idol-performance-camps
   cta: Count me in
-colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 **Curious to find the music inside you but don't know where to begin?**

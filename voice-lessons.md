@@ -18,7 +18,8 @@ videos:
 - hFvXBy4K4PE
 - QbN31iBaZYc
 - xAZg6jf4OZ4
-colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 ## Everybody can sing!

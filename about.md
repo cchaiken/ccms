@@ -16,7 +16,8 @@ testimonial:
     it in a way this is truly me
   name: Bridgette C
   avatar-image: "/uploads/avatar-bridgette-c.jpg"
-colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 Thank you for taking the time to visit.

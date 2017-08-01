@@ -20,7 +20,8 @@ videos:
 - Ao9qUJ9Bs0Q
 - BiA-vM3DNmA
 - dQnVYEymZLY
-colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
+  Dean Photography</a>
 ---
 
 Feel **supported and inspired** with piano lessons that adapt to *your* needs and interests.
