@@ -3,6 +3,7 @@ title: Store
 description: Welcome to my online store. Listen to and purchase albums from my musical
   discography. Digital downloads and CDs available.
 id: store
+newsletter: true
 intro:
   main: Store
   style: plain
@@ -23,9 +24,9 @@ Thank you for supporting independent music!
 <iframe style="height: 440px;" src="https://bandcamp.com/EmbeddedPlayer/album=3780420270/size=large/bgcol=FEFEFE/linkcol=9A0007/tracklist=false/transparent=true/" seamless><a href="http://chaikenmusic.bandcamp.com/album/caylia-chaiken-bare-naked">Caylia Chaiken: Bare Naked by Caylia Chaiken</a></iframe>
 
 <p>An intimate, humorous and poignant show about life’s transitions, revelations and making dreams come true. Enjoy the title song about listening to your heart, staying authentic, and... being Bare Naked!</p><p>Released: April 2016<br>
-Words and Music by: Caylia Chaiken<br> 
+Words and Music by: Caylia Chaiken<br>
 Mix and Instrumentals by: John Dixson<br>
-Album Cover by: <a href="http://www.lamusemedia.com/">La Muse Media</a></p> 
+Album Cover by: <a href="http://www.lamusemedia.com/">La Muse Media</a></p>
 
 </section>
 
@@ -43,4 +44,4 @@ Album Cover: Bryan John Hendon<br>
 
 </section>
 
-My sincere thanks goes out to all of the talented artists who worked with me on these productions. 
+My sincere thanks goes out to all of the talented artists who worked with me on these productions.
