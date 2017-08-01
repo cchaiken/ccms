@@ -24,6 +24,7 @@ testimonials:
     stage. Caylia found the performer in my daughter. Go Caylia!
 videos:
 - dcyKmIYgFa0
+colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark Dean Photography</a>
 ---
 
 Wanna feel like a star and shine under the spotlight?
@@ -37,7 +38,7 @@ What if you could sing like the next Adele?
 
 ## What’s it all about?
 
-Marin Idol is a musical performance camp designed to transform and empower people between the ages of 9-18. It offers an unforgettable multi-day singing and performance immersion program in a fun and nurturing environment. 
+Marin Idol is a musical performance camp designed to transform and empower people between the ages of 9-18. It offers an unforgettable multi-day singing and performance immersion program in a fun and nurturing environment.
 
 ![marin-idol-performance-camp-lunch.jpg](/uploads/marin-idol-performance-camp-lunch.jpg)
 
@@ -99,12 +100,12 @@ Bring your own lunch and I’ll provide other snacks and refreshments. We’ll t
 
 To secure your spot at these transformative camps please download and complete the registration form and mail it to:
 
-{ PO Box Here } 
+{ PO Box Here }
 
 Or you can scan it and send it as a PDF to { email here }. If you have any questions be sure to reach out!
 {% endcomment %}
 
-## Cancellation Policy 
+## Cancellation Policy
 
 - Payment is due upon registration (for more information see the form)
 - Cancellations submitted 30 days before the event receive a refund of 50%
