@@ -47,6 +47,8 @@ My highly personalized lessons will bring out your true inner voice and give you
 
 I draw upon [many years of experience]({{ 'about/' | relative_url }}) to provide lessons that adapt to your interests and personal style.
 
+[How about a free introductory lesson?](#lesson-form)
+
 ### Techniques and Voice Discovery
 
 I can safely guide you through the technical foundations including breath control, support and placement, ear training, rhythm recognition and diction. I’ll also ensure that your voice reflects who you are by:
