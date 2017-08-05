@@ -127,6 +127,10 @@ section {
   background: $c-primary;
   padding: 1.5em 1em 2em;
   text-align: center;
+
+  & + p {
+    margin-top: 2.5em;
+  }
 }
 .testimonial-copy {
   font-family: $font-body-secondary;
