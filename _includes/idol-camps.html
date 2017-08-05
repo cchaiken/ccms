@@ -1,8 +1,17 @@
 {% if page.camps %}
-{% assign camp-quantity = page.camps | size %}
+  {% assign camps = page.camps %}
+  {% assign extra-heading = '' %}
+{% else %}
+  {% assign idol-page = site.pages | where: 'id', 'marin-idol-performance-camps' %}
+  {% assign camps = idol-page[0].camps %}
+  {% assign extra-heading = 'Marin Idol Performance ' %}
+{% endif %}
+
+{% if camps %}
+{% assign camp-quantity = camps | size %}
 <section class="upcoming-camps pattern">
-    <h2>Upcoming {% if camp-quantity > 1 %}Camps{% else %}Camp{% endif %}</h2>
-    {% for camp in page.camps %}
+    <h2>Upcoming {{ extra-heading }}{% if camp-quantity > 1 %}Camps{% else %}Camp{% endif %}</h2>
+    {% for camp in camps %}
     <div class="camp-register">
     <h3> {{ camp.date }} <span>{{ camp.description }}</span> </h3>
     <p>Times: <span>{{ camp.times }}</span></p>
