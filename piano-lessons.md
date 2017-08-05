@@ -43,6 +43,8 @@ My piano lessons provide results from day one. You’ll discover how to:
 - Immerse yourself in improvisation
 - Get the theory and reading tools that the pros have
 
+[How about a free introductory lesson?](#lesson-form)
+
 {% include testimonial-card.html testimonial=page.testimonial %}
 
 ## What is Simply Music?

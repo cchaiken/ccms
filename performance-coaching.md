@@ -42,6 +42,8 @@ Your life is filled with a thousand forms of “performance” so why restrict y
 
 There’s no reason why you can’t be the next Steve Jobs or Lady Gaga in your field and all it takes is a few lessons to get you on your way.
 
+[Do you need Performance Coaching?](#lesson-form)
+
 {% include video.html video=1 %}
 
 ## Find your Flow
