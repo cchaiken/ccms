@@ -5,6 +5,7 @@
   {% assign idol-page = site.pages | where: 'id', 'marin-idol-performance-camps' %}
   {% assign camps = idol-page[0].camps %}
   {% assign extra-heading = 'Marin Idol Performance ' %}
+  {% assign more = true %}
 {% endif %}
 
 {% if camps %}
@@ -20,5 +21,8 @@
     <p>{{ camp.eventbrite }}</p>
     </div>
     {% endfor %}
+    {% if more %}
+    <p><a href="/marin-idol-performance-camps">What's a Marin Idol Performance Camp?</a></p>
+    {% endif %}
 </section>
 {% endif %}
