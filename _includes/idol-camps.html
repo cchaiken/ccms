@@ -1,0 +1,15 @@
+{% if page.camps %}
+{% assign camp-quantity = page.camps | size %}
+<section class="upcoming-camps pattern">
+    <h2>Upcoming {% if camp-quantity > 1 %}Camps{% else %}Camp{% endif %}</h2>
+    {% for camp in page.camps %}
+    <div class="camp-register">
+    <h3> {{ camp.date }} <span>{{ camp.description }}</span> </h3>
+    <p>Times: <span>{{ camp.times }}</span></p>
+    <p>Days: <span>{{ camp.days }}</span></p>
+    <p>Cost: <span>{{ camp.cost }}</span></p>
+    <p>{{ camp.eventbrite }}</p>
+    </div>
+    {% endfor %}
+</section>
+{% endif %}
