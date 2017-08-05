@@ -201,8 +201,12 @@ blockquote {
   input[type="submit"] {
     width: auto;
 
-    @media (min-width: 400px) { font-size: 1.2em; }
+    @media (max-width: 400px) { font-size: 90%; }
   }
+  [for="mail-optin"] span {
+    @media (max-width: 400px) { font-size: 88%; }
+  }
+
 }
 
 .address {

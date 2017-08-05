@@ -390,3 +390,38 @@ section {
     }
   }
 }
+.colophon {
+  background: lighten($c-primary, 4%);
+  font-family: $font-body-secondary;
+  font-style: italic;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  text-align: right;
+
+  p {
+    font-size: 14px; font-size: .875rem;
+    padding: 0 16px;
+    @media (min-width: 720px) {
+      font-size: 14px; font-size: .875rem;
+      padding: 0;
+    }
+  }
+
+  a {
+    color: $c-secondary-dark;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 0 2px;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+      background-color: $c-secondary-dark;
+      color: white;
+    }
+  }
+
+  & + footer {
+    margin-top: 0;
+  } 
+}
