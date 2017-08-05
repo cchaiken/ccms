@@ -248,17 +248,45 @@ section {
   }
 }
 
-.eventbrite {
-  margin-top: 1em;
-  max-width: 730px;
-  padding: 0 1em;
+.upcoming-camps {
+  margin: 4em auto;
+  max-width: 1200px;
+  padding: 1.2em 1em 2em;
+  text-align: center;
 
-  iframe {
-    height: 330px;
+  @media (min-width: 1201px) { border-radius: 10px; }
 
-    @media (min-width: 512px) {
-      height: 306px;
+  h2 {
+    font-size: 250%;
+    margin: .5em auto 0;
+    text-transform: uppercase;
+  }
+  h3 {
+    margin: 0 0 .2em;
+    span { display: block; }
+  }
+  p {
+    font-family: $font-body-secondary;
+    font-size: 18px; font-size: 1.125rem;
+    line-height: 1.2;
+    margin-top: .6em;
+
+    span {
+      white-space: nowrap;
     }
+
+    &:last-child {
+      margin-top: 1em;
+    }
+  }
+  .camp-register {
+    background-color: white;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    display: inline-block;
+    margin: 1em .5em;
+    padding: 1em .5em;
+    width: auto;
   }
 }
 
