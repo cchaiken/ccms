@@ -7,42 +7,44 @@
 {%   assign type = 'Performance Coaching' %}
 {% endif %}
 
-<form class="ccms-formspree lesson-form" id="ccms-formspree-form" method="post"
-      action="https://formspree.io/bobbymray@gmail.com">
-
-  {% case page.id %}
-    {% when 'voice-lessons' %}
-       <h2>Want a Free Voice Lesson?</h2>
-       <p>I'll show you how to express your true self!</p>
-    {% when 'piano-lessons' %}
-       <h2>Want a Free Piano Lesson?</h2>
-       <p>Learn a song on your first day!</p>
-    {% when 'performance-coaching' %}
-       <h2>Do you need Performance Coaching?</h2>
-       <p>Send your name and email, and I'll get back to you.</p>
-  {% endcase %}
-
-  <h2></h2>
-
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_subject" value="{{ type }} enquiry from chaikenmusic.com">
-  <input type="hidden" name="_next" value="{{ '/thanks/' | absolute_url }}" />
-
-  <label class="text-input" for="name">Name</label>
-  <input type="text" name="Name" id="name" required="">
-
-  <label class="text-input" for="email">Email</label>
-  <input type="email" name="Email" id="email" required="">
-
-  <label for="mail-optin"><input id="mail-optin" type="checkbox" name="mail-optin" value="YES">
-    <span>Add me to your mailing list</span></label>
-
-  {% case page.id %}
-    {% when 'piano-lessons' %}
-      <input type="submit" value="I like free, let's do it!">
-    {% when 'voice-lessons' %}
-      <input type="submit" value="Let's do it!">
-    {% else %}
-      <input type="submit" value="Send">
-  {% endcase %}
-</form>
+<section class="newsletter-form pattern">
+  <form class="ccms-formspree lesson-form" id="ccms-formspree-form" method="post"
+        action="https://formspree.io/bobbymray@gmail.com">
+  
+    {% case page.id %}
+      {% when 'voice-lessons' %}
+         <h2>Want a Free Voice Lesson?</h2>
+         <p>I'll show you how to express your true self!</p>
+      {% when 'piano-lessons' %}
+         <h2>Want a Free Piano Lesson?</h2>
+         <p>Learn a song on your first day!</p>
+      {% when 'performance-coaching' %}
+         <h2>Do you need Performance Coaching?</h2>
+         <p>Send your name and email, and I'll get back to you.</p>
+    {% endcase %}
+  
+    <h2></h2>
+  
+    <input type="text" name="_gotcha" style="display:none">
+    <input type="hidden" name="_subject" value="{{ type }} enquiry from chaikenmusic.com">
+    <input type="hidden" name="_next" value="{{ '/thanks/' | absolute_url }}" />
+  
+    <label class="text-input" for="name">Name</label>
+    <input type="text" name="Name" id="name" required="">
+  
+    <label class="text-input" for="email">Email</label>
+    <input type="email" name="Email" id="email" required="">
+  
+    <label for="mail-optin"><input id="mail-optin" type="checkbox" name="mail-optin" value="YES">
+      <span>Add me to your mailing list</span></label>
+    
+    {% case page.id %}
+      {% when 'piano-lessons' %}
+        <input type="submit" value="I like free, let's do it!">
+      {% when 'voice-lessons' %}
+        <input type="submit" value="Let's do it!">
+      {% else %}
+        <input type="submit" value="Send">
+    {% endcase %}
+  </form>
+</section>
