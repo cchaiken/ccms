@@ -77,7 +77,7 @@ Share your voice and sing with others. Join in the the fun as you learn life lon
 
 ## Perform with Confidence
 
-If getting up in front of a crowd makes your heart skip I can help you with [Performance Coaching]({{ 'performance-coaching/' | relative_url }}). As a Performer, Arranger, Musical Director, Voice and Acting Coach I can help you become more comfortable in groups, presenting on stage, conducting meetings or just meeting new people.
+If getting up in front of a crowd makes your heart skip I can help you with [Performance Coaching]({{ 'performance-coaching/' | relative_url }}). As a Performer, Arranger, Musical Director, Voice and Acting Coach I can help you become more comfortable in groups, presenting on stage, conducting meetings, or just meeting new people.
 
 {% include video.html video=3 %}
 
