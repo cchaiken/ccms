@@ -10,7 +10,7 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- date: August 7th-11th
+- date: 0007-08-01 00:00:00 Z
   description: Full Day Camp
   times: 10:00am - 4:00pm
   days: Monday thru Friday
@@ -18,7 +18,7 @@ camps:
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262747855?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262747855"
     alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
-- date: August 14th-18th
+- date: 2014-08-01 00:00:00 Z
   description: Full Day Camp
   times: 10:00am - 4:00pm
   days: Monday thru Friday
@@ -111,6 +111,6 @@ Or you can scan it and send it as a PDF to { email here }. If you have any quest
 
 ## Cancellation Policy
 
-- Payment is due upon registration (for more information see the form)
+- Payment is due upon registration
 - Cancellations submitted 30 days before the event receive a refund of 50%
 - There is no refund for cancellations less than 30 days

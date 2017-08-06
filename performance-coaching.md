@@ -34,7 +34,7 @@ Have you ever felt terrified by the notion of being in front of a crowd of peopl
 
 It could be blocking you from nailing a job interview or musical audition. Perhaps it’s holding you back from securing a new client, or presenting results to stakeholders in a compelling and positive way. The applications are endless.
 
-It doesn’t matter who you are or what you do….
+It doesn’t matter who you are or what you do…
 
 **Performance Coaching benefits everybody**
 
@@ -56,7 +56,7 @@ It won’t take long to notice a difference. I will give you tangible results fr
 
 ## Applications of Performance Coaching
 
-Performance Coaching benefits all people and professions. I have helped people of all professions including:
+Performance Coaching benefits all people and professions. I have helped people from all walks of life including:
 
 - Public Speakers
 - Leaders & Entrepreneurs
