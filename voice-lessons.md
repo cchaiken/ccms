@@ -65,7 +65,7 @@ From your very first lesson you’ll find that:
 
 ### Overwhelmingly positive side effects
 
-Even if you don't want to sing professionally, learning how to support a free and open voice has all kinds of fringe benefits. It will help you deal with stage fright, spare you from vocal fatigue when you speak a lot, improve your speaking and singing tone and give you the confidence to be a great communicator.
+Even if you don't want to sing professionally, learning how to support a free and open voice has all kinds of fringe benefits. It will help you deal with stage fright, spare you from vocal fatigue when you speak a lot, improve your speaking and singing tone, and give you the confidence to be a great communicator.
 
 {% include video.html video=2 %}
 
