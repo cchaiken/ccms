@@ -56,7 +56,7 @@ It won’t take long to notice a difference. I will give you tangible results fr
 
 ## Applications of Performance Coaching
 
-Performance Coaching benefits all people and professions. I have helped people of all professions including:
+Performance Coaching benefits all people and professions. I have helped people from all walks of life including:
 
 - Public Speakers
 - Leaders & Entrepreneurs
