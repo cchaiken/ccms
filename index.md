@@ -19,25 +19,25 @@ testimonial:
 lessons:
 - heading: Voice Lessons
   blurb: Open up and say "La!" with singing lessons that are tailored to your unique
-    voice.
+    voice
   image: "/uploads/home-voice.jpg"
   link: voice-lessons
   cta: Let's do it
 - heading: Piano Lessons
   blurb: Learn to speak through your fingers with Mill Valley's most versatile Piano
-    Teacher.
+    Teacher
   image: "/uploads/home-piano.jpg"
   link: piano-lessons
   cta: Tell me more
 - heading: Performance Coaching
   blurb: Supercharge your performance and public speaking powers with tools and techniques
-    that work for you and your audience.
+    that work for you and your audience
   image: "/uploads/home-page-performance-coaching.jpg"
   link: performance-coaching
   cta: Supercharge me
 - heading: Marin Idol Performance Camps
   blurb: Become the next Carrie Underwood at Marin County's best musical performance
-    camp.
+    camp
   image: "/uploads/home-page-marin-idol.jpg"
   link: marin-idol-performance-camps
   cta: Count me in
