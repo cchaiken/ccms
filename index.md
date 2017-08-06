@@ -77,7 +77,7 @@ Learning and playing music is fantastic for neurological development. It will fu
 
 ### Why Me?
 
-Because I have the skills and experience to uncover the special songs that live inside of you.
+**Because I have the skills and experience to uncover the special songs that live inside of you.**
 
 *Everyone is unique* and my methods will adapt to where you need me most. I will custom tailor a program that gets the most out of your skills and potential, enabling you to achieve your highest objectives and share your gifts with the world.
 
