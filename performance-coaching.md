@@ -30,7 +30,7 @@ Got musical skills, but lack the confidence to share them with the world?
 
 ## Crowd out the fear!
 
-Have you ever felt terrified by the notion of being in front of a crowd of people?  That fear and self consciousness is often the only thing stopping you from achieving your long held dreams in life.
+Have you ever felt terrified by the notion of being in front of a crowd of people? That fear and self consciousness is often the only thing stopping you from achieving your lifelong dreams.
 
 It could be blocking you from nailing a job interview or musical audition. Perhaps it’s holding you back from securing a new client, or presenting results to stakeholders in a compelling and positive way. The applications are endless.
 
