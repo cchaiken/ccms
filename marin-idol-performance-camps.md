@@ -69,10 +69,10 @@ Set among the beautiful hills of Mill Valley, my studio comes alive with the sou
 The Marin Idol experience is action packed. We’ll cover a lot of territory over several days. Here’s just a slice of what you can expect:
 
 - Learn to shine onstage like a Pop Star!
-- Find your own true voice to stand apart from the pack
+- Find your own true voice to stand apart from the crowd
 - Discover how to sing, harmonize, dance and interact with fellow performers
 - Sing the songs that suit your talents
-- Learn the performance techniques that only the pros know
+- Learn performance techniques that only the pros know
 - Express your fashion style with unique clothing, hair and makeup
 
 {% include video.html video=1 %}
