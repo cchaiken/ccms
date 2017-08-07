@@ -31,7 +31,7 @@ It’s as natural as breathing air and is the first sound you make in life.
 
 That’s right, you were born singin’ the blues, baby!
 
-Crying and Singing are the same thing. They’re both organic and natural forms of vocal expression.
+A baby's cry and singing are the same thing. They’re both organic and natural forms of vocal expression.
 
 **If you sing for fun, want to become a Pro, or get the confidence to perform in public then I can help you.**
 
