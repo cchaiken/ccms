@@ -10,7 +10,7 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- date: 0007-08-01 00:00:00 Z
+- date: August 7th-11th
   description: Full Day Camp
   times: 10:00am - 4:00pm
   days: Monday thru Friday
@@ -18,7 +18,7 @@ camps:
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262747855?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262747855"
     alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
-- date: 2014-08-01 00:00:00 Z
+- date: August 14th-18th
   description: Full Day Camp
   times: 10:00am - 4:00pm
   days: Monday thru Friday
