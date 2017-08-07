@@ -56,6 +56,8 @@ It won’t take long to notice a difference. I will give you tangible results fr
 
 ## Applications of Performance Coaching
 
+![performance-coaching-bay-area-presentation.jpg](/uploads/performance-coaching-bay-area-presentation.jpg)
+
 Performance Coaching benefits all people and professions. I have helped people from all walks of life including:
 
 - Public Speakers
