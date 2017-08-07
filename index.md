@@ -3,7 +3,7 @@ title: Mill Valley Music Lessons
 description: Discover the joy of making music with personalized lessons in the heart
   of Mill Valley. Voice, Piano, Performance Coaching and more. Try a free lesson!
 id: home
-hero-image: "/uploads/home-hero.jpg"
+hero-image: "/uploads/caylia-chaiken-music-studio.jpg"
 intro:
   main: Everyone is Musical!
   sub: Mill Valley Music Lessons
