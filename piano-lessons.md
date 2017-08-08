@@ -77,7 +77,7 @@ I offer both group and private lessons. [Contact me]({{ '/contact/' | relative_u
 
 ## Free Piano Tip!
 
-Here is a game to help you achieve the [rounded hand position](http://www.artist-musikerhalsan.se/en/musician-ergonomics/35-piano-ergonomics):
+Here is a game to help you achieve the proper piano playing hand position:
 
 1. Pretend your hand is a crab and “walk” it on a table.
 2. Have a friend attempt to “walk” across to your side of the table with their “crab hand”.
