@@ -14,7 +14,10 @@
     <h2>Upcoming {{ extra-heading }}{% if camp-quantity > 1 %}Camps{% else %}Camp{% endif %}</h2>
     {% for camp in camps %}
     <div class="camp-register">
-    <h3> {{ camp.date }} <span>{{ camp.description }}</span> </h3>
+    <h3>
+      {% include idol-dates.html start_date=camp.start_date end_date=camp.end_date %}
+      <span>{{ camp.description }}</span>
+    </h3>
     <p>Times: <span>{{ camp.times }}</span></p>
     <p>Days: <span>{{ camp.days }}</span></p>
     <p>Cost: <span>{{ camp.cost }}</span></p>
