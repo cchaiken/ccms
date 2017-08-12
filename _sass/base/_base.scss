@@ -132,7 +132,7 @@ blockquote {
   max-width: 760px;
   overflow: hidden;
   padding: 0 1em;
-  width: auto;
+  width: auto; max-width: 600px;
 
   label {
     display: block;
@@ -184,6 +184,16 @@ blockquote {
     }
   }
   p { padding: 0; }
+
+  @media (min-width: 600px) {
+    .half {
+      display: inline-block;
+      width: 48%;
+      &:first-of-type {
+        margin-right: 3%;
+      }
+    }
+  }
 }
 .ccms-newsletter,
 .lesson-form {
@@ -193,7 +203,9 @@ blockquote {
   overflow: hidden;
   padding: 1em;
 
-  [type="email"] {
+  [type="text"],
+  [type="email"],
+  textarea {
     border: 1px solid $c-secondary;
   }
 }

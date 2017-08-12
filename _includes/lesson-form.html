@@ -29,8 +29,15 @@
     <input type="hidden" name="_subject" value="{{ type }} enquiry from chaikenmusic.com">
     <input type="hidden" name="_next" value="{{ '/thanks/' | absolute_url }}" />
   
-    <label class="text-input" for="name">Name</label>
-    <input type="text" name="Name" id="name" required="">
+    <div class="half">
+    <label class="text-input" for="first-name">First Name</label>
+    <input type="text" name="First Name" id="first-name" required="">
+    </div>
+  
+    <div class="half">
+    <label class="text-input" for="last-name">Last Name</label>
+    <input type="text" name="Last Name" id="last-name" required="">
+    </div>
   
     <label class="text-input" for="email">Email</label>
     <input type="email" name="Email" id="email" required="">
