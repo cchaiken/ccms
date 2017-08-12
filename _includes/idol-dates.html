@@ -1,0 +1,12 @@
+{% assign start_month = include.start_date | date: "%B" %}
+{% assign end_month = include.end_date | date: "%B" %}
+{% capture start_day %}{% include ordinal-day.html day=include.start_date %}{% endcapture %}
+{% capture end_day %}{% include ordinal-day.html day=include.end_date %}{% endcapture %}
+
+{{ start_month }} 
+
+{% if start_month != end_month %}
+  {{ start_day }} <span>thru {{ end_month }} {% include ordinal-day.html day=include.end_date %}</span>
+{% else %}
+  {{ start_day | append: '&ndash;' | append: end_day | strip_newlines }}
+{% endif %}
