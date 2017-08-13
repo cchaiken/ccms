@@ -3,10 +3,14 @@
 {% capture start_day %}{% include ordinal-day.html day=include.start_date %}{% endcapture %}
 {% capture end_day %}{% include ordinal-day.html day=include.end_date %}{% endcapture %}
 
-{{ start_month }} 
 
 {% if start_month != end_month %}
-  {{ start_day }} <span>thru {{ end_month }} {% include ordinal-day.html day=include.end_date %}</span>
+  {%capture two_months %}
+    {{ include.start_date | date: "%b" }}
+    {% include ordinal-day.html day=include.start_date %}&ndash;{{ include.end_date | date: "%b" }}
+    {% include ordinal-day.html day=include.end_date %}
+  {% endcapture %}
+  {{ two_months | strip_newlines }}
 {% else %}
-  {{ start_day | append: '&ndash;' | append: end_day | strip_newlines }}
+  {{ start_month }} {{ start_day | append: '&ndash;' | append: end_day | strip_newlines }}
 {% endif %}
