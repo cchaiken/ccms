@@ -28,6 +28,15 @@ camps:
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262875236?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262875236"
     alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
+- start_date: 2017-10-07 00:00:00 Z
+  end_date: 2017-11-11 00:00:00 Z
+  description: Weekend Series
+  times: 2:00pm - 5:00pm
+  days: Saturdays
+  cost: "$257.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262875236?ref=ebtnebregn"
+    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262875236"
+    alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
