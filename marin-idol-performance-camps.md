@@ -30,7 +30,7 @@ camps:
     alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 - start_date: 2017-10-07 00:00:00 Z
   end_date: 2017-11-11 00:00:00 Z
-  description: Weekend Series
+  description: Saturday Series
   times: 2:00pm - 5:00pm
   days: Saturdays
   cost: "$257.00"
