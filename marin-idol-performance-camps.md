@@ -10,21 +10,21 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
+- start_date: 2017-08-07 00:00:00 Z
+  end_date: 2017-08-11 00:00:00 Z
+  description: Full Day Camp
+  times: 10:00am - 4:00pm
+  days: Monday thru Friday
+  cost: "$397.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262747855?ref=ebtnebregn"
+    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262747855"
+    alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 - start_date: 2017-08-14 00:00:00 Z
   end_date: 2017-08-18 00:00:00 Z
   description: Full Day Camp
   times: 10:00am - 4:00pm
   days: Monday thru Friday
   cost: "$397.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262875236?ref=ebtnebregn"
-    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262875236"
-    alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
-- start_date: 2017-10-07 00:00:00 Z
-  end_date: 2017-11-11 00:00:00 Z
-  description: Saturday Series
-  times: 2:00pm - 5:00pm
-  days: Saturdays
-  cost: "$257.00"
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262875236?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262875236"
     alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
@@ -55,7 +55,7 @@ What if you could sing like the next Adele?
 
 {% include idol-camps.html %}
 
-{% assign testimonial = page.testimonials\[0\] %}
+{% assign testimonial = page.testimonials[0] %}
 {% include testimonial-card.html testimonial=testimonial %}
 
 ## What’s it all about?
@@ -70,17 +70,12 @@ Set among the beautiful hills of Mill Valley, my studio comes alive with the sou
 
 The Marin Idol experience is action packed. We’ll cover a lot of territory over several days. Here’s just a slice of what you can expect:
 
-* Learn to shine onstage like a Pop Star!
-
-* Find your own true voice to stand apart from the crowd
-
-* Discover how to sing, harmonize, dance and interact with fellow performers
-
-* Sing the songs that suit your talents
-
-* Learn performance techniques that only the pros know
-
-* Express your fashion style with unique clothing, hair and makeup
+- Learn to shine onstage like a Pop Star!
+- Find your own true voice to stand apart from the crowd
+- Discover how to sing, harmonize, dance and interact with fellow performers
+- Sing the songs that suit your talents
+- Learn performance techniques that only the pros know
+- Express your fashion style with unique clothing, hair and makeup
 
 {% include video.html video=1 %}
 
@@ -90,40 +85,22 @@ You’ll find that book reports, meetings, interviews and even first dates will 
 
 You will become a better communicator and develop the confidence to present yourself professionally; connecting to audiences of all kinds. You’ll also become more adept at representing and promoting your best interests, but most importantly you will come out knowing how to have fun expressing yourself!
 
-{% assign testimonial = page.testimonials\[1\] %}
+{% assign testimonial = page.testimonials[1] %}
 {% include testimonial-card.html testimonial=testimonial %}
 
 ## What to bring
 
-* Sheet music of the songs you want to learn
-
-* Makeup and hair design supplies
-
-* Clothing and accessories for the grand finale performances
-
-* Your dancing shoes!
+- Sheet music of the songs you want to learn
+- Makeup and hair design supplies
+- Clothing and accessories for the grand finale performances
+- Your dancing shoes!
 
 ## Lunch, Snacks and Breaks
 
 Bring your own lunch and I’ll provide other snacks and refreshments. We’ll take 45 minutes out for lunch and smaller breaks when we need it.
 
-{% comment %}
-
-## Registration
-
-***TODO*** registration CTA / Eventbrite embed?
-
-To secure your spot at these transformative camps please download and complete the registration form and mail it to:
-
-{ PO Box Here }
-
-Or you can scan it and send it as a PDF to { email here }. If you have any questions be sure to reach out!
-{% endcomment %}
-
 ## Cancellation Policy
 
-* Payment is due upon registration
-
-* Cancellations submitted 30 days before the event receive a refund of 50%
-
-* There is no refund for cancellations less than 30 days
+- Payment is due upon registration
+- Cancellations submitted 30 days before the event receive a refund of 50%
+- There is no refund for cancellations less than 30 days
