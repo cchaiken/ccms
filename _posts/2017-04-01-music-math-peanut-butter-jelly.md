@@ -1,5 +1,5 @@
 ---
-title: There is a direct connection between Music and the Academics!
+title: Music and Math are like peanut butter and jelly...
 date: 2017-04-01 00:00:00 Z
 ---
 

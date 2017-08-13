@@ -1,5 +1,5 @@
 ---
-title: Playing music can build your confidence and be the ice breaker at any party!
+title: How I became the "Heart & Soul" of a party
 date: 2017-06-01 00:00:00 Z
 ---
 

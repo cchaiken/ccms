@@ -1,6 +1,5 @@
 ---
-title: Music is a catalyst that brings our emotions, feelings and sense of creativity
-  to the forefront of our lives!
+title: The day silence became my most rewarding applause
 date: 2017-07-01 00:00:00 Z
 ---
 
