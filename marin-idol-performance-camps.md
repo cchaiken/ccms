@@ -10,15 +10,6 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2017-08-07 00:00:00 Z
-  end_date: 2017-08-11 00:00:00 Z
-  description: Full Day Camp
-  times: 10:00am - 4:00pm
-  days: Monday thru Friday
-  cost: "$397.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262747855?ref=ebtnebregn"
-    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262747855"
-    alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 - start_date: 2017-08-14 00:00:00 Z
   end_date: 2017-08-18 00:00:00 Z
   description: Full Day Camp
