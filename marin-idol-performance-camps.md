@@ -43,7 +43,6 @@ testimonials:
     stage. Caylia found the performer in my daughter. Go Caylia!
 videos:
 - dcyKmIYgFa0
-- Keu8sPMDAF4
 colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
   Dean Photography</a>
 ---
@@ -84,8 +83,6 @@ The Marin Idol experience is action packed. We’ll cover a lot of territory ove
 * Express your fashion style with unique clothing, hair and makeup
 
 {% include video.html video=1 %}
-
-{% include video.html video=2 %}
 
 **Marin Idol will give you skills for life.**
 
