@@ -22,7 +22,7 @@ colophon: Banner image by <a href="http://markdeanphotography.com/" target="_bla
 
 Thank you for taking the time to visit.
 
-If you **really** want to know how much fun you can have learning music with me - [try a free lesson]({{ '/contact/' | relative_url }})!
+If you **really** want to know how much fun you can have learning music with me - \[try a free lesson\]({{ '/contact/' | relative_url }})!
 
 My #1 job is to empower **your** creative development and self expression in music. I bring a lighthearted approach to teaching that is fun and engaging. It makes the learning part **easy**.
 
@@ -32,7 +32,7 @@ My lessons will connect you to your innate musical talents and give you the skil
 
 ## A Marin County Local
 
-I've been teaching private lessons in [Voice]({{ 'voice-lessons/' | relative_url }}), [Piano]({{ 'piano-lessons/' | relative_url }}) and [Performance Coaching]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
+I've been teaching private lessons in \[Voice\]({{ 'voice-lessons/' | relative_url }}), \[Piano\]({{ 'piano-lessons/' | relative_url }}) and \[Performance Coaching\]({{ 'performance-coaching/' | relative_url }}) in Mill Valley for over 15 years. I love Marin County’s natural beauty and am lucky to be a part of such a vibrant and innovative community!
 
 {% include testimonial-card.html testimonial=page.testimonial %}
 
@@ -42,7 +42,7 @@ As a **Musician and Performer** I trained in voice and piano at the **San Franci
 
 By age 14 I wrote my first Musical (*I know, right?*) and have been creating ever since. I’ve written, produced, composed and performed 2 one woman shows ([The Date Whisperer](https://chaikenmusic.bandcamp.com/album/caylia-chaiken-the-date-whisperer) & [Bare Naked](https://chaikenmusic.bandcamp.com/album/caylia-chaiken-bare-naked)) to sold out audiences in Marin, Sonoma and San Francisco . I've also contributed as a Producer, Performer and Accompanist for many Cabaret Acts,  School Musicals, Theater Companies and Talent Shows.
 
-I've been fortunate to have worked with many wonderful North Bay musical theater programs including the Marin Youth Musical Theater Program at the [Throckmorton Theater](http://throckmortontheatre.org/) (founding Musical Director), Vector Theater (Musical Director) and TheaterNow Productions (Musical Director and performer).
+I've been fortunate to have worked with many wonderful North Bay musical theater programs including the Marin Youth Musical Theater Program at the <a href="http://throckmortontheatre.org/" target="_blank">Throckmorton Theater</a> (founding Musical Director), Vector Theater (Musical Director) and TheaterNow Productions (Musical Director and performer).
 
 As an **Educator** I hold a Masters of Education from Marin County's own Dominican University and am fully credentialed to teach music in the State of California. I am also accredited to teach the [Simply Music™](https://simplymusic.com) method of Piano Education.
 
@@ -60,6 +60,6 @@ One of my career highlights was to sing the [National Anthem](https://www.youtub
 
 Well...I guess they were *already* standing, but I like to think that my performance had something to do with it. ☺
 
-You can listen to a selection of my work in the [Store]({{ '/store/' | relative_url }}), on  [Bandcamp](http://chaikenmusic.bandcamp.com/) and my [YouTube channel](https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg). If you’d like to see me perform be sure to [follow me on Facebook](https://www.facebook.com/cayliachaikenmusicstudio/) for the latest event news.
+You can listen to a selection of my work in the \[Store\]({{ '/store/' | relative_url }}), on  [Bandcamp](http://chaikenmusic.bandcamp.com/) and my [YouTube channel](https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg). If you’d like to see me perform be sure to [follow me on Facebook](https://www.facebook.com/cayliachaikenmusicstudio/) for the latest event news.
 
 Call me at 415 383 5395 if you have any questions or would like more information about how to get started playing music!
