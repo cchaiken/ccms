@@ -1,5 +1,5 @@
 ---
-title: Build your confidence! Improve your performance, capture your audience!
+title: How to capture your audience with a confident performance
 date: 2017-05-01 00:00:00 Z
 ---
 
