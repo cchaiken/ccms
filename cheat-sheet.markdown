@@ -6,7 +6,7 @@ intro:
   style: plain
 ---
 
-## Access
+## Accessing Siteleaf Admin
 
 * Your Siteleaf Login Location = [https://manage.siteleaf.com/](https://manage.siteleaf.com/)
 * Your Main Site Admin Area =
