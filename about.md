@@ -60,6 +60,6 @@ One of my career highlights was to sing the <a href="https://www.youtube.com/wat
 
 Well...I guess they were *already* standing, but I like to think that my performance had something to do with it. ☺
 
-You can listen to a selection of my work in the [Store]({{ '/store/' | relative_url }}), on <a href="http://chaikenmusic.bandcamp.com/" target="_blank">Bandcamp</a> and my <a href="https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg" target="_blank">YouTube channel</a>. If you’d like to see me perform be sure to <a href=https://www.facebook.com/cayliachaikenmusicstudio/" target="_blank">follow me on Facebook</a> for the latest event news.
+You can listen to a selection of my work in the [Store]({{ '/store/' | relative_url }}), on <a href="http://chaikenmusic.bandcamp.com/" target="_blank">Bandcamp</a> and my <a href="https://www.youtube.com/channel/UCa56OJaXhqQN9ei7iiYszEg" target="_blank">YouTube channel</a>. If you’d like to see me perform be sure to <a href="https://www.facebook.com/cayliachaikenmusicstudio/" target="_blank">follow me on Facebook</a> for the latest event news.
 
 Call me at 415 383 5395 if you have any questions or would like more information about how to get started playing music!
