@@ -24,6 +24,13 @@ The HTML color you need to set as the background is `#9A0007`
 
 `{% include idol-camps.html %}`
 
+{% highlight liquid %}
+{% raw %}
+{% include idol-camps.html %}
+{% endraw %}
+{% endhighlight %}
+
+
 Testimonial Line Breaks
 
 Give Caylia Background color code picker
