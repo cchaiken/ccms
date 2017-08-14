@@ -25,7 +25,7 @@ camps:
   times: 2:00pm - 5:00pm
   days: Saturdays
   cost: "$257.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-saturday-series-tickets-36988294986?ref=ebtn"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-saturday-series-tickets-36988294986?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36988294986"
     alt="Eventbrite - Marin Idol Performance Camp Saturday Series" /></a>
 testimonials:
