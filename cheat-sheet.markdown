@@ -20,9 +20,9 @@ The HTML color you need to set as the background is `#9A0007`
 
 `<a href="http://google.com" target="_blank">The linkable text that people see</a>`
 
-{% include testimonial-card.html testimonial=page.testimonial %}
+`{% include testimonial-card.html testimonial=page.testimonial %}`
 
-{% include idol-camps.html %}
+`{% include idol-camps.html %}`
 
 Testimonial Line Breaks
 
