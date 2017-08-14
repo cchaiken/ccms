@@ -10,15 +10,6 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2017-08-07 00:00:00 Z
-  end_date: 2017-08-11 00:00:00 Z
-  description: Full Day Camp
-  times: 10:00am - 4:00pm
-  days: Monday thru Friday
-  cost: "$397.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262747855?ref=ebtnebregn"
-    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262747855"
-    alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
 - start_date: 2017-08-14 00:00:00 Z
   end_date: 2017-08-18 00:00:00 Z
   description: Full Day Camp
@@ -28,6 +19,15 @@ camps:
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-36262875236?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36262875236"
     alt="Eventbrite - Marin Idol Summer Performance Camp" /></a>
+- start_date: 2017-10-07 00:00:00 Z
+  end_date: 2017-11-11 00:00:00 Z
+  description: Saturday Series
+  times: 2:00pm - 5:00pm
+  days: Saturdays
+  cost: "$257.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-saturday-series-tickets-36988294986?ref=ebtn"
+    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36988294986"
+    alt="Eventbrite - Marin Idol Performance Camp Saturday Series" /></a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
