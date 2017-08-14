@@ -6,19 +6,19 @@ intro:
   style: plain
 ---
 
-##Access
+## Access
 
-###Your Siteleaf Login Location (for bookmarking)
+### Your Siteleaf Login Location (for bookmarking)
 https://manage.siteleaf.com/
 
-###Your Main Site Admin Area (for bookmarking)
+### Your Main Site Admin Area (for bookmarking)
 https://manage.siteleaf.com/sites/59752581457ba03d2c73f34f/pages
 
-##Eventbrite
+## Eventbrite
 
 The HTML color you need to set as the background is `#9A0007`
 
-<a href="http://google.com" target="_blank">The linkable text that people see</a>
+`<a href="http://google.com" target="_blank">The linkable text that people see</a>`
 
 {% include testimonial-card.html testimonial=page.testimonial %}
 
