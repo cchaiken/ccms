@@ -23,7 +23,7 @@ Use the following syntax:
 
 `<a href="THE URL GOES HERE BETWEEN THE QUOTATION MARKS" target="_blank">THE LINKABLE TEXT THAT PEOPLE SEE LIVES HERE</a>`
 
-And paste it directly into the main content field. Here's a real work example:
+And paste it directly into the main content field. Here's a real world example:
 
 `<a href="http://throckmortontheatre.org/" target="_blank">The Throckmorton Theatre</a>`
 
