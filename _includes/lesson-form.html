@@ -41,9 +41,12 @@
   
     <label class="text-input" for="email">Email</label>
     <input type="email" name="Email" id="email" required="">
-  
-    <label for="mail-optin"><input id="mail-optin" type="checkbox" name="mail-optin" value="YES">
-      <span>Add me to your mailing list</span></label>
+
+    <div class="checkbox">
+        <input type="checkbox" id="mail-optin">
+        <label for="mail-optin">Add me to your mailing list. <br>I would love to receive
+            <br><b>five life empowering tips</b> <br>to achieve musical success.</label>
+    </div>
     
     {% case page.id %}
       {% when 'piano-lessons' %}
