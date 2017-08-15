@@ -237,4 +237,4 @@ Why not find out for yourself? If you are interested in Voice or Piano lessons I
 
 ### More reviews available on Yelp
 
-For more testimonials from happy students be sure to [find me on Yelp](https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley).
+For more testimonials from happy students be sure to <a href="https://www.yelp.com/biz/caylia-chaiken-music-studio-mill-valley" target="_blank">find me on Yelp</a>.
