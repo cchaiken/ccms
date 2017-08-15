@@ -4,7 +4,7 @@ description: Shine onstage like a Pop Star at Marin County's most exciting music
   performance camp for school students. Single & Multi Day programs available. Sign
   up now!
 id: marin-idol-performance-camps
-hero-image: "/uploads/marin-idol-performance-camp.jpg"
+hero-image: "/uploads/mill-valley-music-lessons-marin-idol.jpg"
 intro:
   main: Become a Superstar!
   sub: Marin Idol Performance Camps
