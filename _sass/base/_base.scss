@@ -196,8 +196,10 @@ blockquote {
   }
 }
 .ccms-newsletter {
+  p, strong {
+    line-height: 1.4;
+  }
   p {
-    line-height: 1;
     margin: .5em 0;
   }
   .mc-field-group {
@@ -261,7 +263,9 @@ blockquote {
     border-bottom: 4px solid;
     left: 0px;
     top: 8px;
+    -webkit-transform: rotate(-57deg);
     transform: rotate(-57deg);
+    -webkit-transform-origin: center;
     transform-origin: center;
   }
   .checkbox label {
