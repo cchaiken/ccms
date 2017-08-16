@@ -3,7 +3,7 @@ title: Mill Valley Voice Lessons
 description: Open up and say "Laaah!" with tailored voice lessons in the heart of
   Mill Valley. Learn to sing with a flexible and supportive teacher. Try a free lesson!
 id: voice-lessons
-hero-image: "/uploads/mill-valley-voice-lessons.jpg"
+hero-image: "/uploads/mill-valley-music-lessons-voice-lessons.jpg"
 intro:
   main: Open up and say Laaaaaah!
   sub: Mill Valley Voice Lessons
