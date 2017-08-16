@@ -43,9 +43,9 @@
     <input type="email" name="Email" id="email" required="">
 
     <div class="checkbox">
-        <input type="checkbox" id="mail-optin">
-        <label for="mail-optin">Add me to your mailing list. <br>I would love to receive
-            <br><b>five life empowering tips</b> <br>to achieve musical success.</label>
+      <input type="checkbox" id="mail-optin" name="mail-optin">
+      <label for="mail-optin">Add me to your mailing list. <br>I would love to receive
+        <br><b>five life empowering tips</b> <br>to achieve musical success.</label>
     </div>
     
     {% case page.id %}
@@ -56,5 +56,7 @@
       {% else %}
         <input type="submit" value="Send">
     {% endcase %}
+
+    <p class="no-sharing"><em>I promise I won't share your email address with anybody.</em></p>
   </form>
 </section>

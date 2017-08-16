@@ -195,6 +195,9 @@ blockquote {
     }
   }
 }
+.ccms-formspree {
+  margin: 0 auto;
+}
 .ccms-newsletter {
   p, strong {
     line-height: 1.4;
@@ -209,6 +212,19 @@ blockquote {
     margin-top: 1.5em;
   }
 }
+
+.ccms-formspree,
+.ccms-newsletter,
+.lesson-form {
+  [type="text"],
+  [type="email"],
+  textarea {
+    border: 1px solid $c-secondary;
+  }
+  .no-sharing {
+    font-size: 1em;
+  }
+}
 .ccms-newsletter,
 .lesson-form {
   background-color: lighten($c-primary, 4%);
@@ -216,13 +232,8 @@ blockquote {
   border-radius: 6px;
   overflow: hidden;
   padding: 1em;
-
-  [type="text"],
-  [type="email"],
-  textarea {
-    border: 1px solid $c-secondary;
-  }
 }
+
 .lesson-form {
   input[type="submit"] {
     width: auto;
@@ -232,12 +243,17 @@ blockquote {
   [for="mail-optin"] span {
     @media (max-width: 400px) { font-size: 88%; }
   }
+}
 
+.ccms-formspree,
+.lesson-form {
   .checkbox {
     margin-bottom: 1em;
   }
   .checkbox input[type="checkbox"] {
+    height: 0;
     opacity: 0;
+    width: 0;
   }
   .checkbox label::before,
   .checkbox label::after {
@@ -293,6 +309,37 @@ blockquote {
     outline: rgb(59, 153, 252) auto 5px;
   }
 
+  .checkbox.checkbox-small {
+    margin: 0;
+
+    label {
+      padding-top: 3px;
+      padding-left: 36px;
+    }
+
+    label::before {
+      top: 0;
+
+      height: 26px;
+      width: 26px;
+    }
+    label::after {
+      height: 13px;
+      width: 26px;
+      border-left: 3px solid;
+      border-bottom: 3px solid;
+      left: 0px;
+      top: 4px;
+      -webkit-transform: rotate(-57deg);
+      transform: rotate(-57deg);
+      -webkit-transform-origin: center;
+      transform-origin: center;
+    }
+
+    & + label {
+      margin-top: 1.5em;
+    }
+  }
 }
 
 .address {
