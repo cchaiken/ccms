@@ -21,7 +21,7 @@ section {
   background: url($pattern);
   position: relative;
   &::after {
-    background: rgba(255,255,255,.2);
+    background: rgba(255,255,255,.4);
     content: '';
     display: block;
     position: absolute; top: 0; right: 0; bottom: 0; left: 0;
@@ -209,18 +209,28 @@ section {
   padding: 0;
   @media (min-width: 600px) { margin: 0 0 1.8em; }
 }
+.pattern {
+  .lesson-title, .lesson-blurb {
+    text-shadow: 0px 0px 3px white,
+                 0px 0px 5px white,
+                 0px 0px 10px white,
+                 0px 0px 15px white,
+                 0px 0px 20px white;
+  }
+}
 .lesson-cta {
   background-color: $c-primary-light;
   border: 1px solid $c-secondary;
   border-radius: 4px;
   color: $c-secondary;
   display: inline-block;
+  font-family: $font-body-secondary;
+  font-size: 18px;
   font-weight: bold;
   letter-spacing: 1px;
   margin-bottom: 1em;
   padding: .5em 1em;
   text-decoration: none;
-  text-transform: uppercase;
   transition: all .2s linear;
 
   i { font-size: 150%; font-weight: bold; margin-left: .1em; }

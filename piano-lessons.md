@@ -87,7 +87,7 @@ Here is a game to help you achieve the proper hand position:
 
 2. Have a friend attempt to “walk” across to your side of the table with their “crab hand”.
 
-3. Have your crab guard it's side of the table from your friends crab.
+3. Have your crab guard its side of the table from your friend's crab.
 
 The more you play, the better your rounded piano hand position will become. It's fun!
 

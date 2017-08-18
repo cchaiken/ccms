@@ -22,25 +22,25 @@ lessons:
     voice
   image: "/uploads/home-voice.jpg"
   link: voice-lessons
-  cta: Let's do it
+  cta: Lesson info
 - heading: Piano Lessons
   blurb: Learn to speak through your fingers with Mill Valley's most versatile Piano
     Teacher
   image: "/uploads/home-piano.jpg"
   link: piano-lessons
-  cta: Tell me more
+  cta: Lesson info
 - heading: Performance Coaching
   blurb: Supercharge your performance and public speaking powers with tools and techniques
     that work for you and your audience
   image: "/uploads/home-page-performance-coaching.jpg"
   link: performance-coaching
-  cta: Supercharge me
+  cta: Tell me more
 - heading: Marin Idol Performance Camps
   blurb: Become the next Carrie Underwood at Marin County's best musical performance
     camp
   image: "/uploads/home-page-marin-idol.jpg"
   link: marin-idol-performance-camps
-  cta: Count me in
+  cta: Camp details
 colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
   Dean Photography</a>
 ---
