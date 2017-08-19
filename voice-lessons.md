@@ -20,6 +20,8 @@ videos:
 - xAZg6jf4OZ4
 colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
   Dean Photography</a>
+redirect_from:
+  - /www.chaikenmusic.com/Voice_lessons.html
 ---
 
 ## Everybody can sing!

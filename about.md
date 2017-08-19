@@ -18,6 +18,11 @@ testimonial:
   avatar-image: "/uploads/avatar-bridgette-c.jpg"
 colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
   Dean Photography</a>
+redirect_from:
+  - /www.chaikenmusic.com/About_Me.html
+  - /www.chaikenmusic.com/Performances.html
+  - /www.chaikenmusic.com/Musical_Theater.html
+  - /www.chaikenmusic.com/Musical_Theater_files/2015%20Piano%20Camp%20Registration.pdf
 ---
 
 Thank you for taking the time to visit.

@@ -45,6 +45,10 @@ videos:
 - dcyKmIYgFa0
 colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
   Dean Photography</a>
+redirect_from:
+  - /www.chaikenmusic.com/Marin_Idol_Camp.html
+  - /www.chaikenmusic.com/Marin_Idol_Camp_files/2017%20Marin%20Idol%20Camp%20Registration.pdf
+  - /www.chaikenmusic.com/Marin_Idol_Camp_files/2017%20Marin%20Idol%20Camp%20Registration_1.pdf
 ---
 
 Wanna feel like a star and shine under the spotlight?
