@@ -43,6 +43,10 @@ lessons:
   cta: Camp details
 colophon: Banner image by <a href="http://markdeanphotography.com/" target="_blank">Mark
   Dean Photography</a>
+redirect_from:
+- "/www.chaikenmusic.com/Welcome.html"
+- "/www.chaikenmusic.com/The_Studio.html"
+- "/www.chaikenmusic.com/FREE_Introductory_Session.html"
 ---
 
 **Curious to find the music inside you but don't know where to begin?**

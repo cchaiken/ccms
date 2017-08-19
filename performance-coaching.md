@@ -18,6 +18,8 @@ videos:
 - UhE_iHDJH4M
 - xiA36ifgFkg
 colophon: 
+redirect_from:
+- "/www.chaikenmusic.com/ADULT_CLASSES.html"
 ---
 
 Need help presenting your ideas or work to large groups?
