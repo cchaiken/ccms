@@ -23,6 +23,8 @@ redirect_from:
 - "/www.chaikenmusic.com/Performances.html"
 - "/www.chaikenmusic.com/Musical_Theater.html"
 - "/www.chaikenmusic.com/Musical_Theater_files/2015%20Piano%20Camp%20Registration.pdf"
+videos:
+  '1': 
 ---
 
 Thank you for taking the time to visit.
