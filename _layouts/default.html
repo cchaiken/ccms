@@ -2,6 +2,8 @@
 <html lang="en">
   {% include head.html %}
   <body{% if page.id == 'terms-and-conditions' %} class="legal"{% endif %}>
+
+  <div class="site">
   
   {% include header.html %}
 
@@ -11,7 +13,7 @@
   </section>
   {% endif %}
 
-  <main>
+  <main class="site-content">
   {% if page.intro.main or page.intro.sub %}
   {% if page.intro.style == 'plain' %}
     <section class="intro plain{% if page.intro.image %} has-avatar{% endif %}">
@@ -35,6 +37,8 @@
   {% endif %}
 
   {% include footer.html %}
+
+  </div>
   
 </body>
 </html>
