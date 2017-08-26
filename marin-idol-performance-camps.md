@@ -19,6 +19,15 @@ camps:
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-saturday-series-tickets-36988294986?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36988294986"
     alt="Eventbrite - Marin Idol Performance Camp Saturday Series" /></a>
+- start_date: 2018-03-03 00:00:00 Z
+  end_date: 2018-04-07 00:00:00 Z
+  description: Saturday Series
+  times: 2:00pm - 5:00pm
+  days: Saturdays
+  cost: "$257.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-saturday-series-tickets-37250944578?ref=ebtnebregn"
+    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=37250944578"
+    alt="Eventbrite - Marin Idol Performance Camp Saturday Series" /></a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
