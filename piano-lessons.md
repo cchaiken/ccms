@@ -79,7 +79,7 @@ You’ll quickly develop the ability to play chords and modern accompaniments in
 
 ## Private and Group Lessons
 
-I offer both group and private lessons. \[Contact me\]({{ '/contact/' | relative_url }}) to learn more about how I can help you fulfill your music dreams.
+I offer both group and private lessons. [Contact me]({{ '/contact/' | relative_url }}) to learn more about how I can help you fulfill your music dreams.
 
 ## Free Piano Tip!
 
