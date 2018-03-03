@@ -10,15 +10,15 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2017-10-07 00:00:00 Z
-  end_date: 2017-11-11 00:00:00 Z
+- start_date: 2018-06-18 00:00:00 Z
+  end_date: 2018-06-22 00:00:00 Z
   description: Saturday Series
-  times: 2:00pm - 5:00pm
-  days: Saturdays
+  times: 9:00am - 4:00pm
+  days: Mon - Fri
   cost: "$257.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-saturday-series-tickets-36988294986?ref=ebtnebregn"
-    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=36988294986"
-    alt="Eventbrite - Marin Idol Performance Camp Saturday Series" /></a>
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-43764996282?ref=ebtnebregn"
+    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=43764996282"
+    alt="Eventbrite - Marin Idol Performance Summer Camp" /></a>
 - start_date: 2018-03-03 00:00:00 Z
   end_date: 2018-04-07 00:00:00 Z
   description: Saturday Series
