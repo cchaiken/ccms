@@ -15,7 +15,7 @@ camps:
   description: 
   times: 9:00am - 4:00pm
   days: Mon - Fri
-  cost: "$257.00"
+  cost: "$485.00"
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-43764996282?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=43764996282"
     alt="Eventbrite - Marin Idol Performance Summer Camp" /></a>
@@ -23,10 +23,19 @@ camps:
   end_date: 2018-08-10 00:00:00 Z
   description: 
   times: 9:00am - 4:00pm
-  days: Saturdays
+  days: Mon - Fri
   cost: "$485.00"
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-43765502797?ref=ebtnebregn"
     target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=43765502797"
+    alt="Eventbrite - Marin Idol Performance Summer Camp" /></a>
+- start_date: 2018-08-13 00:00:00 Z
+  end_date: 2018-08-27 00:00:00 Z
+  description: 
+  times: 10:00am - 4:00pm
+  days: Mon - Fri
+  cost: "$485.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-43765574010?ref=ebtnebregn"
+    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=43765574010"
     alt="Eventbrite - Marin Idol Performance Summer Camp" /></a>
 testimonials:
 - name: Eden F.
