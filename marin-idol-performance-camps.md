@@ -16,9 +16,8 @@ camps:
   times: 9:00am - 3:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-43764996282?ref=ebtnebregn"
-    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=43764996282"
-    alt="Eventbrite - Marin Idol Performance Summer Camp" /></a>
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-june-17-21-2019-tickets-57692770630"
+    target="_blank">Register Now</a>
 - start_date: 2019-08-04 00:00:00 Z
   end_date: 2019-08-08 00:00:00 Z
   description: 
