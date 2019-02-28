@@ -35,6 +35,13 @@ camps:
   days: Mon - Fri
   cost: "$585.00"
   eventbrite: <a href="#" target="_blank">Register Now</a>
+- start_date: 2019-06-27 00:00:00 Z
+  end_date: 2019-06-27 00:00:00 Z
+  description: 
+  times: 10:00am - 4:00pm
+  days: One Day Camp
+  cost: "$175.00"
+  eventbrite: 
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
