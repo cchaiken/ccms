@@ -16,7 +16,7 @@ camps:
   times: 9:00am - 3:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-june-17-21-2019-tickets-57692770630"
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
 - start_date: 2019-08-04 00:00:00 Z
   end_date: 2019-08-08 00:00:00 Z
@@ -24,36 +24,39 @@ camps:
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-tickets-43765502797?ref=ebtnebregn"
-    target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=43765502797"
-    alt="Eventbrite - Marin Idol Performance Summer Camp" /></a>
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
 - start_date: 2019-08-11 00:00:00 Z
   end_date: 2019-08-15 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="#" target="_blank">Register Now</a>
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
 - start_date: 2019-06-27 00:00:00 Z
   end_date: 2019-06-27 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: <a href="#" target="_blank">Register Now</a>
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
 - start_date: 2019-08-01 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: <a href="#" target="_blank">Register Now</a>
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
 - start_date: 2019-08-18 00:00:00 Z
   end_date: 2019-08-18 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: <a href="#" target="_blank">Register Now</a>
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
