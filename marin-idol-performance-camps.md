@@ -43,6 +43,7 @@ camps:
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
 - start_date: 2019-08-01 00:00:00 Z
+  end_date: 2019-08-01 23:55:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Friday Only
