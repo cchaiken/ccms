@@ -24,7 +24,7 @@ camps:
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-how-to-ace-your-audition-tickets-57729809414"
     target="_blank">Register Now</a>
 - start_date: 2019-08-02 00:00:00 Z
   end_date: 2019-08-02 23:55:00 Z
@@ -32,7 +32,7 @@ camps:
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-overcome-your-fear-of-performing-tickets-57729608814"
     target="_blank">Register Now</a>
 - start_date: 2019-08-05 00:00:00 Z
   end_date: 2019-08-09 00:00:00 Z
@@ -40,7 +40,7 @@ camps:
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-august-5-9-2019-tickets-43765502797"
     target="_blank">Register Now</a>
 - start_date: 2019-08-12 00:00:00 Z
   end_date: 2019-08-16 00:00:00 Z
@@ -48,7 +48,7 @@ camps:
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-summer-performance-camp-august-12-16-2019-tickets-57721262851"
     target="_blank">Register Now</a>
 - start_date: 2019-08-19 00:00:00 Z
   end_date: 2019-08-19 00:00:00 Z
@@ -56,7 +56,7 @@ camps:
   times: 10:00am - 4:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performing-from-stage-to-classroom-tickets-57729940807"
     target="_blank">Register Now</a>
 testimonials:
 - name: Eden F.
