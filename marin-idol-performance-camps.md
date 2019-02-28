@@ -10,48 +10,48 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2019-06-16 00:00:00 Z
-  end_date: 2019-06-20 00:00:00 Z
+- start_date: 2019-06-17 00:00:00 Z
+  end_date: 2019-06-21 00:00:00 Z
   description: 
   times: 9:00am - 3:00pm
   days: Mon - Fri
   cost: "$585.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
-- start_date: 2019-06-27 00:00:00 Z
-  end_date: 2019-06-27 00:00:00 Z
+- start_date: 2019-06-28 00:00:00 Z
+  end_date: 2019-06-28 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
-- start_date: 2019-08-01 00:00:00 Z
-  end_date: 2019-08-01 23:55:00 Z
+- start_date: 2019-08-02 00:00:00 Z
+  end_date: 2019-08-02 23:55:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
-- start_date: 2019-08-04 00:00:00 Z
-  end_date: 2019-08-08 00:00:00 Z
+- start_date: 2019-08-05 00:00:00 Z
+  end_date: 2019-08-09 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$585.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
-- start_date: 2019-08-11 00:00:00 Z
-  end_date: 2019-08-15 00:00:00 Z
+- start_date: 2019-08-12 00:00:00 Z
+  end_date: 2019-08-16 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$585.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
-- start_date: 2019-08-18 00:00:00 Z
-  end_date: 2019-08-18 00:00:00 Z
+- start_date: 2019-08-19 00:00:00 Z
+  end_date: 2019-08-19 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Monday Only
