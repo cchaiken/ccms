@@ -18,22 +18,6 @@ camps:
   cost: "$585.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
-- start_date: 2019-08-04 00:00:00 Z
-  end_date: 2019-08-08 00:00:00 Z
-  description: 
-  times: 10:00am - 4:00pm
-  days: Mon - Fri
-  cost: "$585.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
-    target="_blank">Register Now</a>
-- start_date: 2019-08-11 00:00:00 Z
-  end_date: 2019-08-15 00:00:00 Z
-  description: 
-  times: 10:00am - 4:00pm
-  days: Mon - Fri
-  cost: "$585.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
-    target="_blank">Register Now</a>
 - start_date: 2019-06-27 00:00:00 Z
   end_date: 2019-06-27 00:00:00 Z
   description: 
@@ -48,6 +32,22 @@ camps:
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
+- start_date: 2019-08-04 00:00:00 Z
+  end_date: 2019-08-08 00:00:00 Z
+  description: 
+  times: 10:00am - 4:00pm
+  days: Mon - Fri
+  cost: "$585.00"
+  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+    target="_blank">Register Now</a>
+- start_date: 2019-08-11 00:00:00 Z
+  end_date: 2019-08-15 00:00:00 Z
+  description: 
+  times: 10:00am - 4:00pm
+  days: Mon - Fri
+  cost: "$585.00"
   eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
     target="_blank">Register Now</a>
 - start_date: 2019-08-18 00:00:00 Z
