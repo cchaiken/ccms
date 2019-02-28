@@ -10,8 +10,8 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2019-06-17 00:00:00 Z
-  end_date: 2019-06-21 00:00:00 Z
+- start_date: 2019-06-16 00:00:00 Z
+  end_date: 2019-06-20 00:00:00 Z
   description: 
   times: 9:00am - 3:00pm
   days: Mon - Fri
