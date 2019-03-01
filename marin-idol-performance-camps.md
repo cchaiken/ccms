@@ -20,7 +20,7 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2019-06-28 00:00:00 Z
   end_date: 2019-06-28 00:00:00 Z
-  description: How to ACE Your Audition
+  description: How to Ace Your Audition
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
@@ -28,7 +28,7 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2019-08-02 00:00:00 Z
   end_date: 2019-08-02 00:00:00 Z
-  description: 
+  description: Overcoming Your Fear of Performing
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
@@ -52,7 +52,7 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2019-08-19 00:00:00 Z
   end_date: 2019-08-19 00:00:00 Z
-  description: 
+  description: Perform from Stage to Classroom
   times: 10:00am - 4:00pm
   days: Monday Only
   cost: "$175.00"
