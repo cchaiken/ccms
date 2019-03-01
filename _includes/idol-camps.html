@@ -14,16 +14,18 @@
 {% assign camp-quantity = camps | size %}
 <section class="upcoming-camps pattern">
     <h2>Upcoming <span{{ header-span-class }}>{{ extra-heading }}{% if camp-quantity > 1 %}Camps{% else %}Camp{% endif %}</span></h2>
+    <div class="camps-register">
     {% for camp in camps %}
     <div class="camp-register">
     <h3>{% include idol-dates.html start_date=camp.start_date end_date=camp.end_date %}</h3>
-    <p>{{ camp.description }}</p>
+    <p class="camp-description">{{ camp.description }}</p>
     <p><span>{{ camp.times }}</span></p>
     <p><span>{{ camp.days }}</span></p>
     <p><span>{{ camp.cost }}</span></p>
     <p>{{ camp.eventbrite }}</p>
     </div>
     {% endfor %}
+    </div>
     {% if more %}
     <p><a href="/marin-idol-performance-camps">What is Marin Idol?</a></p>
     {% endif %}
