@@ -20,14 +20,14 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2019-06-28 00:00:00 Z
   end_date: 2019-06-28 00:00:00 Z
-  description: 
+  description: How to ACE Your Audition
   times: 10:00am - 4:00pm
   days: Friday Only
   cost: "$175.00"
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-how-to-ace-your-audition-tickets-57729809414"
     target="_blank">Register Now</a>
 - start_date: 2019-08-02 00:00:00 Z
-  end_date: 2019-08-02 23:55:00 Z
+  end_date: 2019-08-02 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Friday Only
