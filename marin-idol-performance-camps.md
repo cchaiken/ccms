@@ -16,7 +16,7 @@ camps:
   times: 9:00am - 3:00pm
   days: Mon - Fri
   cost: "$585.00"
-  eventbrite: <a href="https://chaikenmusic.com/uploads/2019_Marin_Idol_Camp_Registration.pdf"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-june-17-21-2019-tickets-57692770630"
     target="_blank">Register Now</a>
 - start_date: 2019-06-28 00:00:00 Z
   end_date: 2019-06-28 00:00:00 Z
