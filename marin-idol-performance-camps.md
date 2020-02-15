@@ -96,9 +96,13 @@ What if you could sing like the next Adele?
 
 {% include idol-camps.html %}
 
-## Early Bird Discounts Available
+## Get an Early Bird discount
 
-Register before March 1st and receive a $50 discount off the cost of the week-long camps.
+Register **before March 1st and receive a $50 discount** off the cost of the week-long camps.
+
+## Child care available
+
+If you need child care before or after the day's lesson I can arrange that. Please [contact me](https://chaikenmusic.com/contact/) to discuss cost and details.
 
 {% assign testimonial = page.testimonials[0] %}
 {% include testimonial-card.html testimonial=testimonial %}
