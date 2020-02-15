@@ -94,7 +94,7 @@ What if you could sing like the next Adele?
 
 Register **before March 1st and receive a $50 discount** off the cost of the week-long camps.
 
-## Child care available
+## Child Care available
 
 If you need child care before or after the day's lesson I can arrange that. Please [contact me](https://chaikenmusic.com/contact/) to discuss cost and details.
 
