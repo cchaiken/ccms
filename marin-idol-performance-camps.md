@@ -10,13 +10,6 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2020-06-22 00:00:00 Z
-  end_date: 2020-06-26 00:00:00 Z
-  description: 
-  times: 9:00am - 3:00pm
-  days: Mon - Fri
-  cost: "$595.00"
-  eventbrite: 
 - start_date: 2020-06-15 00:00:00 Z
   end_date: 2020-06-15 00:00:00 Z
   description: How to Ace Your Audition
@@ -31,12 +24,26 @@ camps:
   days: Tuesday Only
   cost: "$175.00"
   eventbrite: 
+- start_date: 2020-06-18 00:00:00 Z
+  end_date: 2020-06-18 00:00:00 Z
+  description: Sing Like a Star
+  times: 9:00am - 3:00pm
+  days: Thursday Only
+  cost: "$175.00"
+  eventbrite: 
 - start_date: 2020-06-19 00:00:00 Z
   end_date: 2020-06-19 00:00:00 Z
   description: Performing from Stage to Classroom
   times: 9:00am - 3:00pm
   days: Friday Only
   cost: "$175.00"
+  eventbrite: 
+- start_date: 2020-06-22 00:00:00 Z
+  end_date: 2020-06-26 00:00:00 Z
+  description: 
+  times: 9:00am - 3:00pm
+  days: Mon - Fri
+  cost: "$595.00"
   eventbrite: 
 - start_date: 2020-08-03 00:00:00 Z
   end_date: 2020-08-07 00:00:00 Z
@@ -51,13 +58,6 @@ camps:
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: 
-- start_date: 2020-06-18 00:00:00 Z
-  end_date: 2020-06-18 00:00:00 Z
-  description: Sing Like a Star
-  times: 9:00am - 3:00pm
-  days: Thursday Only
-  cost: "$175.00"
   eventbrite: 
 testimonials:
 - name: Eden F.
