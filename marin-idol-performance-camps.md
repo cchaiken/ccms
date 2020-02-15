@@ -96,6 +96,10 @@ What if you could sing like the next Adele?
 
 {% include idol-camps.html %}
 
+## Early Bird Discounts Available
+
+Register before March 1st and receive a $50 discount off the cost of the week-long camps.
+
 {% assign testimonial = page.testimonials[0] %}
 {% include testimonial-card.html testimonial=testimonial %}
 
