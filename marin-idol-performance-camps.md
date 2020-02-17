@@ -17,15 +17,14 @@ camps:
   days: Monday Only
   cost: "$175.00"
   eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-how-to-ace-your-audition-tickets-94958225609"
-    target="_blank"rel="noopener noreferrer" >Register Now</a>
+    target="_blank "rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-06-16 00:00:00 Z
   end_date: 2020-06-16 00:00:00 Z
   description: Overcoming Your Fear of Performing
   times: 9:00am - 3:00pm
   days: Tuesday Only
   cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-overcome-your-fear-of-performing-tickets-94957742163"
-    target="_blank"rel="noopener noreferrer" >Register Now</a>
+  eventbrite: https://www.eventbrite.com/e/marin-idol-overcome-your-fear-of-performing-tickets-94957742163
 - start_date: 2020-06-18 00:00:00 Z
   end_date: 2020-06-18 00:00:00 Z
   description: Sing Like a Star
