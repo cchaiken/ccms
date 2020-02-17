@@ -16,49 +16,56 @@ camps:
   times: 9:00am - 3:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-how-to-ace-your-audition-tickets-94958225609"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-06-16 00:00:00 Z
   end_date: 2020-06-16 00:00:00 Z
   description: Overcoming Your Fear of Performing
   times: 9:00am - 3:00pm
   days: Tuesday Only
   cost: "$175.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-overcome-your-fear-of-performing-tickets-94957742163"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-06-18 00:00:00 Z
   end_date: 2020-06-18 00:00:00 Z
   description: Sing Like a Star
   times: 9:00am - 3:00pm
   days: Thursday Only
   cost: "$175.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-sing-like-a-star-tickets-94959052081"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-06-19 00:00:00 Z
   end_date: 2020-06-19 00:00:00 Z
   description: Performing from Stage to Classroom
   times: 9:00am - 3:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performing-from-stage-to-classroom-tickets-94957696025"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-06-22 00:00:00 Z
   end_date: 2020-06-26 00:00:00 Z
   description: 
   times: 9:00am - 3:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-camp-june-22-26-2020-tickets-94954135375"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-08-03 00:00:00 Z
   end_date: 2020-08-07 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/copy-of-marin-idol-camp-august-3-7-2020-tickets-94956492425"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 - start_date: 2020-08-10 00:00:00 Z
   end_date: 2020-08-14 00:00:00 Z
   description: 
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: 
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-camp-august-10-14-2020-tickets-94957601743"
+    target="_blank"rel="noopener noreferrer" >Register Now</a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
