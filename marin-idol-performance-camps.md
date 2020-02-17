@@ -63,8 +63,8 @@ camps:
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: <a href="http://markdeanphotography.com/" target="_blank">Mark Dean
-    Photography</a>
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-camp-august-10-14-2020-tickets-94957601743"
+    target="_blank">Register Now</a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
