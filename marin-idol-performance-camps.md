@@ -44,7 +44,7 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2020-06-22 00:00:00 Z
   end_date: 2020-06-26 00:00:00 Z
-  description: 
+  description: Marin Idol Performance Camp
   times: 9:00am - 3:00pm
   days: Mon - Fri
   cost: "$595.00"
@@ -52,7 +52,7 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2020-08-03 00:00:00 Z
   end_date: 2020-08-07 00:00:00 Z
-  description: 
+  description: Marin Idol Performance Camp
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
@@ -60,7 +60,7 @@ camps:
     target="_blank">Register Now</a>
 - start_date: 2020-08-10 00:00:00 Z
   end_date: 2020-08-14 00:00:00 Z
-  description: 
+  description: Marin Idol Performance Camp
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
