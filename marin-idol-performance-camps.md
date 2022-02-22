@@ -10,14 +10,13 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2020-06-15 00:00:00 Z
-  end_date: 2020-06-15 00:00:00 Z
+- start_date: 2022-06-13 00:00:00 Z
+  end_date: 2022-06-13 00:00:00 Z
   description: How to Ace Your Audition
-  times: 9:00am - 3:00pm
+  times: 10:00am - 3:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-how-to-ace-your-audition-tickets-94958225609"
-    target="_blank">Register Now</a>
+  eventbrite: Registration Info Coming Soon
 - start_date: 2020-06-16 00:00:00 Z
   end_date: 2020-06-16 00:00:00 Z
   description: Overcoming Your Fear of Performing
