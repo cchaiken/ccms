@@ -58,14 +58,6 @@ camps:
   cost: "$595.00"
   eventbrite: <a href="https://www.eventbrite.com/e/copy-of-marin-idol-camp-august-3-7-2020-tickets-94956492425"
     target="_blank">Register Now</a>
-- start_date: 2020-08-10 00:00:00 Z
-  end_date: 2020-08-14 00:00:00 Z
-  description: Marin Idol Performance Camp
-  times: 10:00am - 4:00pm
-  days: Mon - Fri
-  cost: "$595.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-camp-august-10-14-2020-tickets-94957601743"
-    target="_blank">Register Now</a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
