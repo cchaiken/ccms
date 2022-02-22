@@ -16,47 +16,56 @@ camps:
   times: 10:00am - 3:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: Registration Info Coming Soon
-- start_date: 2020-06-16 00:00:00 Z
-  end_date: 2020-06-16 00:00:00 Z
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-06-14 00:00:00 Z
+  end_date: 2022-06-14 00:00:00 Z
   description: Overcoming Your Fear of Performing
-  times: 9:00am - 3:00pm
+  times: 10:00am - 3:00pm
   days: Tuesday Only
   cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-overcome-your-fear-of-performing-tickets-94957742163"
-    target="_blank">Register Now</a>
-- start_date: 2020-06-18 00:00:00 Z
-  end_date: 2020-06-18 00:00:00 Z
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-06-15 00:00:00 Z
+  end_date: 2022-06-15 00:00:00 Z
   description: Sing Like a Star
-  times: 9:00am - 3:00pm
+  times: 10:00am - 3:00pm
   days: Thursday Only
   cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-sing-like-a-star-tickets-94959052081"
-    target="_blank">Register Now</a>
-- start_date: 2020-06-19 00:00:00 Z
-  end_date: 2020-06-19 00:00:00 Z
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-06-16 00:00:00 Z
+  end_date: 2022-06-16 00:00:00 Z
   description: Performing from Stage to Classroom
-  times: 9:00am - 3:00pm
+  times: 10:00am - 3:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performing-from-stage-to-classroom-tickets-94957696025"
-    target="_blank">Register Now</a>
-- start_date: 2020-06-22 00:00:00 Z
-  end_date: 2020-06-26 00:00:00 Z
-  description: Marin Idol Performance Camp
-  times: 9:00am - 3:00pm
-  days: Mon - Fri
-  cost: "$595.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-camp-june-22-26-2020-tickets-94954135375"
-    target="_blank">Register Now</a>
-- start_date: 2020-08-03 00:00:00 Z
-  end_date: 2020-08-07 00:00:00 Z
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-06-27 00:00:00 Z
+  end_date: 2022-07-01 00:00:00 Z
   description: Marin Idol Performance Camp
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/copy-of-marin-idol-camp-august-3-7-2020-tickets-94956492425"
-    target="_blank">Register Now</a>
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-08-08 00:00:00 Z
+  end_date: 2022-08-12 00:00:00 Z
+  description: Marin Idol Performance Camp
+  times: 10:00am - 4:00pm
+  days: Mon - Fri
+  cost: "$595.00"
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-08-15 00:00:00 Z
+  end_date: 2022-08-15 00:00:00 Z
+  description: How to Ace Your Audition
+  times: 10:00am - 3:00pm
+  days: Monday Only
+  cost: "$175.00"
+  eventbrite: Registration Link Coming Soon
+- start_date: 2022-08-16 00:00:00 Z
+  end_date: 2022-08-16 00:00:00 Z
+  description: Overcoming Your Fear of Performing
+  times: 10:00am - 3:00pm
+  days: Tuesday Only
+  cost: "$175.00"
+  eventbrite: Registration Link Coming Soon
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
