@@ -16,56 +16,64 @@ camps:
   times: 10:00am - 3:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/275973152127" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-06-14 00:00:00 Z
   end_date: 2022-06-14 00:00:00 Z
   description: Overcoming Your Fear of Performing
   times: 10:00am - 3:00pm
   days: Tuesday Only
   cost: "$175.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/275981176127" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-06-15 00:00:00 Z
   end_date: 2022-06-15 00:00:00 Z
   description: Sing Like a Star
   times: 10:00am - 3:00pm
   days: Thursday Only
   cost: "$175.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/275993352547" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-06-16 00:00:00 Z
   end_date: 2022-06-16 00:00:00 Z
   description: Performing from Stage to Classroom
   times: 10:00am - 3:00pm
   days: Friday Only
   cost: "$175.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/275991065707" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-06-27 00:00:00 Z
   end_date: 2022-07-01 00:00:00 Z
   description: Marin Idol Performance Camp
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/275957304727" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-08-08 00:00:00 Z
   end_date: 2022-08-12 00:00:00 Z
   description: Marin Idol Performance Camp
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/276070794177" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-08-15 00:00:00 Z
   end_date: 2022-08-15 00:00:00 Z
   description: How to Ace Your Audition
   times: 10:00am - 3:00pm
   days: Monday Only
   cost: "$175.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/276077454097" target="_blank"
+    rel="noreferrer">Register Now</a>
 - start_date: 2022-08-16 00:00:00 Z
   end_date: 2022-08-16 00:00:00 Z
   description: Overcoming Your Fear of Performing
   times: 10:00am - 3:00pm
   days: Tuesday Only
   cost: "$175.00"
-  eventbrite: Registration Link Coming Soon
+  eventbrite: <a href="https://www.eventbrite.com/e/276079630607" target="_blank"
+    rel="noreferrer">Register Now</a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
