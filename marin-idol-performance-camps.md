@@ -26,16 +26,16 @@ camps:
   cost: "$175.00"
   eventbrite: <a href="https://www.eventbrite.com/e/275981176127" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-06-15 00:00:00 Z
-  end_date: 2022-06-15 00:00:00 Z
+- start_date: 2022-06-16 00:00:00 Z
+  end_date: 2022-06-16 00:00:00 Z
   description: Sing Like a Star
   times: 10:00am - 3:00pm
   days: Thursday Only
   cost: "$175.00"
   eventbrite: <a href="https://www.eventbrite.com/e/275993352547" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-06-16 00:00:00 Z
-  end_date: 2022-06-16 00:00:00 Z
+- start_date: 2022-06-17 00:00:00 Z
+  end_date: 2022-06-17 00:00:00 Z
   description: Performing from Stage to Classroom
   times: 10:00am - 3:00pm
   days: Friday Only
