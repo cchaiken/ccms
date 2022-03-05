@@ -4,7 +4,7 @@ description: Shine onstage like a Pop Star at Marin County's most exciting music
   performance camp for school students. Single & Multi Day programs available. Sign
   up now!
 id: marin-idol-performance-camps
-hero-image: "/uploads/mill-valley-music-lessons-marin-idol.jpg"
+hero-image: "/uploads/marin-idol-banner-opt.jpg"
 intro:
   main: Become a Superstar!
   sub: Marin Idol Performance Camps
@@ -120,7 +120,7 @@ If you need child care before or after the day's lesson I can arrange that. Plea
 
 Marin Idol is a musical performance camp designed to transform and empower people between the ages of 9-18. It offers an unforgettable multi-day singing and performance immersion program in a fun and nurturing environment.
 
-![marin-idol-performance-camp-lunch.jpg](/uploads/marin-idol-performance-camp-lunch.jpg)
+![mill-valley-music-lessons-marin-idol-small.jpg](/uploads/mill-valley-music-lessons-marin-idol-small.jpg)
 
 Set among the beautiful hills of Mill Valley, my studio comes alive with the sounds of song and laughter. You’ll make new friends and form creative partnerships in a highly collaborative atmosphere.
 
