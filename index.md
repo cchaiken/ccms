@@ -49,6 +49,24 @@ redirect_from:
 - "/www.chaikenmusic.com/FREE_Introductory_Session.html"
 ---
 
+<h3 style="margin-top:3em;text-align:center;">I'm honored to have been voted <span style="color:#9A0007;">BEST VOCAL COACH</span> in the 2022 Marin IJ Readers' Choice Awards!</h3>
+
+<div style="max-width:400px;margin:2em auto 0;">
+![2022 Readers Choice winner.png](/uploads/2022%20Readers%20Choice%20winner.png)
+</div>
+
+<div style="padding:2em 0 4em;">
+I'm SO excited to share with you that I was voted "Best Vocal Coach" in Marin for 2022. What an honor and a joy to receive this award!
+
+And it is all because of YOU!
+
+Thank you so much for your continued support and care and for voting for me! It is a thrill to live my life purpose of helping my students find their own true voices so they can express themselves freely and with confidence! What a privilege to be recognized by you and the Marin County community.
+
+**THANK YOU MARIN!**
+
+<hr style="background-color:#D32F2F;border:none;height:1px;max-width:400px;margin:4em auto 0;">
+</div>
+
 **Curious to find the music inside you but don't know where to begin?**
 
 **Need to bring your skills to the top of their game?**
