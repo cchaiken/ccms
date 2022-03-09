@@ -86,3 +86,5 @@ Learning and playing music is fantastic for neurological development. It will fu
 *Everyone is unique* and my methods will adapt to where you need me most. I will custom tailor a program that gets the most out of your skills and potential, enabling you to achieve your highest objectives and share your gifts with the world.
 
 {% include lesson-cards.html %}
+
+<p style="text-align: center;">Thank you!</p>
