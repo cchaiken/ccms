@@ -61,7 +61,7 @@ Thank you so much for your continued support and care and for voting for me! It 
 
 **THANK YOU MARIN!**
 
-<hr style="background-color:#D32F2F;border:none;height:1px;max-width:400px;margin:4em auto;">
+<hr style="background-color:#ffcdc9;border:none;height:1px;max-width:500px;margin:4em auto;">
 
 **Curious to find the music inside you but don't know where to begin?**
 
