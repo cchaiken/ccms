@@ -49,7 +49,7 @@ redirect_from:
 - "/www.chaikenmusic.com/FREE_Introductory_Session.html"
 ---
 
-<h3 style="margin-top:3em;text-align:center;">I'm honored to have been voted <span style="color:#9A0007;">BEST VOCAL COACH</span> in the 2022 Marin IJ Readers' Choice Awards!</h3>
+<h3 style="margin-top:3em;text-align:center;">I'm honored to have been voted <br><span style="color:#9A0007;">BEST VOCAL COACH</span> in the<br> 2022 Marin IJ Readers' Choice Awards!</h3>
 
 ![2022 Readers Choice winner.png](/uploads/2022%20Readers%20Choice%20winner.png)
 
