@@ -6,7 +6,7 @@ id: voice-lessons
 hero-image: "/uploads/mill-valley-music-lessons-voice-lessons.jpg"
 intro:
   main: Open up and say Laaaaaah!
-  sub: Mill Valley Voice Lessons
+  sub: Voice Lessons
 testimonial:
   text:
   - I came to Caylia after years of vocal training. She is a dream. With her guidance
@@ -23,6 +23,20 @@ colophon: Banner image by <a href="http://markdeanphotography.com/" target="_bla
 redirect_from:
 - "/www.chaikenmusic.com/Voice_lessons.html"
 ---
+
+<h3 style="margin-top:3em;text-align:center;">I'm honored to have been voted <br><span style="color:#9A0007;">BEST VOCAL COACH</span> in the<br> 2022 Marin IJ Readers' Choice Awards!</h3>
+
+![2022 Readers Choice winner.png](/uploads/2022%20Readers%20Choice%20winner.png)
+
+I'm SO excited to share with you that I was voted "Best Vocal Coach" in Marin for 2022. What an honor and a joy to receive this award!
+
+And it is all because of YOU!
+
+Thank you so much for your continued support and care and for voting for me! It is a thrill to live my life purpose of helping my students find their own true voices so they can express themselves freely and with confidence! What a privilege to be recognized by you and the Marin County community.
+
+**THANK YOU MARIN!**
+
+<hr style="background-color:#ffcdc9;border:none;height:1px;max-width:500px;margin:4em auto;">
 
 ## Everybody can sing!
 

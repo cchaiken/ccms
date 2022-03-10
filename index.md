@@ -1,12 +1,13 @@
 ---
 title: Mill Valley Music Lessons
 description: Discover the joy of making music with personalized lessons in the heart
-  of Mill Valley. Voice, Piano, Performance Coaching and more. Try a free lesson!
+  of Mill Valley and world wide with remote lessons. Voice, Piano, Performance Coaching
+  and more. Try a free lesson!
 id: home
 hero-image: "/uploads/caylia-chaiken-music-studio.jpg"
 intro:
   main: Everyone is Musical!
-  sub: Mill Valley Music Lessons
+  sub: Music Lessons
 newsletter: true
 testimonial:
   text:
@@ -67,7 +68,7 @@ Thank you so much for your continued support and care and for voting for me! It 
 
 **Need to bring your skills to the top of their game?**
 
-I'll show you how to connect to your inner talents with personalized music lessons in Singing, Piano and Performance in the heart of Mill Valley.
+I'll show you how to connect to your inner talents with personalized music lessons in Singing, Piano and Performance in the heart of Mill Valley—**and world wide with remote lessons**!
 
 I've been living and breathing music education in Marin County for over 15 years and love to teach students of all ages.
 

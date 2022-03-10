@@ -6,7 +6,7 @@ id: piano-lessons
 hero-image: "/uploads/mill-valley-music-lessons-piano-lessons.jpg"
 intro:
   main: Play a song in your first lesson!
-  sub: Mill Valley Piano Lessons
+  sub: Piano Lessons
 testimonial:
   text:
   - In one year my children have learned over fifty songs!
