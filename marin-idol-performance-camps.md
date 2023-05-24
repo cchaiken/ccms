@@ -40,7 +40,7 @@ camps:
   times: 10:00am - 1:00pm
   days: Friday Only
   cost: "$195.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/275991065707" target="_blank"
+  eventbrite: <a href="https://www.eventbrite.com/e/piano-band-camp-tickets-641159594607" target="_blank"
     rel="noreferrer">Register Now</a>
 - start_date: 2023-08-07 00:00:00 Z
   end_date: 2023-08-11 00:00:00 Z
