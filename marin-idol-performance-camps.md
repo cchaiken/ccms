@@ -18,61 +18,61 @@ camps:
   cost: "$195.00"
   eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-641127298007" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-06-14 00:00:00 Z
-  end_date: 2022-06-14 00:00:00 Z
+- start_date: 2023-06-14 00:00:00 Z
+  end_date: 2023-06-14 00:00:00 Z
   description: Overcoming Your Fear of Performing
-  times: 10:00am - 3:00pm
-  days: Tuesday Only
-  cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/275981176127" target="_blank"
+  times: 10:00am - 2:00pm
+  days: Wednesday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://OverComeYourFearofPerforming1.eventbrite.com" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-06-16 00:00:00 Z
-  end_date: 2022-06-16 00:00:00 Z
+- start_date: 2023-06-15 00:00:00 Z
+  end_date: 2023-06-15 00:00:00 Z
   description: Sing Like a Star
-  times: 10:00am - 3:00pm
+  times: 10:00am - 2:00pm
   days: Thursday Only
-  cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/275993352547" target="_blank"
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/sing-like-a-star-tickets-641155662847" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-06-17 00:00:00 Z
-  end_date: 2022-06-17 00:00:00 Z
-  description: Performing from Stage to Classroom
-  times: 10:00am - 3:00pm
+- start_date: 2023-06-16 00:00:00 Z
+  end_date: 2023-06-16 00:00:00 Z
+  description: Piano Band Camp
+  times: 10:00am - 1:00pm
   days: Friday Only
-  cost: "$175.00"
+  cost: "$195.00"
   eventbrite: <a href="https://www.eventbrite.com/e/275991065707" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-06-27 00:00:00 Z
-  end_date: 2022-07-01 00:00:00 Z
+- start_date: 2023-08-07 00:00:00 Z
+  end_date: 2023-08-11 00:00:00 Z
   description: Marin Idol Performance Camp
   times: 10:00am - 4:00pm
   days: Mon - Fri
   cost: "$595.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/275957304727" target="_blank"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-2023-tickets-560052330597" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-08-08 00:00:00 Z
-  end_date: 2022-08-12 00:00:00 Z
-  description: Marin Idol Performance Camp
-  times: 10:00am - 4:00pm
-  days: Mon - Fri
-  cost: "$595.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/276070794177" target="_blank"
-    rel="noreferrer">Register Now</a>
-- start_date: 2022-08-15 00:00:00 Z
-  end_date: 2022-08-15 00:00:00 Z
+- start_date: 2023-08-14 00:00:00 Z
+  end_date: 2023-08-14 00:00:00 Z
   description: How to Ace Your Audition
-  times: 10:00am - 3:00pm
+  times: 10:00am - 2:00pm
   days: Monday Only
-  cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/276077454097" target="_blank"
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-641126335127" target="_blank"
     rel="noreferrer">Register Now</a>
-- start_date: 2022-08-16 00:00:00 Z
-  end_date: 2022-08-16 00:00:00 Z
+- start_date: 2023-08-16 00:00:00 Z
+  end_date: 2023-08-16 00:00:00 Z
   description: Overcoming Your Fear of Performing
-  times: 10:00am - 3:00pm
-  days: Tuesday Only
-  cost: "$175.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/276079630607" target="_blank"
+  times: 10:00am - 2:00pm
+  days: Wednesday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/overcome-your-fear-of-performing2-tickets-641150005927" target="_blank"
+    rel="noreferrer">Register Now</a>
+- start_date: 2023-08-17 00:00:00 Z
+  end_date: 2023-08-17 00:00:00 Z
+  description: Piano Band Camp
+  times: 10:00am - 1:00pm
+  days: Thursday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/piano-band-camp2-tickets-641161480247" target="_blank"
     rel="noreferrer">Register Now</a>
 testimonials:
 - name: Eden F.
