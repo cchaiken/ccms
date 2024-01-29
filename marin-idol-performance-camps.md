@@ -74,6 +74,14 @@ camps:
   cost: "$195.00"
   eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-813719285287?aff=oddtdtcreator"
     target="_blank" rel="noreferrer">Register Now</a>
+- start_date: 2024-08-21 00:00:00 Z
+  end_date: 2024-08-21 00:00:00 Z
+  description: Sing Like A Star!
+  times: 10:00am - 2:00pm
+  days: Wednesday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/sing-like-a-star-tickets-813726657337?aff=ebdsoporgprofile"
+    target="_blank" rel="noreferrer">Register Now</a>
 testimonials:
 - name: Eden F.
   avatar-image: "/uploads/avatar-eden-f.jpg"
