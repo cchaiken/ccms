@@ -1,12 +1,13 @@
 ---
 title: Mill Valley Music Lessons
 description: Discover the joy of making music with personalized lessons in the heart
-  of Mill Valley. Voice, Piano, Performance Coaching and more. Try a free lesson!
+  of Mill Valley and world wide with remote lessons. Voice, Piano, Performance Coaching
+  and more. Try a free lesson!
 id: home
 hero-image: "/uploads/caylia-chaiken-music-studio.jpg"
 intro:
   main: Everyone is Musical!
-  sub: Mill Valley Music Lessons
+  sub: Music Lessons
 newsletter: true
 testimonial:
   text:
@@ -49,11 +50,25 @@ redirect_from:
 - "/www.chaikenmusic.com/FREE_Introductory_Session.html"
 ---
 
+<h3 style="margin-top:3em;text-align:center;">I'm honored to have been voted <br><span style="color:#9A0007;">BEST VOCAL COACH</span> in the<br> 2022 Marin IJ Readers' Choice Awards!</h3>
+
+![2022 Readers Choice winner.png](/uploads/2022%20Readers%20Choice%20winner.png)
+
+I'm SO excited to share with you that I was voted "Best Vocal Coach" in Marin for 2022. What an honor and a joy to receive this award!
+
+And it is all because of YOU!
+
+Thank you so much for your continued support and care and for voting for me! It is a thrill to live my life purpose of helping my students find their own true voices so they can express themselves freely and with confidence! What a privilege to be recognized by you and the Marin County community.
+
+**THANK YOU MARIN!**
+
+<hr style="background-color:#ffcdc9;border:none;height:1px;max-width:500px;margin:4em auto;">
+
 **Curious to find the music inside you but don't know where to begin?**
 
 **Need to bring your skills to the top of their game?**
 
-I'll show you how to connect to your inner talents with personalized music lessons in Singing, Piano and Performance in the heart of Mill Valley.
+I'll show you how to connect to your inner talents with personalized music lessons in Singing, Piano and Performance in the heart of Mill Valley—**and world wide with remote lessons**!
 
 I've been living and breathing music education in Marin County for over 15 years and love to teach students of all ages.
 
@@ -86,3 +101,5 @@ Learning and playing music is fantastic for neurological development. It will fu
 *Everyone is unique* and my methods will adapt to where you need me most. I will custom tailor a program that gets the most out of your skills and potential, enabling you to achieve your highest objectives and share your gifts with the world.
 
 {% include lesson-cards.html %}
+
+<p style="text-align: center;">Thank you!</p>

@@ -6,7 +6,7 @@ id: performance-coaching
 hero-image: "/uploads/performance-coaching-lessons-mill-valley-banner.jpg"
 intro:
   main: Win the room over with
-  sub: Mill Valley Performance Coaching
+  sub: Performance Coaching
 testimonial:
   text:
   - I sang out - it was joyous and beautiful.  Honestly, I was a little shocked at
