@@ -10,53 +10,69 @@ intro:
   sub: Marin Idol Performance Camps
 newsletter: true
 camps:
-- start_date: 2025-06-28 00:00:00 Z
-  end_date: 2025-06-28 00:00:00 Z
-  description: How to Ace Your Audition
-  times: 12:00pm - 3:00pm
-  days: Saturday Only
-  cost: "$195.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-1397761104089?aff=oddtdtcreator"
-    target="_blank" rel="noreferrer">Register Now</a>
-- start_date: 2025-07-12 00:00:00 Z
-  end_date: 2025-07-12 00:00:00 Z
+- start_date: 2026-06-19 00:00:00 Z
+  end_date: 2026-06-19 00:00:00 Z
   description: Sing Like A Star
-  times: 12:00pm - 3:00pm
-  days: Saturday Only
-  cost: "$195.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/sing-like-a-star-tickets-1397783681619?aff=oddtdtcreator"
-    target="_blank" rel="noreferrer">Register Now</a>
-- start_date: 2025-07-18 00:00:00 Z
-  end_date: 2025-07-18 00:00:00 Z
-  description: How To Ace Your Audition
-  times: 10:00am - 1:00pm
+  times: 9:00am - 12:00pm
   days: Friday Only
   cost: "$195.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-1397762087029?aff=oddtdtcreator"
+  eventbrite: <a href="https://www.eventbrite.com/e/sing-like-a-star-tickets-1986243975198?aff=oddtdtcreator"
     target="_blank" rel="noreferrer">Register Now</a>
-- start_date: 2025-08-11 00:00:00 Z
-  end_date: 2025-08-15 00:00:00 Z
-  description: Marin Idol Performance Camp
-  times: 10:00am - 4:00pm
-  days: Mon - Fri
-  cost: "$595.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-tickets-1397796289329?aff=oddtdtcreator"
-    target="_blank" rel="noreferrer">Register Now</a>
-- start_date: 2025-08-16 00:00:00 Z
-  end_date: 2025-08-16 00:00:00 Z
-  description: Sing Like A Star
-  times: 12:00pm - 3:00pm
-  days: Saturday Only
+- start_date: 2026-06-19 00:00:00 Z
+  end_date: 2026-06-19 00:00:00 Z
+  description: More of Singing Like A Star
+  times: 1:00pm - 4:00pm
+  days: Friday Only
   cost: "$195.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/sing-like-a-star-tickets-1397795527049?aff=oddtdtcreator"
+  eventbrite: <a href="https://www.eventbrite.com/e/more-of-singing-like-a-star-tickets-1986290518410?aff=oddtdtcreator"
     target="_blank" rel="noreferrer">Register Now</a>
-- start_date: 2025-08-18 00:00:00 Z
-  end_date: 2025-08-18 00:00:00 Z
-  description: How to Ace Your Audition
+- start_date: 2026-07-14 00:00:00 Z
+  end_date: 2026-07-14 00:00:00 Z
+  description: Overcoming Your Fear of Performing
+  times: 10:00am - 1:00pm
+  days: Tuesday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/overcoming-your-fear-of-performing-tickets-1986289959739?aff=oddtdtcreator"
+    target="_blank" rel="noreferrer">Register Now</a>
+- start_date: 2026-07-15 00:00:00 Z
+  end_date: 2026-07-15 00:00:00 Z
+  description: Play and Sing!
+  times: 10:00am - 1:00pm
+  days: Wednesday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/play-and-sing-tickets-1986290194441?aff=oddtdtcreator"
+    target="_blank" rel="noreferrer">Register Now</a>
+- start_date: 2026-07-16 00:00:00 Z
+  end_date: 2026-07-16 00:00:00 Z
+  description: Sing Like A Star
+  times: 10:00am - 1:00pm
+  days: Thursday Only
+  cost: "$195.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/sing-like-a-star-tickets-1986290368963?aff=oddtdtcreator"
+    target="_blank" rel="noreferrer">Register Now</a>
+- start_date: 2026-08-03 00:00:00 Z
+  end_date: 2026-08-07 00:00:00 Z
+  description: Marin Idol Performance Camp 1
+  times: 10:00am - 4:00pm
+  days: Monday - Friday
+  cost: "$595.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-1-tickets-1986249355290?aff=oddtdtcreator"
+    target="_blank" rel="noreferrer">Register Now</a>
+- start_date: 2026-08-10 00:00:00 Z
+  end_date: 2026-08-14 00:00:00 Z
+  description: Marin Idol Performance Camp 2
+  times: 10:00am - 4:00pm
+  days: Monday - Friday
+  cost: "$595.00"
+  eventbrite: <a href="https://www.eventbrite.com/e/marin-idol-performance-camp-2-tickets-1986288245612?aff=oddtdtcreator"
+    target="_blank" rel="noreferrer">Register Now</a>
+- start_date: 2026-08-17 00:00:00 Z
+  end_date: 2026-08-17 00:00:00 Z
+  description: How To Ace Your Audition
   times: 10:00am - 1:00pm
   days: Monday Only
   cost: "$195.00"
-  eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-1397764103059?aff=oddtdtcreator"
+  eventbrite: <a href="https://www.eventbrite.com/e/how-to-ace-your-audition-tickets-1986289735067?aff=oddtdtcreator"
     target="_blank" rel="noreferrer">Register Now</a>
 testimonials:
 - name: Eden F.
