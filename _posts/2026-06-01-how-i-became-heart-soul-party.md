@@ -13,4 +13,4 @@ Studies like the "Mozart Effect" suggests that playing music before you study he
 
 As a performer, Musical Director, Vocal and Acting Coach, Arranger for Children and Adult Musical Theater productions and a credentialed California Music Teacher, I love teaching my students how to play music, feel more comfortable performing in front of an audience, learn proper vocal and breath techniques to speak and sing with more confidence, and help them find their own love for music. 
 
-Caylia Chaiken has been involved with music since she was 5 years old. She has performed, written musicals, taught musicians, and produced and directed shows. Her special love is to help you uncover your hidden talents so that you can WOW the world.
+Caylia Chaiken has been involved with music since she was 5 years old. She has performed, written musicals, taught musicians, and produced and directed shows. Her special love is to help you uncover your hidden talents so that you can WOW the world!
