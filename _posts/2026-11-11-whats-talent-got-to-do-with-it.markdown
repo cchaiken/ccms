@@ -1,6 +1,14 @@
 ---
 title: What's Talent Got to Do With It?
 date: 2026-11-11 06:46:00 Z
+categories:
+- music lessons
+- voice lessons
+- voice coaching
+- practice schedules
+- talent
+- practice makes perfect
+- learned skills
 tags:
 - talent
 - skills
