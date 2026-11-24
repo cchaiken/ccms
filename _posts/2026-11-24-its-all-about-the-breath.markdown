@@ -38,4 +38,4 @@ Now add the words. Take a low belly breath before you begin, and let the words r
 
 The next time a holiday song comes on at the grocery store, sing along with abandon! If you have a houseful of guests coming over, take a few easy breaths before you open the door. And if someone starts singing while you're clearing the table, join in. See what happens when everyone knows the chorus.
 
-## Take a breath, sing a little, and enjoy the season.
+**Take a breath, sing a little, and enjoy the season.**
