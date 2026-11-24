@@ -29,11 +29,13 @@ Now release the air on a soft, steady "sss," as if you were slowly letting the a
 Try breathing in for four counts and out for six. If that feels easy, try six counts in and eight out. Keep your shoulders relaxed, and spend about five minutes on the exercise before letting your breath return to normal.
 
 ## Take that breath into a song 
+
 Choose one line from a song you know well. Find a starting note that feels comfortable in your own vocal range. Listen for where the melody rises and falls, and notice its rhythm. That's ear training: listening, recognizing, and matching!
 
 Now add the words. Take a low belly breath before you begin, and let the words ride on a steady stream of air. Start with short phrases, and breathe wherever you would naturally pause when speaking.
 
 ## Make a little music together 
+
 The next time a holiday song comes on at the grocery store, sing along with abandon! If you have a houseful of guests coming over, take a few easy breaths before you open the door. And if someone starts singing while you're clearing the table, join in. See what happens when everyone knows the chorus.
 
 ## Take a breath, sing a little, and enjoy the season.
